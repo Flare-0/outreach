@@ -1,18 +1,40 @@
-const { chromium } = require("playwright");
+import { chromium } from "playwright";
+import express from "express";
+
+const app = express();
+app.use(express.json());
+
+const PORT = process.env.PORT || 3333;
+const UA = "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 Chrome/120 Safari/537.36";
+const BLOCKED = new Set(["image", "stylesheet", "font", "media", "ping"]);
+
+let browser = null;
+
+// --- boot browser immediately on startup ---
+async function initBrowser() {
+  browser = await chromium.launch({ headless: true });
+  console.log("🟢 Browser ready");
+
+  browser.on("disconnected", async () => {
+    console.log("🔴 Browser disconnected, restarting...");
+    browser = await chromium.launch({ headless: true });
+    console.log("🟢 Browser restarted");
+  });
+}
 
 async function scrapeUrl(url) {
-  const browser = await chromium.launch({ headless: true });
   const page = await browser.newPage();
 
-  await page.setExtraHTTPHeaders({
-    "User-Agent":
-      "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 Chrome/120 Safari/537.36",
+  await page.setExtraHTTPHeaders({ "User-Agent": UA });
+
+  await page.route("**/*", (route) => {
+    BLOCKED.has(route.request().resourceType()) ? route.abort() : route.continue();
   });
 
   try {
-    await page.goto(url, { waitUntil: "networkidle", timeout: 15000 });
+    await page.goto(url, { waitUntil: "domcontentloaded", timeout: 10000 });
   } catch {
-    await page.goto(url, { waitUntil: "domcontentloaded", timeout: 15000 });
+    // partial load is fine, we just need the DOM
   }
 
   const result = await page.evaluate(() => {
@@ -22,14 +44,12 @@ async function scrapeUrl(url) {
       if (!node) return;
       const indent = "  ".repeat(depth);
 
-      // Skip invisible/irrelevant nodes
       const skipTags = new Set([
         "SCRIPT", "STYLE", "NOSCRIPT", "SVG", "PATH",
         "HEAD", "META", "LINK", "TEMPLATE",
       ]);
       if (node.nodeType === 1 && skipTags.has(node.tagName)) return;
 
-      // Skip hidden elements
       if (node.nodeType === 1) {
         const style = window.getComputedStyle(node);
         if (style.display === "none" || style.visibility === "hidden") return;
@@ -37,7 +57,6 @@ async function scrapeUrl(url) {
 
       const tag = node.tagName?.toLowerCase();
 
-      // Media — note existence, not content
       if (tag === "img") {
         const alt = node.getAttribute("alt")?.trim();
         const src = node.getAttribute("src") || "";
@@ -64,18 +83,7 @@ async function scrapeUrl(url) {
         return;
       }
 
-      // Structural landmarks — label them
-      const landmarks = {
-        header: "HEADER",
-        nav: "NAV",
-        main: "MAIN",
-        footer: "FOOTER",
-        section: "SECTION",
-        article: "ARTICLE",
-        aside: "ASIDE",
-        form: "FORM",
-      };
-
+      const landmarks = { header: "HEADER", nav: "NAV", main: "MAIN", footer: "FOOTER", section: "SECTION", article: "ARTICLE", aside: "ASIDE", form: "FORM" };
       if (landmarks[tag]) {
         const label = node.getAttribute("aria-label") || node.getAttribute("id") || "";
         lines.push(`${indent}[${landmarks[tag]}${label ? `: ${label}` : ""}]`);
@@ -84,14 +92,12 @@ async function scrapeUrl(url) {
         return;
       }
 
-      // Headings
       if (/^h[1-6]$/.test(tag)) {
         const text = node.innerText?.trim();
         if (text) lines.push(`${indent}[${tag.toUpperCase()}] ${text}`);
         return;
       }
 
-      // Links
       if (tag === "a") {
         const text = node.innerText?.trim();
         const href = node.getAttribute("href") || "";
@@ -99,14 +105,12 @@ async function scrapeUrl(url) {
         return;
       }
 
-      // Buttons
       if (tag === "button" || node.getAttribute?.("role") === "button") {
         const text = node.innerText?.trim();
         if (text) lines.push(`${indent}[BUTTON: ${text}]`);
         return;
       }
 
-      // Input fields
       if (tag === "input" || tag === "textarea" || tag === "select") {
         const type = node.getAttribute("type") || tag;
         const placeholder = node.getAttribute("placeholder") || node.getAttribute("name") || "";
@@ -114,14 +118,12 @@ async function scrapeUrl(url) {
         return;
       }
 
-      // Text nodes
       if (node.nodeType === 3) {
         const text = node.textContent?.trim();
         if (text && text.length > 1) lines.push(`${indent}${text}`);
         return;
       }
 
-      // Everything else — recurse into children
       for (const child of node.childNodes) walk(child, depth + 1);
     }
 
@@ -129,14 +131,30 @@ async function scrapeUrl(url) {
     return lines.filter(Boolean).join("\n");
   });
 
-  await browser.close();
+  await page.close();
   return result;
 }
 
-module.exports = { scrapeUrl };
+// --- routes ---
 
-// --- quick test ---
-(async () => {
-  const text = await scrapeUrl("https://www.ycombinator.com/companies/martini");
-  console.log(text);
-})();
+app.post("/scrape", async (req, res) => {
+  const { url } = req.body;
+  if (!url) return res.status(400).json({ error: "url required" });
+
+  const start = Date.now();
+  try {
+    const text = await scrapeUrl(url);
+    res.json({ url, text, ms: Date.now() - start });
+  } catch (err) {
+    res.status(500).json({ error: err.message, ms: Date.now() - start });
+  }
+});
+
+app.get("/health", (_, res) => {
+  res.json({ status: "ok", browser: !!browser?.isConnected() });
+});
+
+// --- start ---
+initBrowser().then(() => {
+  app.listen(PORT, () => console.log(`🚀 Scraper API running on http://localhost:${PORT}`));
+});
