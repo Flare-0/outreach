@@ -4,7 +4,10 @@
   "main": "index.js",
   "type": "module",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "server": "node funcs/dataServer.js",
+    "frontend": "npx http-server frontend -p 8080 -c-1",
+    "dev": "node funcs/dataServer.js"
   },
   "keywords": [],
   "author": "",
@@ -12,6 +15,7 @@
   "description": "",
   "dependencies": {
     "@google/genai": "^1.43.0",
+    "cors": "^2.8.5",
     "csv-parse": "^6.1.0",
     "csv-stringify": "^6.6.0",
     "dotenv": "^17.3.1",
