@@ -1,0 +1,5502 @@
+[
+  {
+    "YC link": "https://www.ycombinator.com/companies/eos-ai",
+    "Name": "Eos AI",
+    "Location": "SF",
+    "Discription": "The autonomous operating system for healthcare",
+    "Batch": "Winter 2026",
+    "Type": "Healthcare",
+    "Industry": "",
+    "Website URL": "https://www.helloeos.ai/"
+  },
+  {
+    "YC link": "https://www.ycombinator.com/companies/envariant",
+    "Name": "Envariant",
+    "Location": "SF",
+    "Discription": "Interpretability and reasoning infra for foundation models.",
+    "Batch": "Winter 2026",
+    "Type": "B2B",
+    "Industry": "",
+    "Website URL": "https://envariant.ai/"
+  },
+  {
+    "YC link": "https://www.ycombinator.com/companies/sila",
+    "Name": "Sila",
+    "Location": "",
+    "Discription": "Agent & Team Communication Workspace",
+    "Batch": "Winter 2026",
+    "Type": "B2B",
+    "Industry": "Productivity",
+    "Website URL": "https://silahq.com/"
+  },
+  {
+    "YC link": "https://www.ycombinator.com/companies/cofia",
+    "Name": "Cofia",
+    "Location": "",
+    "Discription": "AI automations that write themselves",
+    "Batch": "Winter 2026",
+    "Type": "B2B",
+    "Industry": "Productivity",
+    "Website URL": "https://cofia.ai/"
+  },
+  {
+    "YC link": "https://www.ycombinator.com/companies/mango-medical-inc",
+    "Name": "Mango Medical",
+    "Location": "SF",
+    "Discription": "We simulate orthopedic surgeries based on CT scans",
+    "Batch": "Winter 2026",
+    "Type": "Healthcare",
+    "Industry": "Healthcare IT",
+    "Website URL": "https://mangomedical.io/"
+  },
+  {
+    "YC link": "https://www.ycombinator.com/companies/autostep",
+    "Name": "Autostep",
+    "Location": "SF",
+    "Discription": "Uncover repetitive tasks and automate them",
+    "Batch": "Spring 2025",
+    "Type": "B2B",
+    "Industry": "Operations",
+    "Website URL": "https://autostep.ai/"
+  },
+  {
+    "YC link": "https://www.ycombinator.com/companies/tepali",
+    "Name": "Tepali",
+    "Location": "",
+    "Discription": "AI-native operating system for medspas",
+    "Batch": "Winter 2026",
+    "Type": "B2B",
+    "Industry": "",
+    "Website URL": "https://tepali.com/"
+  },
+  {
+    "YC link": "https://www.ycombinator.com/companies/generalastro",
+    "Name": "General Astronautics",
+    "Location": "SF",
+    "Discription": "The Space Robotics Company",
+    "Batch": "Winter 2026",
+    "Type": "Industrials",
+    "Industry": "Manufacturing and Robotics",
+    "Website URL": "https://generalastro.com/"
+  },
+  {
+    "YC link": "https://www.ycombinator.com/companies/payna",
+    "Name": "Payna",
+    "Location": "",
+    "Discription": "Crypto/fintech compliance simplified.",
+    "Batch": "Winter 2026",
+    "Type": "B2B",
+    "Industry": "Finance and Accounting",
+    "Website URL": "https://"
+  },
+  {
+    "YC link": "https://www.ycombinator.com/companies/aemon",
+    "Name": "Aemon",
+    "Location": "SF",
+    "Discription": "The AI R&D Engineer",
+    "Batch": "Winter 2026",
+    "Type": "B2B",
+    "Industry": "",
+    "Website URL": "https://aemon.ai/"
+  },
+  {
+    "YC link": "https://www.ycombinator.com/companies/shortkit",
+    "Name": "shortkit",
+    "Location": "",
+    "Discription": "We make enterprise-scale short-form video really simple.",
+    "Batch": "Winter 2026",
+    "Type": "B2B",
+    "Industry": "Engineering, Product and Design",
+    "Website URL": "https://www.shortkit.dev/"
+  },
+  {
+    "YC link": "https://www.ycombinator.com/companies/doomersion",
+    "Name": "Doomersion",
+    "Location": "SF",
+    "Discription": "Doomscroll to learn languages",
+    "Batch": "Winter 2026",
+    "Type": "Consumer",
+    "Industry": "",
+    "Website URL": "https://doomersion.com/"
+  },
+  {
+    "YC link": "https://www.ycombinator.com/companies/carson",
+    "Name": "Carson",
+    "Location": "SF",
+    "Discription": "more capable than Cowork, more secure than OpenClaw",
+    "Batch": "Winter 2026",
+    "Type": "B2B",
+    "Industry": "",
+    "Website URL": "https://usecarson.com/"
+  },
+  {
+    "YC link": "https://www.ycombinator.com/companies/qomplement",
+    "Name": "qomplement",
+    "Location": "SF",
+    "Discription": "AI Agents for Document Filling",
+    "Batch": "Spring 2026",
+    "Type": "B2B",
+    "Industry": "",
+    "Website URL": "https://qomplement.com/"
+  },
+  {
+    "YC link": "https://www.ycombinator.com/companies/arga-labs",
+    "Name": "Arga Labs",
+    "Location": "SF",
+    "Discription": "The validation framework for AI agents",
+    "Batch": "Spring 2026",
+    "Type": "B2B",
+    "Industry": "",
+    "Website URL": "https://www.argalabs.com/"
+  },
+  {
+    "YC link": "https://www.ycombinator.com/companies/one-robot",
+    "Name": "One Robot",
+    "Location": "SF",
+    "Discription": "World models for VLA evals and training.",
+    "Batch": "Winter 2026",
+    "Type": "Industrials",
+    "Industry": "Manufacturing and Robotics",
+    "Website URL": "https://www.onerobot.io/"
+  },
+  {
+    "YC link": "https://www.ycombinator.com/companies/cajal-technologies",
+    "Name": "Cajal",
+    "Location": "SF",
+    "Discription": "Scaling formal verification to accelerate scientific discovery",
+    "Batch": "Winter 2026",
+    "Type": "B2B",
+    "Industry": "",
+    "Website URL": "https://caj.al/"
+  },
+  {
+    "YC link": "https://www.ycombinator.com/companies/revion",
+    "Name": "Revion",
+    "Location": "",
+    "Discription": "Intelligence for Automotive Operations",
+    "Batch": "Winter 2026",
+    "Type": "B2B",
+    "Industry": "",
+    "Website URL": "https://revion.inc/"
+  },
+  {
+    "YC link": "https://www.ycombinator.com/companies/terranox-ai",
+    "Name": "Terranox AI",
+    "Location": "SF",
+    "Discription": "AI-powered uranium exploration",
+    "Batch": "Winter 2026",
+    "Type": "Industrials",
+    "Industry": "Energy",
+    "Website URL": "https://terranox.ai/"
+  },
+  {
+    "YC link": "https://www.ycombinator.com/companies/docura-health",
+    "Name": "Docura Health",
+    "Location": "SF",
+    "Discription": "AI-Native Medico-Legal Firm",
+    "Batch": "Winter 2026",
+    "Type": "Healthcare",
+    "Industry": "",
+    "Website URL": "https://docurahealth.com/"
+  },
+  {
+    "YC link": "https://www.ycombinator.com/companies/confluence-labs",
+    "Name": "Confluence Labs",
+    "Location": "SF",
+    "Discription": "We're an AI research lab focused on learning efficiency",
+    "Batch": "Winter 2026",
+    "Type": "B2B",
+    "Industry": "",
+    "Website URL": "https://confluence.sh/"
+  },
+  {
+    "YC link": "https://www.ycombinator.com/companies/mochacare",
+    "Name": "MochaCare",
+    "Location": "SF",
+    "Discription": "AI-Supercharged Humans for Home Care Agency Growth",
+    "Batch": "Winter 2026",
+    "Type": "B2B",
+    "Industry": "Operations",
+    "Website URL": "https://www.mochacare.com/"
+  },
+  {
+    "YC link": "https://www.ycombinator.com/companies/congruent",
+    "Name": "Congruent",
+    "Location": "",
+    "Discription": "We build radars for end-to-end autonomy",
+    "Batch": "Winter 2026",
+    "Type": "Industrials",
+    "Industry": "",
+    "Website URL": "https://congruent.io/"
+  },
+  {
+    "YC link": "https://www.ycombinator.com/companies/ashr",
+    "Name": "Ashr",
+    "Location": "SF",
+    "Discription": "Mimic Users in Your Production Environment to Catch Agent Fails",
+    "Batch": "Winter 2026",
+    "Type": "B2B",
+    "Industry": "Human Resources",
+    "Website URL": "https://ashr.io/"
+  },
+  {
+    "YC link": "https://www.ycombinator.com/companies/vector-legal",
+    "Name": "Vector Legal",
+    "Location": "SF",
+    "Discription": "AI Law Firm + Legal Tech Platform for Startups",
+    "Batch": "Winter 2026",
+    "Type": "B2B",
+    "Industry": "Legal",
+    "Website URL": "https://vectorlegal.com/"
+  },
+  {
+    "YC link": "https://www.ycombinator.com/companies/end-close",
+    "Name": "End Close",
+    "Location": "SF",
+    "Discription": "AI powered reconciliation for high-volume payments companies",
+    "Batch": "Winter 2026",
+    "Type": "B2B",
+    "Industry": "Finance and Accounting",
+    "Website URL": "https://endclose.com/"
+  },
+  {
+    "YC link": "https://www.ycombinator.com/companies/proximitty",
+    "Name": "Proximitty",
+    "Location": "SF",
+    "Discription": "Autonomous loan servicing and collections",
+    "Batch": "Winter 2026",
+    "Type": "Fintech",
+    "Industry": "Credit and Lending",
+    "Website URL": "https://proximitty.ai/"
+  },
+  {
+    "YC link": "https://www.ycombinator.com/companies/brownie",
+    "Name": "IncidentFox",
+    "Location": "SF",
+    "Discription": "AI SRE agent that triages, coordinates, and fixes production incidents",
+    "Batch": "Winter 2026",
+    "Type": "B2B",
+    "Industry": "Infrastructure",
+    "Website URL": "https://incidentfox.ai/"
+  },
+  {
+    "YC link": "https://www.ycombinator.com/companies/wideframe",
+    "Name": "Wideframe",
+    "Location": "SF",
+    "Discription": "AI agent for video work outside the NLE",
+    "Batch": "Winter 2026",
+    "Type": "B2B",
+    "Industry": "",
+    "Website URL": "https://wideframe.com/"
+  },
+  {
+    "YC link": "https://www.ycombinator.com/companies/celltype",
+    "Name": "CellType",
+    "Location": "NYC",
+    "Discription": "The agentic drug company. We simulate human biology.",
+    "Batch": "Winter 2026",
+    "Type": "Healthcare",
+    "Industry": "Drug Discovery and Delivery",
+    "Website URL": "https://www.celltype.com/"
+  },
+  {
+    "YC link": "https://www.ycombinator.com/companies/polymorph",
+    "Name": "Polymorph",
+    "Location": "",
+    "Discription": "Personalized notifs & attribution for consumer and self-serve apps",
+    "Batch": "Winter 2026",
+    "Type": "B2B",
+    "Industry": "",
+    "Website URL": "https://usepolymorph.com/"
+  },
+  {
+    "YC link": "https://www.ycombinator.com/companies/sponge",
+    "Name": "Sponge",
+    "Location": "",
+    "Discription": "Financial infrastructure for the agent economy",
+    "Batch": "Winter 2026",
+    "Type": "B2B",
+    "Industry": "",
+    "Website URL": "https://paysponge.com/"
+  },
+  {
+    "YC link": "https://www.ycombinator.com/companies/return-signals",
+    "Name": "Return Signals",
+    "Location": "SF",
+    "Discription": "AI luxury concierge for E-commerce brands",
+    "Batch": "Winter 2026",
+    "Type": "B2B",
+    "Industry": "Retail",
+    "Website URL": "https://www.returnsignals.com/"
+  },
+  {
+    "YC link": "https://www.ycombinator.com/companies/unifold",
+    "Name": "Unifold",
+    "Location": "NYC",
+    "Discription": "Multi-chain deposit and payment infrastructure",
+    "Batch": "Winter 2026",
+    "Type": "Fintech",
+    "Industry": "Payments",
+    "Website URL": "https://unifold.io/"
+  },
+  {
+    "YC link": "https://www.ycombinator.com/companies/asimov",
+    "Name": "Asimov",
+    "Location": "SF",
+    "Discription": "Internet-scale marketplace for robot training data",
+    "Batch": "Winter 2026",
+    "Type": "B2B",
+    "Industry": "Supply Chain and Logistics",
+    "Website URL": "https://tryasimov.ai/"
+  },
+  {
+    "YC link": "https://www.ycombinator.com/companies/canary",
+    "Name": "Canary",
+    "Location": "SF",
+    "Discription": "The first AI QA engineer that understands your codebase",
+    "Batch": "Winter 2026",
+    "Type": "B2B",
+    "Industry": "Engineering, Product and Design",
+    "Website URL": "https://www.runcanary.ai/"
+  },
+  {
+    "YC link": "https://www.ycombinator.com/companies/usereframe",
+    "Name": "Reframe",
+    "Location": "SF",
+    "Discription": "AI agents to automate hardware procurement",
+    "Batch": "Winter 2026",
+    "Type": "B2B",
+    "Industry": "Marketing",
+    "Website URL": "http://usereframe.ai/"
+  },
+  {
+    "YC link": "https://www.ycombinator.com/companies/remy-ai",
+    "Name": "Remy AI",
+    "Location": "SF",
+    "Discription": "Automating dexterous tasks in warehouses",
+    "Batch": "Winter 2026",
+    "Type": "Industrials",
+    "Industry": "Manufacturing and Robotics",
+    "Website URL": "https://www.tryremy.ai/"
+  },
+  {
+    "YC link": "https://www.ycombinator.com/companies/zatanna",
+    "Name": "Zatanna",
+    "Location": "SF",
+    "Discription": "Adaptive Healthcare Admin Agents",
+    "Batch": "Winter 2026",
+    "Type": "B2B",
+    "Industry": "Office Management",
+    "Website URL": "https://www.zatanna.ai/"
+  },
+  {
+    "YC link": "https://www.ycombinator.com/companies/terminal-use",
+    "Name": "Terminal Use",
+    "Location": "SF",
+    "Discription": "Vercel for background agents",
+    "Batch": "Winter 2026",
+    "Type": "B2B",
+    "Industry": "Infrastructure",
+    "Website URL": "https://www.terminaluse.com/"
+  },
+  {
+    "YC link": "https://www.ycombinator.com/companies/pirislabs",
+    "Name": "Piris Labs",
+    "Location": "SF",
+    "Discription": "Inference at Light Speed",
+    "Batch": "Winter 2026",
+    "Type": "B2B",
+    "Industry": "Infrastructure",
+    "Website URL": "https://pirislabs.io/"
+  },
+  {
+    "YC link": "https://www.ycombinator.com/companies/trycardinal-ai",
+    "Name": "Cardinal",
+    "Location": "",
+    "Discription": "AI Platform for Precision Outbound",
+    "Batch": "Winter 2026",
+    "Type": "B2B",
+    "Industry": "",
+    "Website URL": "https://trycardinal.ai/"
+  },
+  {
+    "YC link": "https://www.ycombinator.com/companies/cascade",
+    "Name": "Cascade",
+    "Location": "SF",
+    "Discription": "Making Autonomous Intelligence Safe & Reliable",
+    "Batch": "Winter 2026",
+    "Type": "B2B",
+    "Industry": "Infrastructure",
+    "Website URL": "https://runcascade.com/"
+  },
+  {
+    "YC link": "https://www.ycombinator.com/companies/overshoot",
+    "Name": "Overshoot",
+    "Location": "SF",
+    "Discription": "Enable developers to build and run AI vision applications",
+    "Batch": "Winter 2026",
+    "Type": "B2B",
+    "Industry": "",
+    "Website URL": "https://overshoot.ai/"
+  },
+  {
+    "YC link": "https://www.ycombinator.com/companies/crosslayer-labs",
+    "Name": "Crosslayer Labs",
+    "Location": "SF",
+    "Discription": "Protect, monitor and defend your Internet presence",
+    "Batch": "Winter 2026",
+    "Type": "B2B",
+    "Industry": "Security",
+    "Website URL": "https://www.crosslayerlabs.com/"
+  },
+  {
+    "YC link": "https://www.ycombinator.com/companies/emdash",
+    "Name": "Emdash",
+    "Location": "SF",
+    "Discription": "Open-source Agentic Development Environment",
+    "Batch": "Winter 2026",
+    "Type": "B2B",
+    "Industry": "Productivity",
+    "Website URL": "https://emdash.sh/"
+  },
+  {
+    "YC link": "https://www.ycombinator.com/companies/origami-robotics",
+    "Name": "Origami Robotics",
+    "Location": "Millbrae, CA, USA",
+    "Discription": "Manipulate Anything Robot",
+    "Batch": "Winter 2026",
+    "Type": "Industrials",
+    "Industry": "",
+    "Website URL": "https://www.origami-robotics.com/"
+  },
+  {
+    "YC link": "https://www.ycombinator.com/companies/wayco",
+    "Name": "Wayco",
+    "Location": "",
+    "Discription": "AI operator for legal case referrals",
+    "Batch": "Winter 2026",
+    "Type": "B2B",
+    "Industry": "Legal",
+    "Website URL": "https://wayco.ai/"
+  },
+  {
+    "YC link": "https://www.ycombinator.com/companies/synthetic-sciences",
+    "Name": "Synthetic Sciences",
+    "Location": "",
+    "Discription": "AI co-scientists that run research end-to-end",
+    "Batch": "Winter 2026",
+    "Type": "B2B",
+    "Industry": "Engineering, Product and Design",
+    "Website URL": "https://syntheticsciences.ai/"
+  },
+  {
+    "YC link": "https://www.ycombinator.com/companies/maven",
+    "Name": "Maven",
+    "Location": "SF",
+    "Discription": "Payments for Voice Agents",
+    "Batch": "Winter 2026",
+    "Type": "B2B",
+    "Industry": "Infrastructure",
+    "Website URL": "https://trymaven.com/"
+  },
+  {
+    "YC link": "https://www.ycombinator.com/companies/beacon-health",
+    "Name": "Beacon Health",
+    "Location": "NYC",
+    "Discription": "AI Agents for Primary Care",
+    "Batch": "Winter 2026",
+    "Type": "Healthcare",
+    "Industry": "",
+    "Website URL": "https://www.beaconhealth.ai/"
+  },
+  {
+    "YC link": "https://www.ycombinator.com/companies/robby",
+    "Name": "Robby",
+    "Location": "SF",
+    "Discription": "Agentic revenue growth for home service businesses.",
+    "Batch": "Winter 2026",
+    "Type": "B2B",
+    "Industry": "Productivity",
+    "Website URL": "https://tryrobby.com/"
+  },
+  {
+    "YC link": "https://www.ycombinator.com/companies/unisson",
+    "Name": "Unisson",
+    "Location": "SF",
+    "Discription": "The AI product specialist for customer-facing teams",
+    "Batch": "Winter 2026",
+    "Type": "B2B",
+    "Industry": "Productivity",
+    "Website URL": "https://www.unisson.ai/"
+  },
+  {
+    "YC link": "https://www.ycombinator.com/companies/salus",
+    "Name": "Salus",
+    "Location": "SF",
+    "Discription": "Guardrails to validate your agent's actions before they execute",
+    "Batch": "Winter 2026",
+    "Type": "B2B",
+    "Industry": "Infrastructure",
+    "Website URL": "https://www.usesalus.ai/"
+  },
+  {
+    "YC link": "https://www.ycombinator.com/companies/beesafe-ai",
+    "Name": "BeeSafe AI",
+    "Location": "SF",
+    "Discription": "Stopping Scams Before They Reach Your Customers",
+    "Batch": "Winter 2026",
+    "Type": "B2B",
+    "Industry": "Security",
+    "Website URL": "https://beesafe.ai/"
+  },
+  {
+    "YC link": "https://www.ycombinator.com/companies/autumn-ai",
+    "Name": "Autumn AI",
+    "Location": "SF",
+    "Discription": "Stalk your prospects at scale.",
+    "Batch": "Winter 2026",
+    "Type": "B2B",
+    "Industry": "Infrastructure",
+    "Website URL": "https://autumnai.com/"
+  },
+  {
+    "YC link": "https://www.ycombinator.com/companies/lucent",
+    "Name": "Lucent",
+    "Location": "SF",
+    "Discription": "AI that automatically watches your session replays to detect bugs.",
+    "Batch": "Winter 2026",
+    "Type": "B2B",
+    "Industry": "",
+    "Website URL": "https://lucenthq.com/"
+  },
+  {
+    "YC link": "https://www.ycombinator.com/companies/zerosettle",
+    "Name": "ZeroSettle",
+    "Location": "",
+    "Discription": "Avoid the 30% App Store Tax by Supporting Direct Billing in your App",
+    "Batch": "Winter 2026",
+    "Type": "Fintech",
+    "Industry": "Payments",
+    "Website URL": "https://zerosettle.io/"
+  },
+  {
+    "YC link": "https://www.ycombinator.com/companies/resonate",
+    "Name": "Resonate",
+    "Location": "",
+    "Discription": "The first AI-native messaging platform.",
+    "Batch": "Winter 2026",
+    "Type": "Consumer",
+    "Industry": "",
+    "Website URL": "https://resonate.audio/"
+  },
+  {
+    "YC link": "https://www.ycombinator.com/companies/maywood",
+    "Name": "Maywood",
+    "Location": "NYC",
+    "Discription": "AI for M&A",
+    "Batch": "Winter 2026",
+    "Type": "Fintech",
+    "Industry": "Banking and Exchange",
+    "Website URL": "https://maywoodai.com/"
+  },
+  {
+    "YC link": "https://www.ycombinator.com/companies/ditto-biosciences",
+    "Name": "Ditto Biosciences",
+    "Location": "SF",
+    "Discription": "Evolutionary therapies for autoimmune disease",
+    "Batch": "Winter 2026",
+    "Type": "Healthcare",
+    "Industry": "Drug Discovery and Delivery",
+    "Website URL": "https://www.dittobio.com/"
+  },
+  {
+    "YC link": "https://www.ycombinator.com/companies/sitefire",
+    "Name": "sitefire",
+    "Location": "SF",
+    "Discription": "Marketing suite for the agentic web",
+    "Batch": "Winter 2026",
+    "Type": "B2B",
+    "Industry": "Marketing",
+    "Website URL": "https://sitefire.ai/"
+  },
+  {
+    "YC link": "https://www.ycombinator.com/companies/origin-bio",
+    "Name": "Origin",
+    "Location": "SF",
+    "Discription": "AI for safer cell & gene therapies",
+    "Batch": "Winter 2026",
+    "Type": "Healthcare",
+    "Industry": "Drug Discovery and Delivery",
+    "Website URL": "https://origin.bio/"
+  },
+  {
+    "YC link": "https://www.ycombinator.com/companies/vela",
+    "Name": "Vela",
+    "Location": "SF",
+    "Discription": "The AI Scheduling Assistant that truly knows you.",
+    "Batch": "Winter 2026",
+    "Type": "B2B",
+    "Industry": "",
+    "Website URL": "https://tryvela.ai/ps"
+  },
+  {
+    "YC link": "https://www.ycombinator.com/companies/condor-energy",
+    "Name": "Condor Energy",
+    "Location": "",
+    "Discription": "Energy OS enabling reliable, cheap and sustainable electricity supply.",
+    "Batch": "Winter 2026",
+    "Type": "Industrials",
+    "Industry": "Energy",
+    "Website URL": "https://www.condor.energy/"
+  },
+  {
+    "YC link": "https://www.ycombinator.com/companies/samora-ai",
+    "Name": "Samora AI",
+    "Location": "SF",
+    "Discription": "Multilingual voice agents with safe human escalation when needed",
+    "Batch": "Winter 2026",
+    "Type": "B2B",
+    "Industry": "",
+    "Website URL": "https://samora.ai/"
+  },
+  {
+    "YC link": "https://www.ycombinator.com/companies/sentrial",
+    "Name": "Sentrial",
+    "Location": "SF",
+    "Discription": "Production Monitoring for AI Products",
+    "Batch": "Winter 2026",
+    "Type": "B2B",
+    "Industry": "Engineering, Product and Design",
+    "Website URL": "https://sentrial.com/"
+  },
+  {
+    "YC link": "https://www.ycombinator.com/companies/beyond-reach-labs",
+    "Name": "Beyond Reach Labs",
+    "Location": "",
+    "Discription": "Space solar arrays that grow to the size of a football field in orbit",
+    "Batch": "Winter 2026",
+    "Type": "Industrials",
+    "Industry": "Aviation and Space",
+    "Website URL": "https://www.beyondreachlabs.com/"
+  },
+  {
+    "YC link": "https://www.ycombinator.com/companies/bits-2",
+    "Name": "Bits",
+    "Location": "SF",
+    "Discription": "Fast and Safe OpenClaw on the cloud",
+    "Batch": "Winter 2026",
+    "Type": "B2B",
+    "Industry": "Infrastructure",
+    "Website URL": "https://usebits.com/"
+  },
+  {
+    "YC link": "https://www.ycombinator.com/companies/rev1",
+    "Name": "REV1",
+    "Location": "SF",
+    "Discription": "Shortening hardware design cycles by automating post-CAD work",
+    "Batch": "Winter 2026",
+    "Type": "B2B",
+    "Industry": "Engineering, Product and Design",
+    "Website URL": "https://rev1.so/"
+  },
+  {
+    "YC link": "https://www.ycombinator.com/companies/fort",
+    "Name": "Fort",
+    "Location": "SF",
+    "Discription": "Strength Tracking Wearable",
+    "Batch": "Winter 2026",
+    "Type": "Consumer",
+    "Industry": "Consumer Electronics",
+    "Website URL": "https://fort.cx/"
+  },
+  {
+    "YC link": "https://www.ycombinator.com/companies/stilta",
+    "Name": "Stilta",
+    "Location": "SF",
+    "Discription": "Cursor for patent attorneys",
+    "Batch": "Winter 2026",
+    "Type": "B2B",
+    "Industry": "",
+    "Website URL": "https://stilta.com/"
+  },
+  {
+    "YC link": "https://www.ycombinator.com/companies/general-legal",
+    "Name": "General Legal",
+    "Location": "",
+    "Discription": "The AI native law firm for growth stage companies",
+    "Batch": "Winter 2026",
+    "Type": "B2B",
+    "Industry": "Legal",
+    "Website URL": "https://general.legal/"
+  },
+  {
+    "YC link": "https://www.ycombinator.com/companies/tsenta",
+    "Name": "Tsenta",
+    "Location": "",
+    "Discription": "AI-Native, On-Device Job Automation",
+    "Batch": "Summer 2026",
+    "Type": "Consumer",
+    "Industry": "Job and Career Services",
+    "Website URL": "https://tsenta.com/"
+  },
+  {
+    "YC link": "https://www.ycombinator.com/companies/fullseam",
+    "Name": "FullSeam",
+    "Location": "",
+    "Discription": "FullSeam is an AI employee for finance and accounting teams.",
+    "Batch": "Winter 2026",
+    "Type": "B2B",
+    "Industry": "Finance and Accounting",
+    "Website URL": "https://fullseam.com/"
+  },
+  {
+    "YC link": "https://www.ycombinator.com/companies/ruma-care",
+    "Name": "Ruma Care",
+    "Location": "SF",
+    "Discription": "We help clinics get patients on biologics faster",
+    "Batch": "Winter 2026",
+    "Type": "Healthcare",
+    "Industry": "",
+    "Website URL": "https://rumacare.com/"
+  },
+  {
+    "YC link": "https://www.ycombinator.com/companies/rhizome-ai",
+    "Name": "Rhizome AI",
+    "Location": "Jersey City, NJ, USA",
+    "Discription": "Always know what the FDA thinks",
+    "Batch": "Winter 2026",
+    "Type": "B2B",
+    "Industry": "",
+    "Website URL": "https://rhizomeai.com/"
+  },
+  {
+    "YC link": "https://www.ycombinator.com/companies/kyten-technologies",
+    "Name": "Kyten Technologies",
+    "Location": "Seattle, WA, USA",
+    "Discription": "Custom aerospace-grade battery pack factory",
+    "Batch": "Winter 2026",
+    "Type": "Industrials",
+    "Industry": "Manufacturing and Robotics",
+    "Website URL": "https://kytentech.com/"
+  },
+  {
+    "YC link": "https://www.ycombinator.com/companies/oximy",
+    "Name": "Oximy",
+    "Location": "SF",
+    "Discription": "The system of record for enterprise AI usage.",
+    "Batch": "Winter 2026",
+    "Type": "B2B",
+    "Industry": "Infrastructure",
+    "Website URL": "https://oximy.com/"
+  },
+  {
+    "YC link": "https://www.ycombinator.com/companies/orthogonal",
+    "Name": "Orthogonal",
+    "Location": "SF",
+    "Discription": "Agentic Payments for APIs",
+    "Batch": "Winter 2026",
+    "Type": "B2B",
+    "Industry": "Infrastructure",
+    "Website URL": "https://orthogonal.com/"
+  },
+  {
+    "YC link": "https://www.ycombinator.com/companies/fenrock-ai-yc-w26",
+    "Name": "Fenrock AI (YC W26)",
+    "Location": "SF",
+    "Discription": "The most powerful AI agents for Financial Crime Compliance",
+    "Batch": "Winter 2026",
+    "Type": "Fintech",
+    "Industry": "",
+    "Website URL": "https://fenrock.ai/"
+  },
+  {
+    "YC link": "https://www.ycombinator.com/companies/strand-ai",
+    "Name": "Strand AI",
+    "Location": "SF",
+    "Discription": "Curated multimodal datasets for biology AI",
+    "Batch": "Winter 2026",
+    "Type": "Healthcare",
+    "Industry": "Drug Discovery and Delivery",
+    "Website URL": "https://strandai.com/"
+  },
+  {
+    "YC link": "https://www.ycombinator.com/companies/catchback-cards",
+    "Name": "CatchBack Cards",
+    "Location": "SF",
+    "Discription": "a platform for maximizing the thrill of collecting trading cards",
+    "Batch": "Winter 2026",
+    "Type": "Consumer",
+    "Industry": "Gaming",
+    "Website URL": "https://catchbackcards.com/"
+  },
+  {
+    "YC link": "https://www.ycombinator.com/companies/librar-labs",
+    "Name": "Librar Labs",
+    "Location": "",
+    "Discription": "The next generation of the intelligence layer for the physical world",
+    "Batch": "Winter 2026",
+    "Type": "B2B",
+    "Industry": "",
+    "Website URL": "https://www.librarlabs.com/"
+  },
+  {
+    "YC link": "https://www.ycombinator.com/companies/inviscid-ai",
+    "Name": "Inviscid AI",
+    "Location": "SF",
+    "Discription": "Real-time Building Simulations to Optimize Energy and Operational�",
+    "Batch": "Winter 2026",
+    "Type": "B2B",
+    "Industry": "Engineering, Product and Design",
+    "Website URL": "https://inviscidai.com/"
+  },
+  {
+    "YC link": "https://www.ycombinator.com/companies/pollinate",
+    "Name": "Pollinate",
+    "Location": "SF",
+    "Discription": "AI Agents for the supply chain.",
+    "Batch": "Winter 2026",
+    "Type": "B2B",
+    "Industry": "Supply Chain and Logistics",
+    "Website URL": "https://www.pollinate.tech/"
+  },
+  {
+    "YC link": "https://www.ycombinator.com/companies/booko",
+    "Name": "Booko",
+    "Location": "SF",
+    "Discription": "Dynamic pricing for businesses that sell time slots",
+    "Batch": "Winter 2026",
+    "Type": "B2B",
+    "Industry": "",
+    "Website URL": "https://bookoapp.com/"
+  },
+  {
+    "YC link": "https://www.ycombinator.com/companies/mendral",
+    "Name": "Mendral",
+    "Location": "SF",
+    "Discription": "AI DevOps Engineer",
+    "Batch": "Winter 2026",
+    "Type": "B2B",
+    "Industry": "",
+    "Website URL": "https://mendral.com/"
+  },
+  {
+    "YC link": "https://www.ycombinator.com/companies/moda",
+    "Name": "Moda",
+    "Location": "SF",
+    "Discription": "The monitoring & analytics layer your AI agents need.",
+    "Batch": "Winter 2026",
+    "Type": "B2B",
+    "Industry": "Infrastructure",
+    "Website URL": "https://usemoda.ai/"
+  },
+  {
+    "YC link": "https://www.ycombinator.com/companies/axis-2",
+    "Name": "Axis",
+    "Location": "",
+    "Discription": "An AI Trading System for Commodities Markets",
+    "Batch": "Winter 2026",
+    "Type": "Fintech",
+    "Industry": "",
+    "Website URL": "https://axisanalysis.com/"
+  },
+  {
+    "YC link": "https://www.ycombinator.com/companies/robodock",
+    "Name": "RoboDock",
+    "Location": "SF",
+    "Discription": "Robots that run autonomous depots for autonomous fleets.",
+    "Batch": "Winter 2026",
+    "Type": "Industrials",
+    "Industry": "Energy",
+    "Website URL": "https://www.robodock.tech/"
+  },
+  {
+    "YC link": "https://www.ycombinator.com/companies/aurorin-cad",
+    "Name": "Aurorin CAD",
+    "Location": "SF",
+    "Discription": "We help hardware companies ship faster",
+    "Batch": "Winter 2026",
+    "Type": "B2B",
+    "Industry": "Engineering, Product and Design",
+    "Website URL": "https://aurorincad.com/"
+  },
+  {
+    "YC link": "https://www.ycombinator.com/companies/mousecat",
+    "Name": "MouseCat",
+    "Location": "NYC",
+    "Discription": "The AI Toolkit for Risk Teams",
+    "Batch": "Winter 2026",
+    "Type": "B2B",
+    "Industry": "",
+    "Website URL": "https://www.mousecat.ai/"
+  },
+  {
+    "YC link": "https://www.ycombinator.com/companies/arc-prize-foundation",
+    "Name": "ARC Prize Foundation",
+    "Location": "Remote",
+    "Discription": "AI benchmarks that measure general intelligence and inspire new ideas",
+    "Batch": "Winter 2026",
+    "Type": "Industrials",
+    "Industry": "",
+    "Website URL": "https://arcprize.org/"
+  },
+  {
+    "YC link": "https://www.ycombinator.com/companies/polymath",
+    "Name": "Polymath",
+    "Location": "SF",
+    "Discription": "Automating RL environment generation",
+    "Batch": "Winter 2026",
+    "Type": "B2B",
+    "Industry": "",
+    "Website URL": "https://polymathlabs.ai/"
+  },
+  {
+    "YC link": "https://www.ycombinator.com/companies/codewisp",
+    "Name": "CodeWisp",
+    "Location": "SF",
+    "Discription": "Anyone can create real games with AI",
+    "Batch": "Winter 2026",
+    "Type": "Consumer",
+    "Industry": "Gaming",
+    "Website URL": "https://codewisp.ai/"
+  },
+  {
+    "YC link": "https://www.ycombinator.com/companies/getbalance",
+    "Name": "Balance",
+    "Location": "",
+    "Discription": "Full-Stack AI Accounting",
+    "Batch": "Winter 2026",
+    "Type": "B2B",
+    "Industry": "Finance and Accounting",
+    "Website URL": "https://getbalance.ai/"
+  },
+  {
+    "YC link": "https://www.ycombinator.com/companies/grade",
+    "Name": "Grade",
+    "Location": "SF",
+    "Discription": "Payroll for performance",
+    "Batch": "Winter 2026",
+    "Type": "Fintech",
+    "Industry": "Payments",
+    "Website URL": "https://usegrade.com/"
+  },
+  {
+    "YC link": "https://www.ycombinator.com/companies/hex-security",
+    "Name": "Hex Security",
+    "Location": "SF",
+    "Discription": "Agentic Offensive Security at Scale",
+    "Batch": "Winter 2026",
+    "Type": "B2B",
+    "Industry": "Security",
+    "Website URL": "https://hex.co/"
+  },
+  {
+    "YC link": "https://www.ycombinator.com/companies/daivin",
+    "Name": "DAIVIN!",
+    "Location": "SF",
+    "Discription": "Tankless Dive Gear - Breath Autonomy at Sea, Land & Space",
+    "Batch": "Winter 2026",
+    "Type": "Industrials",
+    "Industry": "Defense",
+    "Website URL": "https://www.daivin.tech/"
+  },
+  {
+    "YC link": "https://www.ycombinator.com/companies/lance",
+    "Name": "Lance",
+    "Location": "SF",
+    "Discription": "Your Hotel's Best Employees",
+    "Batch": "Winter 2026",
+    "Type": "B2B",
+    "Industry": "",
+    "Website URL": "https://www.lance.live/"
+  },
+  {
+    "YC link": "https://www.ycombinator.com/companies/zymbly",
+    "Name": "Zymbly",
+    "Location": "",
+    "Discription": "Automates admin for aircraft technicians",
+    "Batch": "Winter 2026",
+    "Type": "B2B",
+    "Industry": "",
+    "Website URL": "https://www.zymbly.com/"
+  },
+  {
+    "YC link": "https://www.ycombinator.com/companies/dronetector",
+    "Name": "DroneTector",
+    "Location": "",
+    "Discription": "Technology to detect and track hostile drones",
+    "Batch": "Winter 2026",
+    "Type": "Industrials",
+    "Industry": "Drones",
+    "Website URL": "https://www.dronetector.com/"
+  },
+  {
+    "YC link": "https://www.ycombinator.com/companies/crow",
+    "Name": "Crow",
+    "Location": "SF",
+    "Discription": "Let users control your app through chat",
+    "Batch": "Winter 2026",
+    "Type": "B2B",
+    "Industry": "",
+    "Website URL": "https://www.usecrow.ai/"
+  },
+  {
+    "YC link": "https://www.ycombinator.com/companies/compresr",
+    "Name": "Compresr",
+    "Location": "SF",
+    "Discription": "LLM-native context compression",
+    "Batch": "Winter 2026",
+    "Type": "B2B",
+    "Industry": "Infrastructure",
+    "Website URL": "https://compresr.ai/"
+  },
+  {
+    "YC link": "https://www.ycombinator.com/companies/forum",
+    "Name": "Forum",
+    "Location": "SF",
+    "Discription": "The first regulated exchange to trade on attention.",
+    "Batch": "Winter 2026",
+    "Type": "Fintech",
+    "Industry": "",
+    "Website URL": "https://www.forum.market/"
+  },
+  {
+    "YC link": "https://www.ycombinator.com/companies/jinba",
+    "Name": "Jinba",
+    "Location": "",
+    "Discription": "Automate any enterprise workflow through chat",
+    "Batch": "Winter 2026",
+    "Type": "B2B",
+    "Industry": "",
+    "Website URL": "https://jinba.io/"
+  },
+  {
+    "YC link": "https://www.ycombinator.com/companies/voxel-energy",
+    "Name": "Voxel Energy",
+    "Location": "",
+    "Discription": "Energy independent data centers with solar and repurposed batteries.",
+    "Batch": "Winter 2026",
+    "Type": "Industrials",
+    "Industry": "Energy",
+    "Website URL": "https://voxelenergy.com/"
+  },
+  {
+    "YC link": "https://www.ycombinator.com/companies/perfectly",
+    "Name": "Perfectly",
+    "Location": "SF",
+    "Discription": "The AI-native Recruiting Operating System",
+    "Batch": "Winter 2026",
+    "Type": "B2B",
+    "Industry": "",
+    "Website URL": "https://www.perfectly.so/"
+  },
+  {
+    "YC link": "https://www.ycombinator.com/companies/clam",
+    "Name": "Clam",
+    "Location": "SF",
+    "Discription": "Enterprise-grade security for broad-access AI Agents like OpenClaw",
+    "Batch": "Winter 2026",
+    "Type": "B2B",
+    "Industry": "",
+    "Website URL": "https://tryclam.com/"
+  },
+  {
+    "YC link": "https://www.ycombinator.com/companies/byteport",
+    "Name": "Byteport",
+    "Location": "SF",
+    "Discription": "Global upload acceleration for 1GB-100TB files.",
+    "Batch": "Winter 2026",
+    "Type": "B2B",
+    "Industry": "",
+    "Website URL": "https://byteport.io/"
+  },
+  {
+    "YC link": "https://www.ycombinator.com/companies/martini",
+    "Name": "Martini",
+    "Location": "SF",
+    "Discription": "Collaborative AI-native filmmaking for professionals",
+    "Batch": "Winter 2026",
+    "Type": "B2B",
+    "Industry": "Engineering, Product and Design",
+    "Website URL": "https://martini.film/"
+  },
+  {
+    "YC link": "https://www.ycombinator.com/companies/sparkles",
+    "Name": "Sparkles",
+    "Location": "SF",
+    "Discription": "Make everyone on your team an engineer",
+    "Batch": "Winter 2026",
+    "Type": "B2B",
+    "Industry": "Engineering, Product and Design",
+    "Website URL": "https://sparkles.dev/"
+  },
+  {
+    "YC link": "https://www.ycombinator.com/companies/grazemate",
+    "Name": "GrazeMate",
+    "Location": "SF",
+    "Discription": "Robot Cowboys that Herd Cattle with AI Drones",
+    "Batch": "Winter 2026",
+    "Type": "Industrials",
+    "Industry": "Agriculture",
+    "Website URL": "https://grazemate.com/"
+  },
+  {
+    "YC link": "https://www.ycombinator.com/companies/shofo",
+    "Name": "Shofo",
+    "Location": "SF",
+    "Discription": "Common Crawl for Video",
+    "Batch": "Winter 2026",
+    "Type": "B2B",
+    "Industry": "Infrastructure",
+    "Website URL": "https://shofo.ai/"
+  },
+  {
+    "YC link": "https://www.ycombinator.com/companies/cumulus-labs",
+    "Name": "Cumulus Labs",
+    "Location": "SF",
+    "Discription": "Performant serverless GPU inference",
+    "Batch": "Winter 2026",
+    "Type": "B2B",
+    "Industry": "Infrastructure",
+    "Website URL": "https://cumuluslabs.io/"
+  },
+  {
+    "YC link": "https://www.ycombinator.com/companies/squid",
+    "Name": "Squid",
+    "Location": "",
+    "Discription": "AI-powered grid planning in your browser ?? (squid.energy)",
+    "Batch": "Winter 2026",
+    "Type": "Industrials",
+    "Industry": "Energy",
+    "Website URL": "https://squid.energy/"
+  },
+  {
+    "YC link": "https://www.ycombinator.com/companies/seeing-systems",
+    "Name": "Seeing Systems",
+    "Location": "",
+    "Discription": "AI Drone Systems for Defence",
+    "Batch": "Winter 2026",
+    "Type": "Industrials",
+    "Industry": "Defense",
+    "Website URL": "https://www.seeing-systems.com/"
+  },
+  {
+    "YC link": "https://www.ycombinator.com/companies/q2q",
+    "Name": "Q2Q",
+    "Location": "SF",
+    "Discription": "We help private equity teams find acquisition targets faster",
+    "Batch": "Winter 2026",
+    "Type": "B2B",
+    "Industry": "Finance and Accounting",
+    "Website URL": "https://www.tryq2q.com/"
+  },
+  {
+    "YC link": "https://www.ycombinator.com/companies/ritivel",
+    "Name": "Ritivel",
+    "Location": "SF",
+    "Discription": "AI-native platform for regulatory document submission",
+    "Batch": "Winter 2026",
+    "Type": "Healthcare",
+    "Industry": "Healthcare IT",
+    "Website URL": "https://www.ritivel.com/"
+  },
+  {
+    "YC link": "https://www.ycombinator.com/companies/scout-out",
+    "Name": "Scout Out",
+    "Location": "SF",
+    "Discription": "AI generated proposals for residential construction projects",
+    "Batch": "Winter 2026",
+    "Type": "Real Estate and Construction",
+    "Industry": "",
+    "Website URL": "https://scoutout.ai/"
+  },
+  {
+    "YC link": "https://www.ycombinator.com/companies/opalite-health",
+    "Name": "Opalite Health",
+    "Location": "Palo Alto, CA, USA",
+    "Discription": "Solving language barriers in healthcare",
+    "Batch": "Winter 2026",
+    "Type": "Healthcare",
+    "Industry": "",
+    "Website URL": "http://opalitehealth.com/"
+  },
+  {
+    "YC link": "https://www.ycombinator.com/companies/10x-science",
+    "Name": "10x Science",
+    "Location": "SF",
+    "Discription": "The AI-native platform for next-generation protein characterization.",
+    "Batch": "Winter 2026",
+    "Type": "B2B",
+    "Industry": "",
+    "Website URL": "https://10xscience.com/"
+  },
+  {
+    "YC link": "https://www.ycombinator.com/companies/ishikilabs",
+    "Name": "Fern (Formerly Ishiki Labs)",
+    "Location": "",
+    "Discription": "Realtime AI starting with sales",
+    "Batch": "Winter 2026",
+    "Type": "B2B",
+    "Industry": "",
+    "Website URL": "https://www.ishikilabs.ai/"
+  },
+  {
+    "YC link": "https://www.ycombinator.com/companies/copperlane",
+    "Name": "Copperlane",
+    "Location": "",
+    "Discription": "Agents for Mortgage Origination",
+    "Batch": "Winter 2026",
+    "Type": "B2B",
+    "Industry": "Finance and Accounting",
+    "Website URL": "https://www.copperlane.ai/"
+  },
+  {
+    "YC link": "https://www.ycombinator.com/companies/verdex",
+    "Name": "Verdex",
+    "Location": "SF",
+    "Discription": "Satellite Imagery Verification for Insurance",
+    "Batch": "Winter 2026",
+    "Type": "Fintech",
+    "Industry": "Insurance",
+    "Website URL": "https://www.verdexai.com/"
+  },
+  {
+    "YC link": "https://www.ycombinator.com/companies/cardboard",
+    "Name": "Cardboard",
+    "Location": "SF",
+    "Discription": "Agentic video editor",
+    "Batch": "Winter 2026",
+    "Type": "B2B",
+    "Industry": "",
+    "Website URL": "https://usecardboard.com/"
+  },
+  {
+    "YC link": "https://www.ycombinator.com/companies/fed10",
+    "Name": "Fed10",
+    "Location": "SF",
+    "Discription": "AI agents that replace your policy consultants",
+    "Batch": "Winter 2026",
+    "Type": "B2B",
+    "Industry": "Legal",
+    "Website URL": "https://www.fed10.ai/"
+  },
+  {
+    "YC link": "https://www.ycombinator.com/companies/chamber",
+    "Name": "Chamber",
+    "Location": "SF",
+    "Discription": "Autopiloting your AI infrastructure",
+    "Batch": "Winter 2026",
+    "Type": "B2B",
+    "Industry": "Infrastructure",
+    "Website URL": "https://www.usechamber.io/"
+  },
+  {
+    "YC link": "https://www.ycombinator.com/companies/arcline",
+    "Name": "Arcline",
+    "Location": "",
+    "Discription": "Startup legal work handled by elite lawyers & same-day turnaround",
+    "Batch": "Winter 2026",
+    "Type": "B2B",
+    "Industry": "Legal",
+    "Website URL": "https://www.arcline-ai.com/"
+  },
+  {
+    "YC link": "https://www.ycombinator.com/companies/spotpay",
+    "Name": "SpotPay",
+    "Location": "SF",
+    "Discription": "Cross-border Personal Finance on Stablecoins",
+    "Batch": "Winter 2026",
+    "Type": "Fintech",
+    "Industry": "Consumer Finance",
+    "Website URL": "https://www.spotpay.ai/"
+  },
+  {
+    "YC link": "https://www.ycombinator.com/companies/laurence",
+    "Name": "Laurence",
+    "Location": "",
+    "Discription": "RL for performance marketing",
+    "Batch": "Winter 2026",
+    "Type": "B2B",
+    "Industry": "Analytics",
+    "Website URL": "https://trylaurence.com/"
+  },
+  {
+    "YC link": "https://www.ycombinator.com/companies/sequence-markets",
+    "Name": "Sequence Markets",
+    "Location": "NYC",
+    "Discription": "Smarter and faster trade execution for digital assets",
+    "Batch": "Winter 2026",
+    "Type": "Fintech",
+    "Industry": "",
+    "Website URL": "https://sequencemkts.com/"
+  },
+  {
+    "YC link": "https://www.ycombinator.com/companies/tensol",
+    "Name": "Tensol",
+    "Location": "SF",
+    "Discription": "AI Employees for your Business, Powered by OpenClaw",
+    "Batch": "Winter 2026",
+    "Type": "B2B",
+    "Industry": "Infrastructure",
+    "Website URL": "https://www.tensol.ai/"
+  },
+  {
+    "YC link": "https://www.ycombinator.com/companies/galactic-resource-utilization-space-inc-gru-space",
+    "Name": "Galactic Resource Utilization Space, Inc. (GRU Space)",
+    "Location": "SF",
+    "Discription": "Building the First Hotel on the Moon",
+    "Batch": "Winter 2026",
+    "Type": "Industrials",
+    "Industry": "Aviation and Space",
+    "Website URL": "https://gru.space/"
+  },
+  {
+    "YC link": "https://www.ycombinator.com/companies/kita",
+    "Name": "Kita",
+    "Location": "SF",
+    "Discription": "Turn documents into signals for lenders",
+    "Batch": "Winter 2026",
+    "Type": "Fintech",
+    "Industry": "",
+    "Website URL": "https://www.usekita.com/"
+  },
+  {
+    "YC link": "https://www.ycombinator.com/companies/corelayer",
+    "Name": "Corelayer",
+    "Location": "SF",
+    "Discription": "AI on-call engineer that debugs using data",
+    "Batch": "Winter 2026",
+    "Type": "B2B",
+    "Industry": "Engineering, Product and Design",
+    "Website URL": "https://www.corelayer.com/"
+  },
+  {
+    "YC link": "https://www.ycombinator.com/companies/ramain",
+    "Name": "RamAIn",
+    "Location": "SF",
+    "Discription": "Super fast computer-use agents to build AI employees.",
+    "Batch": "Winter 2026",
+    "Type": "B2B",
+    "Industry": "",
+    "Website URL": "https://ramain.ai/"
+  },
+  {
+    "YC link": "https://www.ycombinator.com/companies/visibl-semiconductors",
+    "Name": "Visibl Semiconductors",
+    "Location": "SF",
+    "Discription": "AI agents for chip design.",
+    "Batch": "Winter 2026",
+    "Type": "B2B",
+    "Industry": "Engineering, Product and Design",
+    "Website URL": "https://visiblsemi.com/"
+  },
+  {
+    "YC link": "https://www.ycombinator.com/companies/sidekit",
+    "Name": "SideKit",
+    "Location": "SF",
+    "Discription": "One package to take your mobile app to production.",
+    "Batch": "Winter 2026",
+    "Type": "B2B",
+    "Industry": "Analytics",
+    "Website URL": "https://approxima.ai/"
+  },
+  {
+    "YC link": "https://www.ycombinator.com/companies/protent",
+    "Name": "Protent",
+    "Location": "SF",
+    "Discription": "Protent turns passive surveillance into proactive intelligence.",
+    "Batch": "Winter 2026",
+    "Type": "B2B",
+    "Industry": "Security",
+    "Website URL": "https://protent.ai/"
+  },
+  {
+    "YC link": "https://www.ycombinator.com/companies/human-archive",
+    "Name": "Human Archive",
+    "Location": "SF",
+    "Discription": "Multimodal data provider for robotics learning",
+    "Batch": "Winter 2026",
+    "Type": "Industrials",
+    "Industry": "Manufacturing and Robotics",
+    "Website URL": "https://www.humanarchive.ai/"
+  },
+  {
+    "YC link": "https://www.ycombinator.com/companies/veriad",
+    "Name": "Veriad",
+    "Location": "SF",
+    "Discription": "AI compliance officers",
+    "Batch": "Winter 2026",
+    "Type": "B2B",
+    "Industry": "",
+    "Website URL": "https://veriad.com/"
+  },
+  {
+    "YC link": "https://www.ycombinator.com/companies/runanywhere",
+    "Name": "RunAnywhere",
+    "Location": "",
+    "Discription": "The default way of running On-Device AI at Scale",
+    "Batch": "Winter 2026",
+    "Type": "B2B",
+    "Industry": "Infrastructure",
+    "Website URL": "https://www.runanywhere.ai/"
+  },
+  {
+    "YC link": "https://www.ycombinator.com/companies/traverse",
+    "Name": "Traverse",
+    "Location": "SF",
+    "Discription": "Data research company building RL envs for non-deterministic work",
+    "Batch": "Winter 2026",
+    "Type": "B2B",
+    "Industry": "",
+    "Website URL": "https://www.traverse.so/"
+  },
+  {
+    "YC link": "https://www.ycombinator.com/companies/arzule",
+    "Name": "Arzule",
+    "Location": "SF",
+    "Discription": "AI-native revenue engine, starting with B2B partnerships",
+    "Batch": "Winter 2026",
+    "Type": "B2B",
+    "Industry": "",
+    "Website URL": "https://www.arzule.com/"
+  },
+  {
+    "YC link": "https://www.ycombinator.com/companies/burt",
+    "Name": "Burt",
+    "Location": "SF",
+    "Discription": "AI teammates for logistics",
+    "Batch": "Winter 2026",
+    "Type": "B2B",
+    "Industry": "Supply Chain and Logistics",
+    "Website URL": "https://www.trainburt.com/"
+  },
+  {
+    "YC link": "https://www.ycombinator.com/companies/panta",
+    "Name": "Panta",
+    "Location": "SF",
+    "Discription": "Commercial insurance brokerage run by AI agents. Scales like software.",
+    "Batch": "Winter 2026",
+    "Type": "Fintech",
+    "Industry": "Insurance",
+    "Website URL": "https://pantainsure.com/"
+  },
+  {
+    "YC link": "https://www.ycombinator.com/companies/lexius",
+    "Name": "Lexius",
+    "Location": "SF",
+    "Discription": "AI Security Guards",
+    "Batch": "Winter 2026",
+    "Type": "B2B",
+    "Industry": "Security",
+    "Website URL": "https://www.lexius.ai/"
+  },
+  {
+    "YC link": "https://www.ycombinator.com/companies/pax-historia",
+    "Name": "Pax Historia",
+    "Location": "SF",
+    "Discription": "The first AI-powered grand strategy platform",
+    "Batch": "Winter 2026",
+    "Type": "Consumer",
+    "Industry": "Gaming",
+    "Website URL": "https://www.paxhistoria.co/"
+  },
+  {
+    "YC link": "https://www.ycombinator.com/companies/bujo",
+    "Name": "Bujo AI",
+    "Location": "SF",
+    "Discription": "AI voice & chat agents for sales and customer support at large B2C�",
+    "Batch": "Spring 2026",
+    "Type": "B2B",
+    "Industry": "",
+    "Website URL": "https://www.getbujo.com/"
+  },
+  {
+    "YC link": "https://www.ycombinator.com/companies/octapulse",
+    "Name": "OctaPulse",
+    "Location": "",
+    "Discription": "Robotics and computer vision to automate fish farming from hatchery�",
+    "Batch": "Winter 2026",
+    "Type": "Industrials",
+    "Industry": "Climate",
+    "Website URL": "https://www.tryoctapulse.com/"
+  },
+  {
+    "YC link": "https://www.ycombinator.com/companies/haladir",
+    "Name": "Haladir",
+    "Location": "SF",
+    "Discription": "Building Operational Superintelligence.",
+    "Batch": "Winter 2026",
+    "Type": "B2B",
+    "Industry": "Infrastructure",
+    "Website URL": "https://www.haladir.com/"
+  },
+  {
+    "YC link": "https://www.ycombinator.com/companies/constellation-space",
+    "Name": "Constellation Space",
+    "Location": "",
+    "Discription": "AI for space mission assurance.",
+    "Batch": "Winter 2026",
+    "Type": "B2B",
+    "Industry": "Analytics",
+    "Website URL": "https://constellationspace.ai/"
+  },
+  {
+    "YC link": "https://www.ycombinator.com/companies/voltair",
+    "Name": "Voltair",
+    "Location": "SF",
+    "Discription": "Self Charging Drones",
+    "Batch": "Winter 2026",
+    "Type": "Industrials",
+    "Industry": "Drones",
+    "Website URL": "https://voltairlabs.com/"
+  },
+  {
+    "YC link": "https://www.ycombinator.com/companies/mantis-biotechnology",
+    "Name": "Mantis Biotechnology",
+    "Location": "NYC",
+    "Discription": "Physics-Enhanced Datasets for Low-Resource Machine Learning",
+    "Batch": "Winter 2026",
+    "Type": "B2B",
+    "Industry": "Infrastructure",
+    "Website URL": "https://mantisbiotech.com/"
+  },
+  {
+    "YC link": "https://www.ycombinator.com/companies/axionorbital-space",
+    "Name": "AxionOrbital Space",
+    "Location": "SF",
+    "Discription": "Foundation models for 24/7 Earth Observation",
+    "Batch": "Winter 2026",
+    "Type": "Industrials",
+    "Industry": "Aviation and Space",
+    "Website URL": "https://axionorbital.space/"
+  },
+  {
+    "YC link": "https://www.ycombinator.com/companies/travo",
+    "Name": "Travo",
+    "Location": "SF",
+    "Discription": "We use AI to collect and analyze real estate data",
+    "Batch": "Winter 2026",
+    "Type": "Real Estate and Construction",
+    "Industry": "",
+    "Website URL": "https://www.travoai.com/"
+  },
+  {
+    "YC link": "https://www.ycombinator.com/companies/prana-health",
+    "Name": "Prana",
+    "Location": "SF",
+    "Discription": "An AI primary care doctor in your pocket",
+    "Batch": "Winter 2026",
+    "Type": "Healthcare",
+    "Industry": "Consumer Health and Wellness",
+    "Website URL": "https://pranadoc.com/"
+  },
+  {
+    "YC link": "https://www.ycombinator.com/companies/ressl-ai",
+    "Name": "Ressl AI",
+    "Location": "SF",
+    "Discription": "AI Transformation for the Trades",
+    "Batch": "Winter 2026",
+    "Type": "B2B",
+    "Industry": "",
+    "Website URL": "https://ressl.ai/"
+  },
+  {
+    "YC link": "https://www.ycombinator.com/companies/oxus",
+    "Name": "Oxus",
+    "Location": "SF",
+    "Discription": "AI-powered automation for internal audit workflows",
+    "Batch": "Winter 2026",
+    "Type": "B2B",
+    "Industry": "",
+    "Website URL": "https://oxus-ai.com/"
+  },
+  {
+    "YC link": "https://www.ycombinator.com/companies/legalos",
+    "Name": "LegalOS",
+    "Location": "SF",
+    "Discription": "The AI-powered law firm for complex work visas",
+    "Batch": "Winter 2026",
+    "Type": "B2B",
+    "Industry": "Legal",
+    "Website URL": "https://www.legalos.ai/"
+  },
+  {
+    "YC link": "https://www.ycombinator.com/companies/sonarly",
+    "Name": "Sonarly",
+    "Location": "SF",
+    "Discription": "AI engineer to triage and fix your production alerts",
+    "Batch": "Winter 2026",
+    "Type": "B2B",
+    "Industry": "Engineering, Product and Design",
+    "Website URL": "https://sonarly.com/"
+  },
+  {
+    "YC link": "https://www.ycombinator.com/companies/caretta",
+    "Name": "Caretta",
+    "Location": "SF",
+    "Discription": "Realtime AI for Sales Calls",
+    "Batch": "Winter 2026",
+    "Type": "B2B",
+    "Industry": "Sales",
+    "Website URL": "https://www.caretta.so/"
+  },
+  {
+    "YC link": "https://www.ycombinator.com/companies/1code-21stdev",
+    "Name": "1code (21st.dev)",
+    "Location": "SF",
+    "Discription": "Orchestration layer for coding agents",
+    "Batch": "Winter 2026",
+    "Type": "B2B",
+    "Industry": "Engineering, Product and Design",
+    "Website URL": "https://21st.dev/agents"
+  },
+  {
+    "YC link": "https://www.ycombinator.com/companies/autositu",
+    "Name": "AutoSitu",
+    "Location": "",
+    "Discription": "AI-native workspace for municipal development review",
+    "Batch": "Winter 2026",
+    "Type": "B2B",
+    "Industry": "Legal",
+    "Website URL": "https://autositu.com/"
+  },
+  {
+    "YC link": "https://www.ycombinator.com/companies/skillsync",
+    "Name": "Skillsync",
+    "Location": "SF",
+    "Discription": "Find anyone in open source",
+    "Batch": "Winter 2026",
+    "Type": "B2B",
+    "Industry": "Human Resources",
+    "Website URL": "https://skillsync.wiki/"
+  },
+  {
+    "YC link": "https://www.ycombinator.com/companies/chasi",
+    "Name": "Chasi",
+    "Location": "NYC",
+    "Discription": "AI Revenue Engine for the Equipment Industry",
+    "Batch": "Winter 2026",
+    "Type": "B2B",
+    "Industry": "",
+    "Website URL": "https://chasi.co/"
+  },
+  {
+    "YC link": "https://www.ycombinator.com/companies/o11",
+    "Name": "o11",
+    "Location": "SF",
+    "Discription": "The Most Integrated M365 AI Suite",
+    "Batch": "Winter 2026",
+    "Type": "B2B",
+    "Industry": "Finance and Accounting",
+    "Website URL": "https://o11.ai/"
+  },
+  {
+    "YC link": "https://www.ycombinator.com/companies/pocket",
+    "Name": "Pocket",
+    "Location": "",
+    "Discription": "The world's best AI note-taking device and app",
+    "Batch": "Winter 2026",
+    "Type": "Consumer",
+    "Industry": "",
+    "Website URL": "https://heypocket.com/now"
+  },
+  {
+    "YC link": "https://www.ycombinator.com/companies/bubble-lab",
+    "Name": "Bubble Lab",
+    "Location": "",
+    "Discription": "Your ops super-employee in Slack",
+    "Batch": "Winter 2026",
+    "Type": "B2B",
+    "Industry": "Engineering, Product and Design",
+    "Website URL": "https://bubblelab.ai/"
+  },
+  {
+    "YC link": "https://www.ycombinator.com/companies/autonomous-technologies-group",
+    "Name": "Autonomous Technologies Group",
+    "Location": "NYC",
+    "Discription": "Superintelligent financial advisor",
+    "Batch": "Fall 2025",
+    "Type": "Fintech",
+    "Industry": "",
+    "Website URL": "https://becomeautonomous.com/"
+  },
+  {
+    "YC link": "https://www.ycombinator.com/companies/didit",
+    "Name": "Didit",
+    "Location": "SF",
+    "Discription": "All-in-one identity platform for fast human verification.",
+    "Batch": "Winter 2026",
+    "Type": "B2B",
+    "Industry": "Infrastructure",
+    "Website URL": "https://didit.me/"
+  },
+  {
+    "YC link": "https://www.ycombinator.com/companies/patientdeskai",
+    "Name": "Patientdesk.ai",
+    "Location": "",
+    "Discription": "AI voice agent for patient calls & admin workflows",
+    "Batch": "Winter 2026",
+    "Type": "Healthcare",
+    "Industry": "Healthcare IT",
+    "Website URL": "https://patientdesk.ai/"
+  },
+  {
+    "YC link": "https://www.ycombinator.com/companies/fifth-door",
+    "Name": "Fifth Door",
+    "Location": "SF",
+    "Discription": "Create and play games with AI",
+    "Batch": "Fall 2025",
+    "Type": "Consumer",
+    "Industry": "Gaming",
+    "Website URL": "https://fifthdoor.com/"
+  },
+  {
+    "YC link": "https://www.ycombinator.com/companies/avoice",
+    "Name": "Avoice",
+    "Location": "SF",
+    "Discription": "The AI Workspace For Architects",
+    "Batch": "Winter 2026",
+    "Type": "B2B",
+    "Industry": "",
+    "Website URL": "https://avoice.co/"
+  },
+  {
+    "YC link": "https://www.ycombinator.com/companies/luel",
+    "Name": "Luel",
+    "Location": "SF",
+    "Discription": "Turning everyday words and actions into usable training data.",
+    "Batch": "Winter 2026",
+    "Type": "B2B",
+    "Industry": "Infrastructure",
+    "Website URL": "https://luel.ai/"
+  },
+  {
+    "YC link": "https://www.ycombinator.com/companies/valgo",
+    "Name": "Valgo",
+    "Location": "San Mateo, CA, USA",
+    "Discription": "Algorithmic safety validation tools for autonomy.",
+    "Batch": "Winter 2026",
+    "Type": "B2B",
+    "Industry": "Engineering, Product and Design",
+    "Website URL": "https://valgo.dev/"
+  },
+  {
+    "YC link": "https://www.ycombinator.com/companies/hlabs",
+    "Name": "Hlabs",
+    "Location": "Austin, TX, USA",
+    "Discription": "Making an industrial supply chain for building robots in the USA",
+    "Batch": "Winter 2026",
+    "Type": "Industrials",
+    "Industry": "",
+    "Website URL": "https://www.hlaboratories.com/"
+  },
+  {
+    "YC link": "https://www.ycombinator.com/companies/goldbridge",
+    "Name": "Goldbridge",
+    "Location": "",
+    "Discription": "Ramp for Real Estate",
+    "Batch": "Fall 2025",
+    "Type": "Real Estate and Construction",
+    "Industry": "Housing and Real Estate",
+    "Website URL": "https://www.goldbridgebanking.com/"
+  },
+  {
+    "YC link": "https://www.ycombinator.com/companies/corvera",
+    "Name": "Corvera",
+    "Location": "SF",
+    "Discription": "AI agents for CPG brands",
+    "Batch": "Winter 2026",
+    "Type": "B2B",
+    "Industry": "Operations",
+    "Website URL": "https://www.corvera.ai/"
+  },
+  {
+    "YC link": "https://www.ycombinator.com/companies/null-labs",
+    "Name": "Null Labs",
+    "Location": "SF",
+    "Discription": "End-to-end Simulation for Defense Autonomy",
+    "Batch": "Fall 2025",
+    "Type": "Industrials",
+    "Industry": "",
+    "Website URL": "https://n0labs.com/"
+  },
+  {
+    "YC link": "https://www.ycombinator.com/companies/tensr",
+    "Name": "Tensr",
+    "Location": "SF",
+    "Discription": "Fully autonomous robotic factories",
+    "Batch": "Fall 2025",
+    "Type": "Industrials",
+    "Industry": "Manufacturing and Robotics",
+    "Website URL": "https://tensr.com/"
+  },
+  {
+    "YC link": "https://www.ycombinator.com/companies/atlasgrid",
+    "Name": "AtlasGrid",
+    "Location": "Mountain View, CA, USA",
+    "Discription": "Accelerate Product Iteration",
+    "Batch": "Fall 2025",
+    "Type": "B2B",
+    "Industry": "Engineering, Product and Design",
+    "Website URL": "https://atlasgrid.ai/"
+  },
+  {
+    "YC link": "https://www.ycombinator.com/companies/mayflower",
+    "Name": "Mayflower",
+    "Location": "SF",
+    "Discription": "AI plug-in that automates HR immigration screening and compliance",
+    "Batch": "Fall 2025",
+    "Type": "Government",
+    "Industry": "",
+    "Website URL": "https://mayflowervisa.com/"
+  },
+  {
+    "YC link": "https://www.ycombinator.com/companies/velum-labs",
+    "Name": "Velum Labs",
+    "Location": "SF",
+    "Discription": "The OS for data quality across any stack",
+    "Batch": "Winter 2026",
+    "Type": "B2B",
+    "Industry": "",
+    "Website URL": "https://www.velum-labs.com/"
+  },
+  {
+    "YC link": "https://www.ycombinator.com/companies/logosguard",
+    "Name": "LogosGuard",
+    "Location": "SF",
+    "Discription": "The risk management software for enterprises adopting AI",
+    "Batch": "Fall 2025",
+    "Type": "B2B",
+    "Industry": "",
+    "Website URL": "https://logosguard.com/"
+  },
+  {
+    "YC link": "https://www.ycombinator.com/companies/f2",
+    "Name": "F2",
+    "Location": "NYC",
+    "Discription": "The AI platform for private markets investors",
+    "Batch": "Summer 2025",
+    "Type": "B2B",
+    "Industry": "Engineering, Product and Design",
+    "Website URL": "http://f2.ai/"
+  },
+  {
+    "YC link": "https://www.ycombinator.com/companies/scoop",
+    "Name": "Scoop",
+    "Location": "SF",
+    "Discription": "Automating regulatory submissions for life sciences",
+    "Batch": "Fall 2025",
+    "Type": "B2B",
+    "Industry": "",
+    "Website URL": "https://scooplabs.ai/"
+  },
+  {
+    "YC link": "https://www.ycombinator.com/companies/exonic",
+    "Name": "Exonic",
+    "Location": "SF",
+    "Discription": "Unsupervised Biological AI",
+    "Batch": "Fall 2025",
+    "Type": "Healthcare",
+    "Industry": "Drug Discovery and Delivery",
+    "Website URL": "https://exonic.ai/"
+  },
+  {
+    "YC link": "https://www.ycombinator.com/companies/forge-robotics",
+    "Name": "Forge Robotics",
+    "Location": "SF",
+    "Discription": "A robotics intelligence system for metal fabrication",
+    "Batch": "Fall 2025",
+    "Type": "Industrials",
+    "Industry": "Manufacturing and Robotics",
+    "Website URL": "https://forge-robotics.com/"
+  },
+  {
+    "YC link": "https://www.ycombinator.com/companies/jsx-tool",
+    "Name": "JSX Tool",
+    "Location": "",
+    "Discription": "AI-First In-Browser IDE for React Development",
+    "Batch": "Fall 2025",
+    "Type": "B2B",
+    "Industry": "Engineering, Product and Design",
+    "Website URL": "https://coasts.dev/"
+  },
+  {
+    "YC link": "https://www.ycombinator.com/companies/zephyr-fusion",
+    "Name": "Zephyr Fusion",
+    "Location": "San Diego, CA, USA",
+    "Discription": "Powering tomorrow's industrial revolution in space",
+    "Batch": "Fall 2025",
+    "Type": "Industrials",
+    "Industry": "Energy",
+    "Website URL": "https://www.zephyrfusion.com/"
+  },
+  {
+    "YC link": "https://www.ycombinator.com/companies/captain",
+    "Name": "Captain",
+    "Location": "SF",
+    "Discription": "Accurate knowledge search that scales",
+    "Batch": "Winter 2026",
+    "Type": "B2B",
+    "Industry": "Infrastructure",
+    "Website URL": "https://runcaptain.com/"
+  },
+  {
+    "YC link": "https://www.ycombinator.com/companies/thesis",
+    "Name": "Thesis",
+    "Location": "SF",
+    "Discription": "An AI lab at your fingertips.",
+    "Batch": "Fall 2025",
+    "Type": "B2B",
+    "Industry": "",
+    "Website URL": "https://thesislabs.ai/"
+  },
+  {
+    "YC link": "https://www.ycombinator.com/companies/iriscal",
+    "Name": "Iris",
+    "Location": "SF",
+    "Discription": "The Digital Extension of Yourself",
+    "Batch": "Fall 2025",
+    "Type": "Consumer",
+    "Industry": "",
+    "Website URL": "https://textiris.com/"
+  },
+  {
+    "YC link": "https://www.ycombinator.com/companies/castari",
+    "Name": "Castari",
+    "Location": "",
+    "Discription": "Vercel for AI Agents � One click deploy for the Claude Agent SDK",
+    "Batch": "Fall 2025",
+    "Type": "B2B",
+    "Industry": "Infrastructure",
+    "Website URL": "https://castari.com/"
+  },
+  {
+    "YC link": "https://www.ycombinator.com/companies/zarna",
+    "Name": "Zarna",
+    "Location": "SF",
+    "Discription": "AI Associates for Private Capital",
+    "Batch": "Fall 2025",
+    "Type": "B2B",
+    "Industry": "Finance and Accounting",
+    "Website URL": "https://www.zarnaai.com/"
+  },
+  {
+    "YC link": "https://www.ycombinator.com/companies/nessie",
+    "Name": "Nessie",
+    "Location": "SF",
+    "Discription": "Shareable AI Brains for Everyone",
+    "Batch": "Fall 2025",
+    "Type": "Consumer",
+    "Industry": "",
+    "Website URL": "https://nessielabs.com/"
+  },
+  {
+    "YC link": "https://www.ycombinator.com/companies/amera",
+    "Name": "Amera",
+    "Location": "",
+    "Discription": "Automating claims processing workflows for health insurance payers.",
+    "Batch": "Fall 2025",
+    "Type": "Fintech",
+    "Industry": "Insurance",
+    "Website URL": "https://amerahealthsolutions.com/"
+  },
+  {
+    "YC link": "https://www.ycombinator.com/companies/diligencesquared-inc",
+    "Name": "DiligenceSquared",
+    "Location": "SF",
+    "Discription": "AI-powered market due diligence for investment decisions",
+    "Batch": "Fall 2025",
+    "Type": "B2B",
+    "Industry": "Analytics",
+    "Website URL": "https://diligencesquared.com/"
+  },
+  {
+    "YC link": "https://www.ycombinator.com/companies/hireglide",
+    "Name": "HireGlide",
+    "Location": "SF",
+    "Discription": "The AI-native job board",
+    "Batch": "Fall 2025",
+    "Type": "B2B",
+    "Industry": "Recruiting and Talent",
+    "Website URL": "https://www.hireglide.ai/"
+  },
+  {
+    "YC link": "https://www.ycombinator.com/companies/agentic-fabriq",
+    "Name": "Agentic Fabriq",
+    "Location": "Sunnyvale, CA, USA",
+    "Discription": "Okta for Agents.",
+    "Batch": "Winter 2026",
+    "Type": "B2B",
+    "Industry": "",
+    "Website URL": "https://www.agenticfabriq.com/"
+  },
+  {
+    "YC link": "https://www.ycombinator.com/companies/saffron-health",
+    "Name": "Saffron Health",
+    "Location": "",
+    "Discription": "AI-powered care coordination for primary care",
+    "Batch": "Spring 2025",
+    "Type": "Healthcare",
+    "Industry": "Healthcare Services",
+    "Website URL": "https://www.saffron.health/"
+  },
+  {
+    "YC link": "https://www.ycombinator.com/companies/efference",
+    "Name": "Efference",
+    "Location": "SF",
+    "Discription": "",
+    "Batch": "Fall 2025",
+    "Type": "Industrials",
+    "Industry": "Manufacturing and Robotics",
+    "Website URL": "https://efference.ai/"
+  },
+  {
+    "YC link": "https://www.ycombinator.com/companies/inspector",
+    "Name": "Inspector",
+    "Location": "SF",
+    "Discription": "AI IDE for front-end development",
+    "Batch": "Fall 2025",
+    "Type": "B2B",
+    "Industry": "Engineering, Product and Design",
+    "Website URL": "https://www.tryinspector.com/"
+  },
+  {
+    "YC link": "https://www.ycombinator.com/companies/digipals",
+    "Name": "Digipals",
+    "Location": "SF",
+    "Discription": "The future of Social in the age of AI",
+    "Batch": "Fall 2025",
+    "Type": "Consumer",
+    "Industry": "Social",
+    "Website URL": "https://www.digipals.app/"
+  },
+  {
+    "YC link": "https://www.ycombinator.com/companies/item",
+    "Name": "item",
+    "Location": "SF",
+    "Discription": "The AI-Native CRM that works for you",
+    "Batch": "Fall 2025",
+    "Type": "B2B",
+    "Industry": "Sales",
+    "Website URL": "https://item.app/"
+  },
+  {
+    "YC link": "https://www.ycombinator.com/companies/scott-ai",
+    "Name": "Scott AI",
+    "Location": "NYC",
+    "Discription": "Agentic Workspace for Engineering Team Alignment",
+    "Batch": "Fall 2025",
+    "Type": "B2B",
+    "Industry": "",
+    "Website URL": "https://tryscott.ai/"
+  },
+  {
+    "YC link": "https://www.ycombinator.com/companies/savahq",
+    "Name": "Sava",
+    "Location": "",
+    "Discription": "Building the future of trusts",
+    "Batch": "Fall 2025",
+    "Type": "Fintech",
+    "Industry": "",
+    "Website URL": "https://www.savahq.com/"
+  },
+  {
+    "YC link": "https://www.ycombinator.com/companies/lakonia",
+    "Name": "Lakonia",
+    "Location": "SF",
+    "Discription": "Delivering AI-powered situational awareness in tactical environments.",
+    "Batch": "Fall 2025",
+    "Type": "Government",
+    "Industry": "",
+    "Website URL": "https://lakonia.us.com/"
+  },
+  {
+    "YC link": "https://www.ycombinator.com/companies/lunavo",
+    "Name": "Lunavo",
+    "Location": "SF",
+    "Discription": "Lunavo is the AI assistant for carriers.",
+    "Batch": "Fall 2025",
+    "Type": "B2B",
+    "Industry": "Supply Chain and Logistics",
+    "Website URL": "https://lunavo.ai/"
+  },
+  {
+    "YC link": "https://www.ycombinator.com/companies/brickwise",
+    "Name": "Brickwise",
+    "Location": "",
+    "Discription": "AI property manager for landlords and estate agents",
+    "Batch": "Fall 2025",
+    "Type": "Real Estate and Construction",
+    "Industry": "Housing and Real Estate",
+    "Website URL": "https://www.brickwiseai.com/"
+  },
+  {
+    "YC link": "https://www.ycombinator.com/companies/tornyol",
+    "Name": "Tornyol",
+    "Location": "",
+    "Discription": "We build micro-drones that kill mosquitoes.",
+    "Batch": "Fall 2025",
+    "Type": "Consumer",
+    "Industry": "Consumer Electronics",
+    "Website URL": "https://tornyol.com/"
+  },
+  {
+    "YC link": "https://www.ycombinator.com/companies/anto-biosciences",
+    "Name": "Anto Biosciences",
+    "Location": "SF",
+    "Discription": "A Foundation Model for Microbial Communities.",
+    "Batch": "Fall 2025",
+    "Type": "Healthcare",
+    "Industry": "",
+    "Website URL": "https://www.anto.bio/"
+  },
+  {
+    "YC link": "https://www.ycombinator.com/companies/the-hog",
+    "Name": "The Hog",
+    "Location": "",
+    "Discription": "AI Demand Gen for Companies",
+    "Batch": "Fall 2025",
+    "Type": "B2B",
+    "Industry": "Marketing",
+    "Website URL": "https://thehog.ai/"
+  },
+  {
+    "YC link": "https://www.ycombinator.com/companies/overdrive-health",
+    "Name": "Overdrive Health",
+    "Location": "NYC",
+    "Discription": "AI Powered Medical Billing",
+    "Batch": "Winter 2026",
+    "Type": "Healthcare",
+    "Industry": "Healthcare Services",
+    "Website URL": "https://overdrive.health/"
+  },
+  {
+    "YC link": "https://www.ycombinator.com/companies/kaigo-health",
+    "Name": "Kaigo Health",
+    "Location": "SF",
+    "Discription": "AI outpatient care workforce",
+    "Batch": "Fall 2025",
+    "Type": "Healthcare",
+    "Industry": "Healthcare IT",
+    "Website URL": "https://www.kaigohealth.ai/"
+  },
+  {
+    "YC link": "https://www.ycombinator.com/companies/norra",
+    "Name": "Norra",
+    "Location": "SF",
+    "Discription": "Automating equipment operations for nursing facilities",
+    "Batch": "Fall 2025",
+    "Type": "Healthcare",
+    "Industry": "",
+    "Website URL": "https://www.norra.io/"
+  },
+  {
+    "YC link": "https://www.ycombinator.com/companies/karumi",
+    "Name": "Karumi",
+    "Location": "",
+    "Discription": "The Waymo of Personalized demos",
+    "Batch": "Fall 2025",
+    "Type": "B2B",
+    "Industry": "Sales",
+    "Website URL": "https://www.karumi.ai/"
+  },
+  {
+    "YC link": "https://www.ycombinator.com/companies/uselemma",
+    "Name": "Lemma",
+    "Location": "SF",
+    "Discription": "Continuous learning for AI agents",
+    "Batch": "Fall 2025",
+    "Type": "B2B",
+    "Industry": "Engineering, Product and Design",
+    "Website URL": "https://www.uselemma.ai/"
+  },
+  {
+    "YC link": "https://www.ycombinator.com/companies/rovr",
+    "Name": "Rovr",
+    "Location": "SF",
+    "Discription": "AI FDE Engine that runs your engineering workflows",
+    "Batch": "Fall 2025",
+    "Type": "B2B",
+    "Industry": "Engineering, Product and Design",
+    "Website URL": "https://www.withrovr.com/"
+  },
+  {
+    "YC link": "https://www.ycombinator.com/companies/logical",
+    "Name": "Logical",
+    "Location": "SF",
+    "Discription": "A proactive desktop copilot. Clippy, but actually good.",
+    "Batch": "Fall 2025",
+    "Type": "B2B",
+    "Industry": "Productivity",
+    "Website URL": "https://trylogical.ai/"
+  },
+  {
+    "YC link": "https://www.ycombinator.com/companies/aspect-inc",
+    "Name": "Aspect",
+    "Location": "",
+    "Discription": "AI Visual Understanding for Multimodal Data",
+    "Batch": "Fall 2025",
+    "Type": "B2B",
+    "Industry": "Engineering, Product and Design",
+    "Website URL": "https://aspect.inc/"
+  },
+  {
+    "YC link": "https://www.ycombinator.com/companies/parse-bot",
+    "Name": "Parse",
+    "Location": "",
+    "Discription": "Build an API to interact with any website.",
+    "Batch": "Fall 2025",
+    "Type": "B2B",
+    "Industry": "",
+    "Website URL": "https://parse.bot/"
+  },
+  {
+    "YC link": "https://www.ycombinator.com/companies/moss",
+    "Name": "Moss",
+    "Location": "San Mateo, CA, USA",
+    "Discription": "Real-time semantic search for Conversational AI",
+    "Batch": "Fall 2025",
+    "Type": "B2B",
+    "Industry": "",
+    "Website URL": "https://usemoss.dev/"
+  },
+  {
+    "YC link": "https://www.ycombinator.com/companies/playvision",
+    "Name": "PlayVision",
+    "Location": "SF",
+    "Discription": "AI Moneyball for Sports",
+    "Batch": "Fall 2025",
+    "Type": "B2B",
+    "Industry": "Analytics",
+    "Website URL": "https://withplayvision.ai/"
+  },
+  {
+    "YC link": "https://www.ycombinator.com/companies/rovi-health",
+    "Name": "Rovi Health",
+    "Location": "NYC",
+    "Discription": "AI healthcare concierge for employees",
+    "Batch": "Fall 2025",
+    "Type": "Healthcare",
+    "Industry": "",
+    "Website URL": "https://www.rovi.health/"
+  },
+  {
+    "YC link": "https://www.ycombinator.com/companies/aleph-lab",
+    "Name": "Aleph Lab",
+    "Location": "SF",
+    "Discription": "AI language buddy in the games kids love",
+    "Batch": "Fall 2025",
+    "Type": "Consumer",
+    "Industry": "",
+    "Website URL": "http://alephlab.ai/"
+  },
+  {
+    "YC link": "https://www.ycombinator.com/companies/mantle",
+    "Name": "Mantle",
+    "Location": "",
+    "Discription": "Build internal agents to automate back office work with one prompt",
+    "Batch": "Fall 2025",
+    "Type": "B2B",
+    "Industry": "Operations",
+    "Website URL": "https://www.mantle.work/"
+  },
+  {
+    "YC link": "https://www.ycombinator.com/companies/lightberry",
+    "Name": "Lightberry",
+    "Location": "SF",
+    "Discription": "The social brain for robots.",
+    "Batch": "Fall 2025",
+    "Type": "Industrials",
+    "Industry": "Manufacturing and Robotics",
+    "Website URL": "https://lightberry.com/"
+  },
+  {
+    "YC link": "https://www.ycombinator.com/companies/locus",
+    "Name": "Locus",
+    "Location": "",
+    "Discription": "Payment infrastructure for AI agents",
+    "Batch": "Fall 2025",
+    "Type": "B2B",
+    "Industry": "Engineering, Product and Design",
+    "Website URL": "https://paywithlocus.com/"
+  },
+  {
+    "YC link": "https://www.ycombinator.com/companies/clad-labs",
+    "Name": "Clad Labs",
+    "Location": "SF",
+    "Discription": "the brainrot ide",
+    "Batch": "Fall 2025",
+    "Type": "Consumer",
+    "Industry": "",
+    "Website URL": "https://cladlabs.ai/"
+  },
+  {
+    "YC link": "https://www.ycombinator.com/companies/sciloop",
+    "Name": "Sciloop",
+    "Location": "SF",
+    "Discription": "AI Co-Scientist that automates ML experimentation and analysis.",
+    "Batch": "Fall 2025",
+    "Type": "B2B",
+    "Industry": "Productivity",
+    "Website URL": "https://sciloop.dev/"
+  },
+  {
+    "YC link": "https://www.ycombinator.com/companies/arcten",
+    "Name": "Arcten",
+    "Location": "SF",
+    "Discription": "We make any product AI-native in an afternoon",
+    "Batch": "Fall 2025",
+    "Type": "B2B",
+    "Industry": "",
+    "Website URL": "https://arcten.com/"
+  },
+  {
+    "YC link": "https://www.ycombinator.com/companies/velvet",
+    "Name": "Velvet",
+    "Location": "SF",
+    "Discription": "Data for world models",
+    "Batch": "Fall 2025",
+    "Type": "B2B",
+    "Industry": "",
+    "Website URL": "https://velvet.video/"
+  },
+  {
+    "YC link": "https://www.ycombinator.com/companies/kestrel-ai",
+    "Name": "Kestrel AI",
+    "Location": "SF",
+    "Discription": "AI-Native Cloud Incident Response Platform",
+    "Batch": "Fall 2025",
+    "Type": "B2B",
+    "Industry": "Security",
+    "Website URL": "https://usekestrel.ai/"
+  },
+  {
+    "YC link": "https://www.ycombinator.com/companies/nucleo",
+    "Name": "Nucleo",
+    "Location": "",
+    "Discription": "The first Agentic platform for Oncology",
+    "Batch": "Fall 2025",
+    "Type": "Healthcare",
+    "Industry": "",
+    "Website URL": "https://nucleoresearch.com/"
+  },
+  {
+    "YC link": "https://www.ycombinator.com/companies/alt-x",
+    "Name": "Alt-X",
+    "Location": "SF",
+    "Discription": "Automation for institutional-grade financial modeling in Excel",
+    "Batch": "Fall 2025",
+    "Type": "Fintech",
+    "Industry": "",
+    "Website URL": "https://alt-x.co/"
+  },
+  {
+    "YC link": "https://www.ycombinator.com/companies/caddy",
+    "Name": "Caddy",
+    "Location": "",
+    "Discription": "The voice interface that works proactively for you",
+    "Batch": "Fall 2025",
+    "Type": "B2B",
+    "Industry": "Engineering, Product and Design",
+    "Website URL": "https://trycaddy.ai/"
+  },
+  {
+    "YC link": "https://www.ycombinator.com/companies/allus-ai",
+    "Name": "Allus AI",
+    "Location": "Atlanta, GA, USA",
+    "Discription": "Transforming manufacturing with our next-gen Vision Foundation Model",
+    "Batch": "Fall 2025",
+    "Type": "Industrials",
+    "Industry": "Manufacturing and Robotics",
+    "Website URL": "https://allus.ai/"
+  },
+  {
+    "YC link": "https://www.ycombinator.com/companies/nivara",
+    "Name": "Nivara",
+    "Location": "SF",
+    "Discription": "The intelligence layer for how your teams use AI",
+    "Batch": "Fall 2025",
+    "Type": "B2B",
+    "Industry": "Infrastructure",
+    "Website URL": "https://getnivara.com/"
+  },
+  {
+    "YC link": "https://www.ycombinator.com/companies/nori",
+    "Name": "Nori",
+    "Location": "NYC",
+    "Discription": "AI health coach in your pocket",
+    "Batch": "Fall 2025",
+    "Type": "Healthcare",
+    "Industry": "Consumer Health and Wellness",
+    "Website URL": "https://nori.ai/"
+  },
+  {
+    "YC link": "https://www.ycombinator.com/companies/miniswap",
+    "Name": "Miniswap",
+    "Location": "SF",
+    "Discription": "The Marketplace for Complex Hobbies",
+    "Batch": "Fall 2025",
+    "Type": "Consumer",
+    "Industry": "Gaming",
+    "Website URL": "https://miniswap.gg/"
+  },
+  {
+    "YC link": "https://www.ycombinator.com/companies/crunched",
+    "Name": "Crunched",
+    "Location": "",
+    "Discription": "Excel AI analyst for Power Users",
+    "Batch": "Fall 2025",
+    "Type": "B2B",
+    "Industry": "Finance and Accounting",
+    "Website URL": "https://usecrunched.com/"
+  },
+  {
+    "YC link": "https://www.ycombinator.com/companies/boom-ai",
+    "Name": "Boom AI",
+    "Location": "SF",
+    "Discription": "AI growth team for e-commerce brands",
+    "Batch": "Fall 2025",
+    "Type": "B2B",
+    "Industry": "",
+    "Website URL": "https://useboom.ai/"
+  },
+  {
+    "YC link": "https://www.ycombinator.com/companies/automax-ai",
+    "Name": "Automax.ai",
+    "Location": "SF",
+    "Discription": "AI native real-estate appraisal firm",
+    "Batch": "Fall 2025",
+    "Type": "Real Estate and Construction",
+    "Industry": "Housing and Real Estate",
+    "Website URL": "https://automax.ai/"
+  },
+  {
+    "YC link": "https://www.ycombinator.com/companies/codyco",
+    "Name": "Codyco",
+    "Location": "",
+    "Discription": "The AI Reservation Team for Hotel Groups",
+    "Batch": "Fall 2025",
+    "Type": "B2B",
+    "Industry": "",
+    "Website URL": "https://www.codyco.ai/en"
+  },
+  {
+    "YC link": "https://www.ycombinator.com/companies/expected-parrot",
+    "Name": "Expected Parrot",
+    "Location": "Cambridge, MA, USA",
+    "Discription": "Simulate your customers with AI agents",
+    "Batch": "Fall 2025",
+    "Type": "B2B",
+    "Industry": "",
+    "Website URL": "https://www.expectedparrot.com/"
+  },
+  {
+    "YC link": "https://www.ycombinator.com/companies/aircaps",
+    "Name": "AirCaps",
+    "Location": "SF",
+    "Discription": "The AI copilot for in-person conversations.",
+    "Batch": "Fall 2025",
+    "Type": "Consumer",
+    "Industry": "",
+    "Website URL": "https://aircaps.com/"
+  },
+  {
+    "YC link": "https://www.ycombinator.com/companies/lapis",
+    "Name": "Lapis",
+    "Location": "SF",
+    "Discription": "AI Image Ads for Meta, Linkedin, and Google",
+    "Batch": "Fall 2025",
+    "Type": "B2B",
+    "Industry": "Analytics",
+    "Website URL": "https://www.trylapis.com/"
+  },
+  {
+    "YC link": "https://www.ycombinator.com/companies/hyperspell",
+    "Name": "Hyperspell",
+    "Location": "SF",
+    "Discription": "Memory for AI Agents",
+    "Batch": "Fall 2025",
+    "Type": "B2B",
+    "Industry": "Infrastructure",
+    "Website URL": "https://hyperspell.com/"
+  },
+  {
+    "YC link": "https://www.ycombinator.com/companies/semiotic",
+    "Name": "Semiotic",
+    "Location": "SF",
+    "Discription": "Studio-Grade Design at Scale",
+    "Batch": "Fall 2025",
+    "Type": "B2B",
+    "Industry": "Engineering, Product and Design",
+    "Website URL": "http://semiotic.com/"
+  },
+  {
+    "YC link": "https://www.ycombinator.com/companies/aside",
+    "Name": "Aside",
+    "Location": "SF",
+    "Discription": "Live answer copilot for enterprise tech sales",
+    "Batch": "Fall 2025",
+    "Type": "B2B",
+    "Industry": "Sales",
+    "Website URL": "https://asidehq.com/"
+  },
+  {
+    "YC link": "https://www.ycombinator.com/companies/play-health",
+    "Name": "Play Health",
+    "Location": "Boulder, CO, USA",
+    "Discription": "Perimenopause Care Platform",
+    "Batch": "Fall 2025",
+    "Type": "Healthcare",
+    "Industry": "",
+    "Website URL": "http://playhealth.com/"
+  },
+  {
+    "YC link": "https://www.ycombinator.com/companies/absurd",
+    "Name": "Absurd",
+    "Location": "",
+    "Discription": "AI Brand and Performance Ads at Scale",
+    "Batch": "Fall 2025",
+    "Type": "B2B",
+    "Industry": "Marketing",
+    "Website URL": "https://absurd.com/"
+  },
+  {
+    "YC link": "https://www.ycombinator.com/companies/articulate",
+    "Name": "Articulate",
+    "Location": "SF",
+    "Discription": "Automatic Construction Drawing Clash Detection",
+    "Batch": "Fall 2025",
+    "Type": "Real Estate and Construction",
+    "Industry": "Construction",
+    "Website URL": "https://usearticulate.com/"
+  },
+  {
+    "YC link": "https://www.ycombinator.com/companies/compyle",
+    "Name": "Compyle",
+    "Location": "SF",
+    "Discription": "The coding agent that actually collaborates with you",
+    "Batch": "Fall 2025",
+    "Type": "B2B",
+    "Industry": "Engineering, Product and Design",
+    "Website URL": "https://compyle.ai/"
+  },
+  {
+    "YC link": "https://www.ycombinator.com/companies/leadbay",
+    "Name": "Leadbay",
+    "Location": "SF",
+    "Discription": "Discover and qualify SMB leads that couldn't be found before.",
+    "Batch": "Fall 2025",
+    "Type": "B2B",
+    "Industry": "Sales",
+    "Website URL": "https://leadbay.ai/"
+  },
+  {
+    "YC link": "https://www.ycombinator.com/companies/cortex-ai",
+    "Name": "Cortex AI",
+    "Location": "SF",
+    "Discription": "Large-scale real-world robot & human data for embodied AI",
+    "Batch": "Fall 2025",
+    "Type": "Industrials",
+    "Industry": "Manufacturing and Robotics",
+    "Website URL": "https://cortexrobot.ai/"
+  },
+  {
+    "YC link": "https://www.ycombinator.com/companies/claybird",
+    "Name": "Claybird",
+    "Location": "SF",
+    "Discription": "The full-stack AI ad company",
+    "Batch": "Fall 2025",
+    "Type": "B2B",
+    "Industry": "Marketing",
+    "Website URL": "https://claybird.com/"
+  },
+  {
+    "YC link": "https://www.ycombinator.com/companies/fastshot",
+    "Name": "Fastshot",
+    "Location": "",
+    "Discription": "Lovable for mobile apps",
+    "Batch": "Fall 2025",
+    "Type": "B2B",
+    "Industry": "Engineering, Product and Design",
+    "Website URL": "https://www.fastshot.ai/"
+  },
+  {
+    "YC link": "https://www.ycombinator.com/companies/the-context-company",
+    "Name": "The Context Company",
+    "Location": "SF",
+    "Discription": "Monitor AI agents and understand user behavior",
+    "Batch": "Fall 2025",
+    "Type": "B2B",
+    "Industry": "Engineering, Product and Design",
+    "Website URL": "https://thecontext.company/"
+  },
+  {
+    "YC link": "https://www.ycombinator.com/companies/redapto",
+    "Name": "Redapto",
+    "Location": "SF",
+    "Discription": "",
+    "Batch": "Fall 2025",
+    "Type": "B2B",
+    "Industry": "",
+    "Website URL": "https://www.redapto.com/"
+  },
+  {
+    "YC link": "https://www.ycombinator.com/companies/casey",
+    "Name": "Casey",
+    "Location": "",
+    "Discription": "Casey is the first global AI-native insurance brokerage",
+    "Batch": "Fall 2025",
+    "Type": "Fintech",
+    "Industry": "Insurance",
+    "Website URL": "https://www.meetcasey.ai/"
+  },
+  {
+    "YC link": "https://www.ycombinator.com/companies/flick",
+    "Name": "Flick",
+    "Location": "",
+    "Discription": "Figma + Cursor, for AI Filmmaking",
+    "Batch": "Fall 2025",
+    "Type": "Consumer",
+    "Industry": "Content",
+    "Website URL": "https://flick.art/"
+  },
+  {
+    "YC link": "https://www.ycombinator.com/companies/denki",
+    "Name": "Denki",
+    "Location": "SF",
+    "Discription": "The full-stack AI financial audit firm",
+    "Batch": "Fall 2025",
+    "Type": "B2B",
+    "Industry": "Finance and Accounting",
+    "Website URL": "https://denki.ai/"
+  },
+  {
+    "YC link": "https://www.ycombinator.com/companies/bravi",
+    "Name": "Bravi",
+    "Location": "SF",
+    "Discription": "The AI operating system powering home services businesses",
+    "Batch": "Fall 2025",
+    "Type": "B2B",
+    "Industry": "",
+    "Website URL": "https://www.bravi.app/"
+  },
+  {
+    "YC link": "https://www.ycombinator.com/companies/sf-tensor",
+    "Name": "SF Tensor",
+    "Location": "",
+    "Discription": "Infrastructure for AI labs to focus on research.",
+    "Batch": "Fall 2025",
+    "Type": "B2B",
+    "Industry": "Infrastructure",
+    "Website URL": "https://sf-tensor.com/"
+  },
+  {
+    "YC link": "https://www.ycombinator.com/companies/lunabill",
+    "Name": "LunaBill",
+    "Location": "SF",
+    "Discription": "AI Voice callers for healthcare billing teams",
+    "Batch": "Fall 2025",
+    "Type": "Healthcare",
+    "Industry": "Healthcare IT",
+    "Website URL": "https://lunabill.com/"
+  },
+  {
+    "YC link": "https://www.ycombinator.com/companies/telemetron-ai",
+    "Name": "Telemetron",
+    "Location": "",
+    "Discription": "Support and Operations Platform for Hardware Companies",
+    "Batch": "Fall 2025",
+    "Type": "B2B",
+    "Industry": "",
+    "Website URL": "https://www.telemetron.ai/"
+  },
+  {
+    "YC link": "https://www.ycombinator.com/companies/fernstone",
+    "Name": "Fernstone",
+    "Location": "NYC",
+    "Discription": "Full-stack insurance brokerage for businesses.",
+    "Batch": "Fall 2025",
+    "Type": "Fintech",
+    "Industry": "Insurance",
+    "Website URL": "https://www.fernstone.com/"
+  },
+  {
+    "YC link": "https://www.ycombinator.com/companies/algen-biotechnologies",
+    "Name": "Algen Biotechnologies",
+    "Location": "SF",
+    "Discription": "Using CRISPR to find treatments for cancer and inflammation",
+    "Batch": "Winter 2020",
+    "Type": "Healthcare",
+    "Industry": "Drug Discovery and Delivery",
+    "Website URL": "https://www.algenbio.com/"
+  },
+  {
+    "YC link": "https://www.ycombinator.com/companies/selfin",
+    "Name": "Selfin",
+    "Location": "SF",
+    "Discription": "Building the first AI Bank",
+    "Batch": "Fall 2025",
+    "Type": "Fintech",
+    "Industry": "Consumer Finance",
+    "Website URL": "https://selfin.app/"
+  },
+  {
+    "YC link": "https://www.ycombinator.com/companies/cranston-ai",
+    "Name": "Cranston AI",
+    "Location": "SF",
+    "Discription": "Full Stack AI Accounting Firm",
+    "Batch": "Fall 2025",
+    "Type": "B2B",
+    "Industry": "Finance and Accounting",
+    "Website URL": "https://www.cranstonai.com/"
+  },
+  {
+    "YC link": "https://www.ycombinator.com/companies/fixpoint",
+    "Name": "Fixpoint",
+    "Location": "",
+    "Discription": "Uber for AI trainers and human-in-the-loop supervisors",
+    "Batch": "Fall 2025",
+    "Type": "B2B",
+    "Industry": "Human Resources",
+    "Website URL": "https://fixpoint.co/"
+  },
+  {
+    "YC link": "https://www.ycombinator.com/companies/kalpa-labs",
+    "Name": "Kalpa Labs",
+    "Location": "",
+    "Discription": "Scaling Generalist Speech models",
+    "Batch": "Fall 2025",
+    "Type": "B2B",
+    "Industry": "",
+    "Website URL": "https://kalpalabs.ai/"
+  },
+  {
+    "YC link": "https://www.ycombinator.com/companies/sourcebot",
+    "Name": "Sourcebot",
+    "Location": "SF",
+    "Discription": "Helping humans and AI agents understand massive codebases",
+    "Batch": "Fall 2025",
+    "Type": "B2B",
+    "Industry": "Engineering, Product and Design",
+    "Website URL": "https://www.sourcebot.dev/"
+  },
+  {
+    "YC link": "https://www.ycombinator.com/companies/icarus",
+    "Name": "Icarus",
+    "Location": "Los Angeles, CA, USA",
+    "Discription": "Stratospheric birds for defense",
+    "Batch": "Fall 2025",
+    "Type": "Industrials",
+    "Industry": "Defense",
+    "Website URL": "https://www.icarus.one/"
+  },
+  {
+    "YC link": "https://www.ycombinator.com/companies/pixley-ai",
+    "Name": "Pixley AI",
+    "Location": "SF",
+    "Discription": "The first platform where parents & kids can co-create AI cartoon shows",
+    "Batch": "Fall 2025",
+    "Type": "Consumer",
+    "Industry": "Content",
+    "Website URL": "https://pixleyai.com/"
+  },
+  {
+    "YC link": "https://www.ycombinator.com/companies/complydo",
+    "Name": "ComplyDo",
+    "Location": "",
+    "Discription": "Global Compliance for Enterprises",
+    "Batch": "Fall 2025",
+    "Type": "B2B",
+    "Industry": "Legal",
+    "Website URL": "https://www.complydo.io/"
+  },
+  {
+    "YC link": "https://www.ycombinator.com/companies/gpt",
+    "Name": "Nexus",
+    "Location": "Brussels, Brussels, Belgium",
+    "Discription": "We help non-technical teams build AI agents without engineers",
+    "Batch": "Fall 2025",
+    "Type": "B2B",
+    "Industry": "",
+    "Website URL": "https://agent.nexus/"
+  },
+  {
+    "YC link": "https://www.ycombinator.com/companies/markit",
+    "Name": "MarkIt",
+    "Location": "SF",
+    "Discription": "AI Agents for Trade Compliance - Saving Companies from Tariffs",
+    "Batch": "Fall 2025",
+    "Type": "B2B",
+    "Industry": "Supply Chain and Logistics",
+    "Website URL": "https://markittrade.com/"
+  },
+  {
+    "YC link": "https://www.ycombinator.com/companies/metorial",
+    "Name": "Metorial",
+    "Location": "Remote",
+    "Discription": "The infra layer for AI integrations.",
+    "Batch": "Fall 2025",
+    "Type": "B2B",
+    "Industry": "",
+    "Website URL": "https://metorial.com/"
+  },
+  {
+    "YC link": "https://www.ycombinator.com/companies/movedot",
+    "Name": "MOVEdot",
+    "Location": "SF",
+    "Discription": "AI Agents for Hardware Engineering",
+    "Batch": "Fall 2025",
+    "Type": "B2B",
+    "Industry": "Engineering, Product and Design",
+    "Website URL": "https://www.movedot.ai/"
+  },
+  {
+    "YC link": "https://www.ycombinator.com/companies/dome",
+    "Name": "Dome",
+    "Location": "",
+    "Discription": "A unified API for prediction markets, like Kalshi and Polymarket",
+    "Batch": "Fall 2025",
+    "Type": "B2B",
+    "Industry": "Infrastructure",
+    "Website URL": "https://domeapi.io/"
+  },
+  {
+    "YC link": "https://www.ycombinator.com/companies/hillclimb",
+    "Name": "hillclimb",
+    "Location": "SF",
+    "Discription": "The world's first human superintelligence community",
+    "Batch": "Fall 2025",
+    "Type": "B2B",
+    "Industry": "Engineering, Product and Design",
+    "Website URL": "https://hillclimb.com/"
+  },
+  {
+    "YC link": "https://www.ycombinator.com/companies/usenarrative",
+    "Name": "Narrative",
+    "Location": "SF",
+    "Discription": "AI-Powered Sports Highlights",
+    "Batch": "Fall 2025",
+    "Type": "B2B",
+    "Industry": "Marketing",
+    "Website URL": "http://www.narrative-sports.com/"
+  },
+  {
+    "YC link": "https://www.ycombinator.com/companies/prox",
+    "Name": "Prox",
+    "Location": "",
+    "Discription": "AI agents for third-party logistics",
+    "Batch": "Fall 2025",
+    "Type": "B2B",
+    "Industry": "Supply Chain and Logistics",
+    "Website URL": "https://prox.inc/"
+  },
+  {
+    "YC link": "https://www.ycombinator.com/companies/primer",
+    "Name": "Primer",
+    "Location": "SF",
+    "Discription": "AI Product Demos",
+    "Batch": "Fall 2025",
+    "Type": "B2B",
+    "Industry": "",
+    "Website URL": "https://www.startprimer.com/"
+  },
+  {
+    "YC link": "https://www.ycombinator.com/companies/questom",
+    "Name": "Questom",
+    "Location": "",
+    "Discription": "AI Agents for B2B Sales",
+    "Batch": "Fall 2025",
+    "Type": "B2B",
+    "Industry": "Sales",
+    "Website URL": "https://www.questom.ai/"
+  },
+  {
+    "YC link": "https://www.ycombinator.com/companies/koyal",
+    "Name": "Koyal",
+    "Location": "SF",
+    "Discription": "Agentic AI Filmmaking Platform",
+    "Batch": "Fall 2025",
+    "Type": "Consumer",
+    "Industry": "Content",
+    "Website URL": "https://koyal.ai/"
+  },
+  {
+    "YC link": "https://www.ycombinator.com/companies/uplane",
+    "Name": "Uplane",
+    "Location": "SF",
+    "Discription": "Replace marketing agencies with AI",
+    "Batch": "Fall 2025",
+    "Type": "B2B",
+    "Industry": "Marketing",
+    "Website URL": "https://uplane.com/"
+  },
+  {
+    "YC link": "https://www.ycombinator.com/companies/structured-ai",
+    "Name": "Structured AI",
+    "Location": "",
+    "Discription": "AI workforce for Construction Engineering",
+    "Batch": "Fall 2025",
+    "Type": "Real Estate and Construction",
+    "Industry": "Construction",
+    "Website URL": "https://www.getstructured.ai/"
+  },
+  {
+    "YC link": "https://www.ycombinator.com/companies/sellraze",
+    "Name": "SellRaze",
+    "Location": "SF",
+    "Discription": "The fastest way to sell online.",
+    "Batch": "Fall 2025",
+    "Type": "Consumer",
+    "Industry": "",
+    "Website URL": "https://sellraze.com/"
+  },
+  {
+    "YC link": "https://www.ycombinator.com/companies/dari",
+    "Name": "Dari",
+    "Location": "SF",
+    "Discription": "An API to build the most reliable browser use agents",
+    "Batch": "Fall 2025",
+    "Type": "B2B",
+    "Industry": "",
+    "Website URL": "https://usedari.com/"
+  },
+  {
+    "YC link": "https://www.ycombinator.com/companies/s2-dev",
+    "Name": "s2.dev",
+    "Location": "SF",
+    "Discription": "API for unlimited, durable, real-time streams",
+    "Batch": "Fall 2025",
+    "Type": "B2B",
+    "Industry": "Infrastructure",
+    "Website URL": "https://s2.dev/"
+  },
+  {
+    "YC link": "https://www.ycombinator.com/companies/clicks",
+    "Name": "Clicks",
+    "Location": "",
+    "Discription": "Computer use agents to automate all back-office work",
+    "Batch": "Fall 2025",
+    "Type": "B2B",
+    "Industry": "Productivity",
+    "Website URL": "https://goclicks.ai/"
+  },
+  {
+    "YC link": "https://www.ycombinator.com/companies/mod-ai",
+    "Name": "Mod AI",
+    "Location": "",
+    "Discription": "The First AI Email Client for Accounting",
+    "Batch": "Fall 2025",
+    "Type": "B2B",
+    "Industry": "",
+    "Website URL": "https://usemod.ai/"
+  },
+  {
+    "YC link": "https://www.ycombinator.com/companies/deeptrace",
+    "Name": "Deeptrace",
+    "Location": "",
+    "Discription": "AI agents for on-call",
+    "Batch": "Fall 2025",
+    "Type": "B2B",
+    "Industry": "",
+    "Website URL": "https://deeptrace.com/"
+  },
+  {
+    "YC link": "https://www.ycombinator.com/companies/unsiloed-ai",
+    "Name": "Unsiloed AI",
+    "Location": "SF",
+    "Discription": "API for parsing multimodal unstructured data",
+    "Batch": "Fall 2025",
+    "Type": "B2B",
+    "Industry": "",
+    "Website URL": "https://www.unsiloed.ai/"
+  },
+  {
+    "YC link": "https://www.ycombinator.com/companies/zalos",
+    "Name": "Zalos",
+    "Location": "",
+    "Discription": "Computer Agents for Finance tasks like reconciliation, in your system!",
+    "Batch": "Fall 2025",
+    "Type": "B2B",
+    "Industry": "Operations",
+    "Website URL": "https://www.zalos.ai/"
+  },
+  {
+    "YC link": "https://www.ycombinator.com/companies/brickanta",
+    "Name": "Brickanta",
+    "Location": "Stockholm, Stockholm County, Sweden",
+    "Discription": "Construction's AI platform for bid analysis, estimation and�",
+    "Batch": "Fall 2025",
+    "Type": "B2B",
+    "Industry": "Infrastructure",
+    "Website URL": "https://www.brickanta.com/"
+  },
+  {
+    "YC link": "https://www.ycombinator.com/companies/sorce",
+    "Name": "Sorce",
+    "Location": "SF",
+    "Discription": "Tinder for jobs",
+    "Batch": "Fall 2025",
+    "Type": "B2B",
+    "Industry": "Human Resources",
+    "Website URL": "https://sorce.jobs/"
+  },
+  {
+    "YC link": "https://www.ycombinator.com/companies/answerthis",
+    "Name": "AnswerThis",
+    "Location": "",
+    "Discription": "End-to-end workspace to accelerate scientific discovery",
+    "Batch": "Fall 2025",
+    "Type": "Consumer",
+    "Industry": "",
+    "Website URL": "https://answerthis.io/"
+  },
+  {
+    "YC link": "https://www.ycombinator.com/companies/bluma",
+    "Name": "Bluma",
+    "Location": "SF",
+    "Discription": "Canva for short-form video ads",
+    "Batch": "Fall 2025",
+    "Type": "B2B",
+    "Industry": "Marketing",
+    "Website URL": "https://www.getbluma.com/"
+  },
+  {
+    "YC link": "https://www.ycombinator.com/companies/hypercubic",
+    "Name": "Hypercubic",
+    "Location": "",
+    "Discription": "AI to maintain and modernize COBOL.",
+    "Batch": "Fall 2025",
+    "Type": "B2B",
+    "Industry": "",
+    "Website URL": "https://www.hypercubic.ai/"
+  },
+  {
+    "YC link": "https://www.ycombinator.com/companies/bolna-ai",
+    "Name": "Bolna AI",
+    "Location": "Bengaluru, KA, India",
+    "Discription": "Voice AI to enable India's next billion",
+    "Batch": "Fall 2025",
+    "Type": "B2B",
+    "Industry": "",
+    "Website URL": "https://bolna.ai/"
+  },
+  {
+    "YC link": "https://www.ycombinator.com/companies/lexi",
+    "Name": "Lexi",
+    "Location": "SF",
+    "Discription": "AI Associates for Corporate Law",
+    "Batch": "Fall 2025",
+    "Type": "B2B",
+    "Industry": "Legal",
+    "Website URL": "https://getlexi.io/"
+  },
+  {
+    "YC link": "https://www.ycombinator.com/companies/remedy",
+    "Name": "Remedy",
+    "Location": "SF",
+    "Discription": "AI Agents for Pharmacies",
+    "Batch": "Fall 2025",
+    "Type": "Healthcare",
+    "Industry": "",
+    "Website URL": "http://www.useremedy.co/"
+  },
+  {
+    "YC link": "https://www.ycombinator.com/companies/specific",
+    "Name": "Specific",
+    "Location": "Stockholm, Stockholm County, Sweden",
+    "Discription": "AWS for coding agents",
+    "Batch": "Fall 2025",
+    "Type": "B2B",
+    "Industry": "Engineering, Product and Design",
+    "Website URL": "https://specific.dev/"
+  },
+  {
+    "YC link": "https://www.ycombinator.com/companies/semble-ai",
+    "Name": "Semble AI",
+    "Location": "SF",
+    "Discription": "Autonomous building-system design for construction companies.",
+    "Batch": "Fall 2025",
+    "Type": "B2B",
+    "Industry": "Engineering, Product and Design",
+    "Website URL": "https://www.sembleai.com/"
+  },
+  {
+    "YC link": "https://www.ycombinator.com/companies/freeport-markets",
+    "Name": "Freeport Markets",
+    "Location": "NYC",
+    "Discription": "Tradable Twitter Feed",
+    "Batch": "Fall 2025",
+    "Type": "Fintech",
+    "Industry": "Consumer Finance",
+    "Website URL": "https://www.freeportmarkets.com/"
+  },
+  {
+    "YC link": "https://www.ycombinator.com/companies/openroll",
+    "Name": "Openroll",
+    "Location": "Stockholm, Stockholm County, Sweden",
+    "Discription": "AI-Native Workday",
+    "Batch": "Fall 2025",
+    "Type": "B2B",
+    "Industry": "",
+    "Website URL": "https://www.openroll.com/"
+  },
+  {
+    "YC link": "https://www.ycombinator.com/companies/veria-labs",
+    "Name": "Veria Labs",
+    "Location": "SF",
+    "Discription": "Continuous AI pentesting that finds and fixes vulnerabilities",
+    "Batch": "Fall 2025",
+    "Type": "B2B",
+    "Industry": "Security",
+    "Website URL": "https://verialabs.com/"
+  },
+  {
+    "YC link": "https://www.ycombinator.com/companies/wardstone",
+    "Name": "Wardstone",
+    "Location": "",
+    "Discription": "Satellites for Missile Defense",
+    "Batch": "Fall 2025",
+    "Type": "Industrials",
+    "Industry": "Aviation and Space",
+    "Website URL": "https://www.wardstone.space/"
+  },
+  {
+    "YC link": "https://www.ycombinator.com/companies/parrot",
+    "Name": "Parrot",
+    "Location": "SF",
+    "Discription": "TikTok for language learning",
+    "Batch": "Fall 2025",
+    "Type": "Consumer",
+    "Industry": "",
+    "Website URL": "https://parrotapp.com/"
+  },
+  {
+    "YC link": "https://www.ycombinator.com/companies/patent-watch",
+    "Name": "Patent Watch",
+    "Location": "Toronto, ON, Canada",
+    "Discription": "AI for detecting patent infringements",
+    "Batch": "Fall 2025",
+    "Type": "B2B",
+    "Industry": "",
+    "Website URL": "https://www.patentwatch.ai/"
+  },
+  {
+    "YC link": "https://www.ycombinator.com/companies/zavo",
+    "Name": "Zavo",
+    "Location": "SF",
+    "Discription": "AI Point of Sale for Restaurants",
+    "Batch": "Fall 2025",
+    "Type": "Fintech",
+    "Industry": "Payments",
+    "Website URL": "https://zavopay.com/"
+  },
+  {
+    "YC link": "https://www.ycombinator.com/companies/multifactor",
+    "Name": "Multifactor",
+    "Location": "SF",
+    "Discription": "Zero-trust authentication, authorization, and auditing for AI agents",
+    "Batch": "Fall 2025",
+    "Type": "B2B",
+    "Industry": "Security",
+    "Website URL": "https://multifactor.com/"
+  },
+  {
+    "YC link": "https://www.ycombinator.com/companies/mixy",
+    "Name": "Mixy",
+    "Location": "",
+    "Discription": "Make mashups without knowing how to DJ",
+    "Batch": "Fall 2025",
+    "Type": "Consumer",
+    "Industry": "",
+    "Website URL": "https://usemixy.com/"
+  },
+  {
+    "YC link": "https://www.ycombinator.com/companies/lua-global-inc",
+    "Name": "Lua Global Inc",
+    "Location": "",
+    "Discription": "The mid-market agent platform",
+    "Batch": "Fall 2025",
+    "Type": "B2B",
+    "Industry": "",
+    "Website URL": "https://heylua.ai/"
+  },
+  {
+    "YC link": "https://www.ycombinator.com/companies/bear",
+    "Name": "Bear",
+    "Location": "SF",
+    "Discription": "Marketing Stack for AI Agents",
+    "Batch": "Fall 2025",
+    "Type": "B2B",
+    "Industry": "Marketing",
+    "Website URL": "https://usebear.ai/"
+  },
+  {
+    "YC link": "https://www.ycombinator.com/companies/imagine-ai",
+    "Name": "Imagine AI",
+    "Location": "SF",
+    "Discription": "We build B2B content for your entire team",
+    "Batch": "Fall 2025",
+    "Type": "B2B",
+    "Industry": "Sales",
+    "Website URL": "https://imagineai.me/"
+  },
+  {
+    "YC link": "https://www.ycombinator.com/companies/sunflower",
+    "Name": "Sunflower",
+    "Location": "",
+    "Discription": "Building the Sobriety Platform for the future of Superintelligence. ??",
+    "Batch": "Fall 2025",
+    "Type": "Consumer",
+    "Industry": "",
+    "Website URL": "https://sunflowersober.com/"
+  },
+  {
+    "YC link": "https://www.ycombinator.com/companies/metis",
+    "Name": "Metis",
+    "Location": "SF",
+    "Discription": "Infrastructure to build reliable agents",
+    "Batch": "Summer 2025",
+    "Type": "B2B",
+    "Industry": "Infrastructure",
+    "Website URL": "https://withmetis.ai/"
+  },
+  {
+    "YC link": "https://www.ycombinator.com/companies/duranium",
+    "Name": "Duranium",
+    "Location": "Alameda, CA, USA",
+    "Discription": "Reshoring critical metal production",
+    "Batch": "Summer 2025",
+    "Type": "Industrials",
+    "Industry": "Manufacturing and Robotics",
+    "Website URL": "https://www.duranium.co/"
+  },
+  {
+    "YC link": "https://www.ycombinator.com/companies/axial-composites-industries",
+    "Name": "Axial Composites Industries",
+    "Location": "",
+    "Discription": "Carbon Fiber Manufacturing at the Speed of Software",
+    "Batch": "Fall 2025",
+    "Type": "Industrials",
+    "Industry": "Aviation and Space",
+    "Website URL": "https://www.axialcomposite.com/"
+  },
+  {
+    "YC link": "https://www.ycombinator.com/companies/fulcrum",
+    "Name": "Fulcrum",
+    "Location": "",
+    "Discription": "The agentic debugger for AI systems",
+    "Batch": "Summer 2025",
+    "Type": "B2B",
+    "Industry": "Analytics",
+    "Website URL": "https://fulcrumresearch.ai/"
+  },
+  {
+    "YC link": "https://www.ycombinator.com/companies/dedalus-labs",
+    "Name": "Dedalus Labs",
+    "Location": "SF",
+    "Discription": "Connect any LLM to any MCP tools and create complex agents in minutes.",
+    "Batch": "Summer 2025",
+    "Type": "B2B",
+    "Industry": "",
+    "Website URL": "https://www.dedaluslabs.ai/"
+  },
+  {
+    "YC link": "https://www.ycombinator.com/companies/piggy-robotics",
+    "Name": "Piggy Robotics",
+    "Location": "",
+    "Discription": "Humanoid robots that do your chores for the price of an iPhone!",
+    "Batch": "Fall 2025",
+    "Type": "Industrials",
+    "Industry": "Manufacturing and Robotics",
+    "Website URL": "https://piggyrobotics.com/"
+  },
+  {
+    "YC link": "https://www.ycombinator.com/companies/rowflow",
+    "Name": "RowFlow",
+    "Location": "NYC",
+    "Discription": "Replacing forms with AI conversations",
+    "Batch": "Summer 2025",
+    "Type": "B2B",
+    "Industry": "Operations",
+    "Website URL": "https://rowflow.ai/"
+  },
+  {
+    "YC link": "https://www.ycombinator.com/companies/munify",
+    "Name": "Munify",
+    "Location": "Remote",
+    "Discription": "The Cross-Border Neobank for the Middle East",
+    "Batch": "Summer 2025",
+    "Type": "Fintech",
+    "Industry": "",
+    "Website URL": "https://munify.ai/"
+  },
+  {
+    "YC link": "https://www.ycombinator.com/companies/the-prompting-company",
+    "Name": "The Prompting Company",
+    "Location": "",
+    "Discription": "We help products get mentioned in ChatGPT.",
+    "Batch": "Summer 2025",
+    "Type": "B2B",
+    "Industry": "Marketing",
+    "Website URL": "https://www.promptingcompany.com/"
+  },
+  {
+    "YC link": "https://www.ycombinator.com/companies/topological",
+    "Name": "Topological",
+    "Location": "",
+    "Discription": "Physics-based foundation models for CAD optimization.",
+    "Batch": "Summer 2025",
+    "Type": "B2B",
+    "Industry": "Engineering, Product and Design",
+    "Website URL": "https://www.topological.com/"
+  },
+  {
+    "YC link": "https://www.ycombinator.com/companies/stellon-labs",
+    "Name": "Stellon Labs",
+    "Location": "SF",
+    "Discription": "Building tiny frontier AI models that run on edge devices",
+    "Batch": "Summer 2025",
+    "Type": "B2B",
+    "Industry": "Engineering, Product and Design",
+    "Website URL": "https://stellonlabs.com/"
+  },
+  {
+    "YC link": "https://www.ycombinator.com/companies/nautilus",
+    "Name": "Nautilus",
+    "Location": "",
+    "Discription": "AI platform to grow and to optimize car washes",
+    "Batch": "Summer 2025",
+    "Type": "B2B",
+    "Industry": "Sales",
+    "Website URL": "https://nautilus.co/"
+  },
+  {
+    "YC link": "https://www.ycombinator.com/companies/bitrig",
+    "Name": "bitrig",
+    "Location": "",
+    "Discription": "Vibe code, test, and deploy Swift apps. All from your iPhone.",
+    "Batch": "Summer 2025",
+    "Type": "B2B",
+    "Industry": "Engineering, Product and Design",
+    "Website URL": "https://bitrig.com/"
+  },
+  {
+    "YC link": "https://www.ycombinator.com/companies/panels",
+    "Name": "Panels",
+    "Location": "SF",
+    "Discription": "Audio Data for AI Labs",
+    "Batch": "Summer 2025",
+    "Type": "B2B",
+    "Industry": "Engineering, Product and Design",
+    "Website URL": "https://www.usepanels.com/"
+  },
+  {
+    "YC link": "https://www.ycombinator.com/companies/bezel",
+    "Name": "Bezel",
+    "Location": "NYC",
+    "Discription": "Digital AI humans that model clothes for e-commerce brands.",
+    "Batch": "Winter 2025",
+    "Type": "B2B",
+    "Industry": "",
+    "Website URL": "https://www.trybezel.com/"
+  },
+  {
+    "YC link": "https://www.ycombinator.com/companies/pleom",
+    "Name": "Pleom",
+    "Location": "",
+    "Discription": "Agentic Business Intelligence",
+    "Batch": "Summer 2025",
+    "Type": "B2B",
+    "Industry": "Analytics",
+    "Website URL": "https://pleom.com/"
+  },
+  {
+    "YC link": "https://www.ycombinator.com/companies/effigov",
+    "Name": "EffiGov",
+    "Location": "SF",
+    "Discription": "The AI OS for Cities",
+    "Batch": "Summer 2025",
+    "Type": "Government",
+    "Industry": "",
+    "Website URL": "https://effigov.com/"
+  },
+  {
+    "YC link": "https://www.ycombinator.com/companies/tesora",
+    "Name": "Tesora",
+    "Location": "",
+    "Discription": "AI-Native Software for Operations and Finance Teams",
+    "Batch": "Summer 2025",
+    "Type": "B2B",
+    "Industry": "Operations",
+    "Website URL": "https://tesora.ai/"
+  },
+  {
+    "YC link": "https://www.ycombinator.com/companies/getasap",
+    "Name": "GETASAP",
+    "Location": "SF",
+    "Discription": "8-hour Produce Distribution for Retailers of Any Size",
+    "Batch": "Summer 2025",
+    "Type": "B2B",
+    "Industry": "Supply Chain and Logistics",
+    "Website URL": "https://www.getasap.us/"
+  },
+  {
+    "YC link": "https://www.ycombinator.com/companies/button-computer",
+    "Name": "Button Computer",
+    "Location": "SF",
+    "Discription": "Button is the wearable AI that can talk.",
+    "Batch": "Winter 2026",
+    "Type": "B2B",
+    "Industry": "Engineering, Product and Design",
+    "Website URL": "https://buttoncomputer.com/"
+  },
+  {
+    "YC link": "https://www.ycombinator.com/companies/ondeck-ai",
+    "Name": "OnDeck AI",
+    "Location": "Vancouver, BC, Canada",
+    "Discription": "Analyze any footage, without training a model",
+    "Batch": "Summer 2025",
+    "Type": "B2B",
+    "Industry": "Analytics",
+    "Website URL": "https://www.ondeckai.com/"
+  },
+  {
+    "YC link": "https://www.ycombinator.com/companies/kalinda",
+    "Name": "Kalinda",
+    "Location": "",
+    "Discription": "Deep research for class action law firms",
+    "Batch": "Summer 2025",
+    "Type": "B2B",
+    "Industry": "Legal",
+    "Website URL": "https://www.kalinda.ai/"
+  },
+  {
+    "YC link": "https://www.ycombinator.com/companies/char",
+    "Name": "Char",
+    "Location": "",
+    "Discription": "Open source AI notepad for meetings",
+    "Batch": "Summer 2025",
+    "Type": "B2B",
+    "Industry": "Productivity",
+    "Website URL": "https://char.com/"
+  },
+  {
+    "YC link": "https://www.ycombinator.com/companies/cocreate",
+    "Name": "cocreate",
+    "Location": "SF",
+    "Discription": "video production software",
+    "Batch": "Summer 2025",
+    "Type": "Consumer",
+    "Industry": "Content",
+    "Website URL": "https://cocreate.so/"
+  },
+  {
+    "YC link": "https://www.ycombinator.com/companies/lark",
+    "Name": "Lark",
+    "Location": "SF",
+    "Discription": "The E2E testing layer for AI-driven development",
+    "Batch": "Summer 2025",
+    "Type": "B2B",
+    "Industry": "Engineering, Product and Design",
+    "Website URL": "https://getlark.ai/"
+  },
+  {
+    "YC link": "https://www.ycombinator.com/companies/serafis",
+    "Name": "Serafis",
+    "Location": "SF",
+    "Discription": "The AI knowledge graph for institutional investors",
+    "Batch": "Summer 2025",
+    "Type": "B2B",
+    "Industry": "",
+    "Website URL": "https://serafis.ai/"
+  },
+  {
+    "YC link": "https://www.ycombinator.com/companies/alara",
+    "Name": "Alara",
+    "Location": "",
+    "Discription": "Procurement Platform for Dental Offices",
+    "Batch": "Summer 2025",
+    "Type": "B2B",
+    "Industry": "",
+    "Website URL": "http://alaradental.com/"
+  },
+  {
+    "YC link": "https://www.ycombinator.com/companies/avent",
+    "Name": "Avent",
+    "Location": "",
+    "Discription": "AI agents for industrial commerce",
+    "Batch": "Summer 2025",
+    "Type": "B2B",
+    "Industry": "",
+    "Website URL": "https://www.aventindustrial.com/"
+  },
+  {
+    "YC link": "https://www.ycombinator.com/companies/palace",
+    "Name": "Palace",
+    "Location": "NYC",
+    "Discription": "Palace plans, coordinates, and executes daily ops for trucking fleets",
+    "Batch": "Summer 2025",
+    "Type": "B2B",
+    "Industry": "Supply Chain and Logistics",
+    "Website URL": "https://www.palace.so/"
+  },
+  {
+    "YC link": "https://www.ycombinator.com/companies/zeroeval",
+    "Name": "ZeroEval",
+    "Location": "NYC",
+    "Discription": "Auto-optimizer for AI agents",
+    "Batch": "Summer 2025",
+    "Type": "B2B",
+    "Industry": "",
+    "Website URL": "https://zeroeval.com/"
+  },
+  {
+    "YC link": "https://www.ycombinator.com/companies/minimal-ai",
+    "Name": "Minimal AI",
+    "Location": "",
+    "Discription": "AI Agents for E-commerce Customer Support",
+    "Batch": "Summer 2025",
+    "Type": "B2B",
+    "Industry": "",
+    "Website URL": "https://gominimal.ai/"
+  },
+  {
+    "YC link": "https://www.ycombinator.com/companies/datafruit",
+    "Name": "datafruit",
+    "Location": "SF",
+    "Discription": "AI DevOps Engineer",
+    "Batch": "Summer 2025",
+    "Type": "B2B",
+    "Industry": "Engineering, Product and Design",
+    "Website URL": "https://datafruit.dev/"
+  },
+  {
+    "YC link": "https://www.ycombinator.com/companies/spotlight-realty",
+    "Name": "Spotlight Realty",
+    "Location": "NYC",
+    "Discription": "AI powered brokerage reducing residential rental commissions in NYC�",
+    "Batch": "Summer 2025",
+    "Type": "Real Estate and Construction",
+    "Industry": "",
+    "Website URL": "https://www.spotlight.realty/"
+  },
+  {
+    "YC link": "https://www.ycombinator.com/companies/nexa-labs",
+    "Name": "Nexa Labs",
+    "Location": "SF",
+    "Discription": "Implantable microchips and AI for cattle monitoring",
+    "Batch": "Summer 2025",
+    "Type": "Industrials",
+    "Industry": "Agriculture",
+    "Website URL": "https://nexa.farm/"
+  },
+  {
+    "YC link": "https://www.ycombinator.com/companies/theinterface",
+    "Name": "Interface",
+    "Location": "NYC",
+    "Discription": "The frontier lab for visual simulation",
+    "Batch": "Summer 2025",
+    "Type": "Consumer",
+    "Industry": "",
+    "Website URL": "https://www.theinterface.com/"
+  },
+  {
+    "YC link": "https://www.ycombinator.com/companies/normal",
+    "Name": "Normal",
+    "Location": "SF",
+    "Discription": "Deploying and integrating useful robots",
+    "Batch": "Summer 2025",
+    "Type": "Industrials",
+    "Industry": "",
+    "Website URL": "https://www.normalfactory.com/"
+  },
+  {
+    "YC link": "https://www.ycombinator.com/companies/knowlify",
+    "Name": "Knowlify",
+    "Location": "SF",
+    "Discription": "Convert textual content into explainer videos in < 15s",
+    "Batch": "Summer 2025",
+    "Type": "B2B",
+    "Industry": "",
+    "Website URL": "https://knowlify.net/"
+  },
+  {
+    "YC link": "https://www.ycombinator.com/companies/trace-so",
+    "Name": "Trace",
+    "Location": "SF",
+    "Discription": "Context-aware orchestration between humans and AI.",
+    "Batch": "Summer 2025",
+    "Type": "B2B",
+    "Industry": "Productivity",
+    "Website URL": "https://www.trace.so/"
+  },
+  {
+    "YC link": "https://www.ycombinator.com/companies/ruvo",
+    "Name": "Ruvo",
+    "Location": "S�o Paulo, SP, Brazil",
+    "Discription": "The Global Dollar App for Brazil",
+    "Batch": "Summer 2025",
+    "Type": "Fintech",
+    "Industry": "",
+    "Website URL": "https://ruvo.com/"
+  },
+  {
+    "YC link": "https://www.ycombinator.com/companies/parametric",
+    "Name": "Parametric",
+    "Location": "",
+    "Discription": "Robots for frontline physical labor � starting with laundry",
+    "Batch": "Fall 2025",
+    "Type": "Industrials",
+    "Industry": "Manufacturing and Robotics",
+    "Website URL": "https://parametric.company/"
+  },
+  {
+    "YC link": "https://www.ycombinator.com/companies/nuntius",
+    "Name": "Nuntius",
+    "Location": "SF",
+    "Discription": "Making Models Follow Rules.",
+    "Batch": "Summer 2025",
+    "Type": "B2B",
+    "Industry": "Infrastructure",
+    "Website URL": "https://www.nuntius.ai/"
+  },
+  {
+    "YC link": "https://www.ycombinator.com/companies/freya",
+    "Name": "Freya",
+    "Location": "SF",
+    "Discription": "Voice AI for Enterprises",
+    "Batch": "Summer 2025",
+    "Type": "Fintech",
+    "Industry": "",
+    "Website URL": "https://freyavoice.ai/"
+  },
+  {
+    "YC link": "https://www.ycombinator.com/companies/astor",
+    "Name": "Astor",
+    "Location": "SF",
+    "Discription": "AI advisor for retail investors",
+    "Batch": "Summer 2025",
+    "Type": "Fintech",
+    "Industry": "Consumer Finance",
+    "Website URL": "https://astor.app/"
+  },
+  {
+    "YC link": "https://www.ycombinator.com/companies/prosper",
+    "Name": "Prosper",
+    "Location": "NYC",
+    "Discription": "AI Phone Agents for Healthcare Operations",
+    "Batch": "Summer 2023",
+    "Type": "B2B",
+    "Industry": "",
+    "Website URL": "https://www.getprosper.ai/?utm_source=yc&utm_medium=directory&utm_campaign=yc_directory"
+  },
+  {
+    "YC link": "https://www.ycombinator.com/companies/burnt",
+    "Name": "burnt",
+    "Location": "SF",
+    "Discription": "Agentic Operating System for Food Supply Chain",
+    "Batch": "Summer 2025",
+    "Type": "B2B",
+    "Industry": "Supply Chain and Logistics",
+    "Website URL": "https://getburnt.ai/"
+  },
+  {
+    "YC link": "https://www.ycombinator.com/companies/pollen",
+    "Name": "Pollen",
+    "Location": "SF",
+    "Discription": "AI Agents for Customer Success",
+    "Batch": "Winter 2026",
+    "Type": "B2B",
+    "Industry": "Operations",
+    "Website URL": "https://www.pollen.cx/"
+  },
+  {
+    "YC link": "https://www.ycombinator.com/companies/paloma",
+    "Name": "Paloma",
+    "Location": "SF",
+    "Discription": "AI-native CRM for putting post-sales operations on autopilot",
+    "Batch": "Summer 2025",
+    "Type": "B2B",
+    "Industry": "",
+    "Website URL": "https://getpaloma.ai/"
+  },
+  {
+    "YC link": "https://www.ycombinator.com/companies/noso-labs",
+    "Name": "NOSO LABS",
+    "Location": "",
+    "Discription": "Build AI agents for field technicians to diagnose and sell 10x better",
+    "Batch": "Summer 2025",
+    "Type": "Industrials",
+    "Industry": "",
+    "Website URL": "https://noso.so/"
+  },
+  {
+    "YC link": "https://www.ycombinator.com/companies/wayline",
+    "Name": "Wayline",
+    "Location": "",
+    "Discription": "AI voice for property managers",
+    "Batch": "Summer 2025",
+    "Type": "Real Estate and Construction",
+    "Industry": "",
+    "Website URL": "https://wayline.com/"
+  },
+  {
+    "YC link": "https://www.ycombinator.com/companies/frizzle",
+    "Name": "Frizzle",
+    "Location": "SF",
+    "Discription": "AI Grading for Teachers",
+    "Batch": "Summer 2025",
+    "Type": "Education",
+    "Industry": "",
+    "Website URL": "https://www.frizzle.com/"
+  },
+  {
+    "YC link": "https://www.ycombinator.com/companies/clodo",
+    "Name": "Clodo",
+    "Location": "SF",
+    "Discription": "Vibe GTM. Execute your outbound ideas with just a prompt",
+    "Batch": "Summer 2025",
+    "Type": "B2B",
+    "Industry": "Sales",
+    "Website URL": "https://clodo.ai/"
+  },
+  {
+    "YC link": "https://www.ycombinator.com/companies/meteor",
+    "Name": "Meteor",
+    "Location": "SF",
+    "Discription": "An AI-Native Browser",
+    "Batch": "Summer 2025",
+    "Type": "Consumer",
+    "Industry": "",
+    "Website URL": "https://browse.dev/"
+  },
+  {
+    "YC link": "https://www.ycombinator.com/companies/riverbank",
+    "Name": "Riverbank",
+    "Location": "SF",
+    "Discription": "AI-native Red Teaming and Offensive Security",
+    "Batch": "Summer 2025",
+    "Type": "B2B",
+    "Industry": "",
+    "Website URL": "https://www.riverbank.sh/"
+  },
+  {
+    "YC link": "https://www.ycombinator.com/companies/playgent",
+    "Name": "Playgent",
+    "Location": "SF",
+    "Discription": "Sandboxes for AI agents",
+    "Batch": "Summer 2025",
+    "Type": "Healthcare",
+    "Industry": "Healthcare IT",
+    "Website URL": "https://useplaygent.com/"
+  },
+  {
+    "YC link": "https://www.ycombinator.com/companies/blank-bio",
+    "Name": "Blank Bio",
+    "Location": "SF",
+    "Discription": "RNA-based AI for better drugs and smarter clinical trials.",
+    "Batch": "Summer 2025",
+    "Type": "Healthcare",
+    "Industry": "Therapeutics",
+    "Website URL": "http://blank.bio/"
+  },
+  {
+    "YC link": "https://www.ycombinator.com/companies/lotas",
+    "Name": "Lotas",
+    "Location": "SF",
+    "Discription": "AI for Data Science and 3D",
+    "Batch": "Summer 2025",
+    "Type": "B2B",
+    "Industry": "Analytics",
+    "Website URL": "https://www.lotas.ai/"
+  },
+  {
+    "YC link": "https://www.ycombinator.com/companies/solva",
+    "Name": "Solva",
+    "Location": "",
+    "Discription": "Automates insurance claims and stops incorrect payouts",
+    "Batch": "Summer 2025",
+    "Type": "Fintech",
+    "Industry": "Insurance",
+    "Website URL": "https://solvatechnology.com/"
+  },
+  {
+    "YC link": "https://www.ycombinator.com/companies/lilac",
+    "Name": "Lilac",
+    "Location": "SF",
+    "Discription": "Spot GPUs that use idle GPUs from enterprises",
+    "Batch": "Summer 2025",
+    "Type": "B2B",
+    "Industry": "",
+    "Website URL": "https://getlilac.com/"
+  },
+  {
+    "YC link": "https://www.ycombinator.com/companies/fleetline",
+    "Name": "Fleetline",
+    "Location": "NYC",
+    "Discription": "Optimizing fleet planning with data driven algorithms",
+    "Batch": "Summer 2025",
+    "Type": "B2B",
+    "Industry": "Supply Chain and Logistics",
+    "Website URL": "https://fleetline.ai/"
+  },
+  {
+    "YC link": "https://www.ycombinator.com/companies/bidflow",
+    "Name": "Bidflow",
+    "Location": "NYC",
+    "Discription": "AI Copilot for Electrical Estimating",
+    "Batch": "Winter 2026",
+    "Type": "Real Estate and Construction",
+    "Industry": "Construction",
+    "Website URL": "https://usebidflow.com/"
+  },
+  {
+    "YC link": "https://www.ycombinator.com/companies/rid",
+    "Name": "Rid",
+    "Location": "SF",
+    "Discription": "Sell with a text.",
+    "Batch": "Summer 2025",
+    "Type": "Consumer",
+    "Industry": "",
+    "Website URL": "https://rid.me/"
+  },
+  {
+    "YC link": "https://www.ycombinator.com/companies/louiza-labs",
+    "Name": "Louiza Labs",
+    "Location": "SF",
+    "Discription": "Hebbia for Pharmaceutical Evidence",
+    "Batch": "Summer 2025",
+    "Type": "B2B",
+    "Industry": "Analytics",
+    "Website URL": "https://www.louizalabs.co/"
+  },
+  {
+    "YC link": "https://www.ycombinator.com/companies/epicenter",
+    "Name": "Epicenter",
+    "Location": "SF",
+    "Discription": "ChatGPT's memory feature in an open, portable format",
+    "Batch": "Summer 2025",
+    "Type": "Consumer",
+    "Industry": "",
+    "Website URL": "https://epicenter.md/"
+  },
+  {
+    "YC link": "https://www.ycombinator.com/companies/iron-grid",
+    "Name": "Iron Grid",
+    "Location": "",
+    "Discription": "AI Insurance for hardware.",
+    "Batch": "Summer 2025",
+    "Type": "Fintech",
+    "Industry": "Insurance",
+    "Website URL": "https://getirongrid.com/"
+  },
+  {
+    "YC link": "https://www.ycombinator.com/companies/fluidize",
+    "Name": "Fluidize",
+    "Location": "SF",
+    "Discription": "Helping scientists and engineers run experiments with AI.",
+    "Batch": "Summer 2025",
+    "Type": "B2B",
+    "Industry": "Engineering, Product and Design",
+    "Website URL": "https://fluidize.ai/"
+  },
+  {
+    "YC link": "https://www.ycombinator.com/companies/contextfort",
+    "Name": "ContextFort",
+    "Location": "SF",
+    "Discription": "Visibility and Controls for Browser Agents",
+    "Batch": "Summer 2025",
+    "Type": "B2B",
+    "Industry": "Security",
+    "Website URL": "https://contextfort.ai/"
+  },
+  {
+    "YC link": "https://www.ycombinator.com/companies/shor",
+    "Name": "Shor",
+    "Location": "SF",
+    "Discription": "The fastest, most affordable payroll for global teams",
+    "Batch": "Summer 2025",
+    "Type": "Fintech",
+    "Industry": "Payments",
+    "Website URL": "https://www.tryshor.com/"
+  },
+  {
+    "YC link": "https://www.ycombinator.com/companies/ambral",
+    "Name": "Ambral",
+    "Location": "",
+    "Discription": "AI Account Managers",
+    "Batch": "Summer 2025",
+    "Type": "B2B",
+    "Industry": "Sales",
+    "Website URL": "https://www.ambral.com/"
+  },
+  {
+    "YC link": "https://www.ycombinator.com/companies/tryeden",
+    "Name": "Eden",
+    "Location": "NYC",
+    "Discription": "Autonomous Marketing AI for Ecommerce Brands",
+    "Batch": "Summer 2025",
+    "Type": "B2B",
+    "Industry": "Marketing",
+    "Website URL": "https://tryeden.ai/"
+  },
+  {
+    "YC link": "https://www.ycombinator.com/companies/ironledger-ai",
+    "Name": "IronLedger.ai",
+    "Location": "",
+    "Discription": "AI agents for property accounting",
+    "Batch": "Summer 2025",
+    "Type": "Real Estate and Construction",
+    "Industry": "Housing and Real Estate",
+    "Website URL": "https://ironledger.ai/"
+  },
+  {
+    "YC link": "https://www.ycombinator.com/companies/design-arena",
+    "Name": "Design Arena",
+    "Location": "SF",
+    "Discription": "World's largest crowdsourced benchmark for AI-generated design",
+    "Batch": "Summer 2025",
+    "Type": "Consumer",
+    "Industry": "",
+    "Website URL": "https://www.designarena.ai/"
+  },
+  {
+    "YC link": "https://www.ycombinator.com/companies/blue",
+    "Name": "Blue",
+    "Location": "",
+    "Discription": "The first voice assistant that can control every app on your iPhone",
+    "Batch": "Summer 2025",
+    "Type": "Consumer",
+    "Industry": "",
+    "Website URL": "https://heyblue.com/"
+  },
+  {
+    "YC link": "https://www.ycombinator.com/companies/wedge",
+    "Name": "Wedge",
+    "Location": "SF",
+    "Discription": "Palantir for Healthcare AI Agents",
+    "Batch": "Summer 2025",
+    "Type": "Healthcare",
+    "Industry": "",
+    "Website URL": "https://www.wedge.health/"
+  },
+  {
+    "YC link": "https://www.ycombinator.com/companies/albacore-inc",
+    "Name": "Albacore Inc.",
+    "Location": "Philadelphia, PA, USA",
+    "Discription": "Autonomous undersea vehicles to deter maritime invasions.",
+    "Batch": "Summer 2025",
+    "Type": "Government",
+    "Industry": "",
+    "Website URL": "https://www.albacore.inc/"
+  },
+  {
+    "YC link": "https://www.ycombinator.com/companies/mangodesk",
+    "Name": "MangoDesk",
+    "Location": "SF",
+    "Discription": "RL environments for software engineering",
+    "Batch": "Summer 2025",
+    "Type": "B2B",
+    "Industry": "",
+    "Website URL": "https://www.mangodesk.com/"
+  },
+  {
+    "YC link": "https://www.ycombinator.com/companies/pingo-ai",
+    "Name": "Pingo AI",
+    "Location": "",
+    "Discription": "AI companion that helps you learn languages",
+    "Batch": "Summer 2025",
+    "Type": "Consumer",
+    "Industry": "",
+    "Website URL": "https://pingo.ai/"
+  },
+  {
+    "YC link": "https://www.ycombinator.com/companies/risely-ai",
+    "Name": "Risely AI",
+    "Location": "",
+    "Discription": "AI agents that automate administrative work across college campuses.",
+    "Batch": "Summer 2025",
+    "Type": "Education",
+    "Industry": "",
+    "Website URL": "https://www.risely.ai/"
+  },
+  {
+    "YC link": "https://www.ycombinator.com/companies/veritus",
+    "Name": "Veritus",
+    "Location": "SF",
+    "Discription": "AI agents for the consumer lending industry",
+    "Batch": "Summer 2025",
+    "Type": "Fintech",
+    "Industry": "Credit and Lending",
+    "Website URL": "https://www.veritus.com/"
+  },
+  {
+    "YC link": "https://www.ycombinator.com/companies/floot",
+    "Name": "Floot",
+    "Location": "",
+    "Discription": "The easiest way for non-coders to build apps with AI.",
+    "Batch": "Summer 2025",
+    "Type": "B2B",
+    "Industry": "Engineering, Product and Design",
+    "Website URL": "https://floot.com/"
+  },
+  {
+    "YC link": "https://www.ycombinator.com/companies/avelis-health",
+    "Name": "Avelis Health",
+    "Location": "",
+    "Discription": "We audit medical claims for self-insured employers and health plans.",
+    "Batch": "Summer 2025",
+    "Type": "Healthcare",
+    "Industry": "Healthcare IT",
+    "Website URL": "https://avelishealth.com/"
+  },
+  {
+    "YC link": "https://www.ycombinator.com/companies/omnara",
+    "Name": "Omnara",
+    "Location": "SF",
+    "Discription": "Mobile & Web Interface for Claude Code & Codex",
+    "Batch": "Summer 2025",
+    "Type": "B2B",
+    "Industry": "Engineering, Product and Design",
+    "Website URL": "https://omnara.com/"
+  },
+  {
+    "YC link": "https://www.ycombinator.com/companies/doe",
+    "Name": "Doe",
+    "Location": "SF",
+    "Discription": "The boring stuff, handled. Everything else, supercharged.",
+    "Batch": "Summer 2025",
+    "Type": "B2B",
+    "Industry": "",
+    "Website URL": "https://doe.so/"
+  },
+  {
+    "YC link": "https://www.ycombinator.com/companies/deepgrove",
+    "Name": "DeepGrove",
+    "Location": "",
+    "Discription": "Frontier Intelligence. On Any Device.",
+    "Batch": "Summer 2025",
+    "Type": "B2B",
+    "Industry": "",
+    "Website URL": "https://deepgrove.ai/"
+  },
+  {
+    "YC link": "https://www.ycombinator.com/companies/locata",
+    "Name": "Locata",
+    "Location": "NYC",
+    "Discription": "AI Referral Automation for Primary Care Clinics",
+    "Batch": "Summer 2025",
+    "Type": "Healthcare",
+    "Industry": "Healthcare IT",
+    "Website URL": "https://www.locatahealth.com/"
+  },
+  {
+    "YC link": "https://www.ycombinator.com/companies/verne-robotics",
+    "Name": "Verne Robotics",
+    "Location": "SF",
+    "Discription": "AI models that teach robots new skills in hours",
+    "Batch": "Summer 2025",
+    "Type": "Industrials",
+    "Industry": "Manufacturing and Robotics",
+    "Website URL": "https://vernerobotics.com/"
+  },
+  {
+    "YC link": "https://www.ycombinator.com/companies/april",
+    "Name": "April",
+    "Location": "SF",
+    "Discription": "Voice AI Executive Assistant",
+    "Batch": "Summer 2025",
+    "Type": "Consumer",
+    "Industry": "",
+    "Website URL": "https://tryapril.com/"
+  },
+  {
+    "YC link": "https://www.ycombinator.com/companies/liva-ai",
+    "Name": "Liva AI",
+    "Location": "SF",
+    "Discription": "Audio & Video Data",
+    "Batch": "Summer 2025",
+    "Type": "B2B",
+    "Industry": "",
+    "Website URL": "https://www.theliva.ai/"
+  },
+  {
+    "YC link": "https://www.ycombinator.com/companies/swerve",
+    "Name": "Swerve",
+    "Location": "SF",
+    "Discription": "Chat with AI Characters",
+    "Batch": "Winter 2025",
+    "Type": "Consumer",
+    "Industry": "",
+    "Website URL": "https://www.getswerve.com/"
+  },
+  {
+    "YC link": "https://www.ycombinator.com/companies/novaflow",
+    "Name": "Novaflow",
+    "Location": "SF",
+    "Discription": "The AI data analyst for biology labs",
+    "Batch": "Summer 2025",
+    "Type": "Healthcare",
+    "Industry": "",
+    "Website URL": "https://www.novaflowapp.com/"
+  },
+  {
+    "YC link": "https://www.ycombinator.com/companies/agenthub-2",
+    "Name": "AgentHub",
+    "Location": "",
+    "Discription": "The simulation and evaluation engine for AI agents",
+    "Batch": "Summer 2025",
+    "Type": "B2B",
+    "Industry": "",
+    "Website URL": "https://www.agenthublabs.com/"
+  },
+  {
+    "YC link": "https://www.ycombinator.com/companies/imprezia",
+    "Name": "Imprezia",
+    "Location": "",
+    "Discription": "The World's First AI Ad Network.",
+    "Batch": "Summer 2025",
+    "Type": "B2B",
+    "Industry": "Infrastructure",
+    "Website URL": "https://imprezia.ai/"
+  },
+  {
+    "YC link": "https://www.ycombinator.com/companies/stockline",
+    "Name": "Stockline",
+    "Location": "SF",
+    "Discription": "AI-native ERP for food wholesalers",
+    "Batch": "Summer 2025",
+    "Type": "B2B",
+    "Industry": "",
+    "Website URL": "https://stockline.ai/"
+  },
+  {
+    "YC link": "https://www.ycombinator.com/companies/traceroot-ai",
+    "Name": "TraceRoot.AI",
+    "Location": "",
+    "Discription": "Open source AI agents auto-fix your production bugs",
+    "Batch": "Summer 2025",
+    "Type": "B2B",
+    "Industry": "Engineering, Product and Design",
+    "Website URL": "https://traceroot.ai/"
+  },
+  {
+    "YC link": "https://www.ycombinator.com/companies/mimos",
+    "Name": "Mimos",
+    "Location": "",
+    "Discription": "Helping companies rank in AI search",
+    "Batch": "Summer 2025",
+    "Type": "B2B",
+    "Industry": "",
+    "Website URL": "https://www.trymimos.com/"
+  },
+  {
+    "YC link": "https://www.ycombinator.com/companies/ghosteye",
+    "Name": "GhostEye",
+    "Location": "NYC",
+    "Discription": "Vulnerability Management for Human Risk",
+    "Batch": "Summer 2025",
+    "Type": "B2B",
+    "Industry": "Security",
+    "Website URL": "https://ghosteye.ai/"
+  },
+  {
+    "YC link": "https://www.ycombinator.com/companies/truthsystems",
+    "Name": "truthsystems",
+    "Location": "SF",
+    "Discription": "Automatically blocking risky behavior with real-time governance agents",
+    "Batch": "Summer 2025",
+    "Type": "B2B",
+    "Industry": "Infrastructure",
+    "Website URL": "https://www.truthsystems.ai/"
+  },
+  {
+    "YC link": "https://www.ycombinator.com/companies/kernel",
+    "Name": "Kernel",
+    "Location": "SF",
+    "Discription": "Crazy fast, open source infra for AI agents to use the Internet",
+    "Batch": "Summer 2025",
+    "Type": "B2B",
+    "Industry": "Infrastructure",
+    "Website URL": "https://www.kernel.sh/"
+  },
+  {
+    "YC link": "https://www.ycombinator.com/companies/monarcha",
+    "Name": "Monarcha",
+    "Location": "SF",
+    "Discription": "An expert for your spatial data",
+    "Batch": "Summer 2025",
+    "Type": "B2B",
+    "Industry": "",
+    "Website URL": "https://monarcha.ai/"
+  },
+  {
+    "YC link": "https://www.ycombinator.com/companies/lanesurf",
+    "Name": "Lanesurf",
+    "Location": "SF",
+    "Discription": "Voice AI for booking freight",
+    "Batch": "Summer 2025",
+    "Type": "B2B",
+    "Industry": "",
+    "Website URL": "https://www.lanesurf.com/"
+  },
+  {
+    "YC link": "https://www.ycombinator.com/companies/outrove",
+    "Name": "Outrove",
+    "Location": "SF",
+    "Discription": "Ultra-realistic AI Recruiter",
+    "Batch": "Summer 2025",
+    "Type": "B2B",
+    "Industry": "Recruiting and Talent",
+    "Website URL": "https://www.outrove.ai/"
+  },
+  {
+    "YC link": "https://www.ycombinator.com/companies/golpo",
+    "Name": "Golpo",
+    "Location": "SF",
+    "Discription": "Most Powerful AI Video Gen Model for Explainer Videos From Documents",
+    "Batch": "Summer 2025",
+    "Type": "B2B",
+    "Industry": "Productivity",
+    "Website URL": "https://video.golpoai.com/"
+  },
+  {
+    "YC link": "https://www.ycombinator.com/companies/certus-ai",
+    "Name": "Certus AI",
+    "Location": "SF",
+    "Discription": "Replacing the restaurant phone line with Voice AI",
+    "Batch": "Summer 2025",
+    "Type": "B2B",
+    "Industry": "",
+    "Website URL": "https://www.certus-ai.com/"
+  },
+  {
+    "YC link": "https://www.ycombinator.com/companies/vibeflow",
+    "Name": "VibeFlow",
+    "Location": "",
+    "Discription": "Lovable, n8n and a database all in one platform",
+    "Batch": "Summer 2025",
+    "Type": "B2B",
+    "Industry": "",
+    "Website URL": "https://vibeflow.ai/"
+  },
+  {
+    "YC link": "https://www.ycombinator.com/companies/deepaware-ai",
+    "Name": "DeepAware AI",
+    "Location": "SF",
+    "Discription": "Help AI data centers unlock more compute and become more efficient",
+    "Batch": "Summer 2025",
+    "Type": "B2B",
+    "Industry": "Infrastructure",
+    "Website URL": "https://deepawareai.com/"
+  },
+  {
+    "YC link": "https://www.ycombinator.com/companies/b12-labs",
+    "Name": "b12 Labs",
+    "Location": "SF",
+    "Discription": "Chemical Copilot for Pharma and Biotech",
+    "Batch": "Summer 2025",
+    "Type": "Healthcare",
+    "Industry": "Drug Discovery and Delivery",
+    "Website URL": "https://b12-labs.com/"
+  },
+  {
+    "YC link": "https://www.ycombinator.com/companies/comena",
+    "Name": "Comena",
+    "Location": "",
+    "Discription": "AI agents for distributors and manufacturers to automate order entry.",
+    "Batch": "Summer 2025",
+    "Type": "B2B",
+    "Industry": "Supply Chain and Logistics",
+    "Website URL": "https://comena.ai/"
+  },
+  {
+    "YC link": "https://www.ycombinator.com/companies/manufact",
+    "Name": "Manufact (formerly mcp-use)",
+    "Location": "",
+    "Discription": "Open source SDK & cloud infrastructure for MCP Servers & ChatGPT Apps",
+    "Batch": "Summer 2025",
+    "Type": "B2B",
+    "Industry": "Infrastructure",
+    "Website URL": "https://manufact.com/"
+  },
+  {
+    "YC link": "https://www.ycombinator.com/companies/tryjanet",
+    "Name": "Janet AI",
+    "Location": "SF",
+    "Discription": "The AI-Native Jira",
+    "Batch": "Summer 2025",
+    "Type": "B2B",
+    "Industry": "",
+    "Website URL": "https://janet.ai/"
+  },
+  {
+    "YC link": "https://www.ycombinator.com/companies/pangolin",
+    "Name": "Pangolin",
+    "Location": "SF",
+    "Discription": "Identity-aware VPN and proxy for remote access to anything, anywhere.",
+    "Batch": "Summer 2025",
+    "Type": "B2B",
+    "Industry": "Infrastructure",
+    "Website URL": "https://pangolin.net/"
+  },
+  {
+    "YC link": "https://www.ycombinator.com/companies/socratix-ai",
+    "Name": "Socratix AI",
+    "Location": "",
+    "Discription": "AI coworkers for fraud and risk teams.",
+    "Batch": "Summer 2025",
+    "Type": "B2B",
+    "Industry": "Operations",
+    "Website URL": "https://getsocratix.ai/"
+  },
+  {
+    "YC link": "https://www.ycombinator.com/companies/modelence",
+    "Name": "Modelence",
+    "Location": "SF",
+    "Discription": "The full-stack platform for agentic development",
+    "Batch": "Summer 2025",
+    "Type": "B2B",
+    "Industry": "Infrastructure",
+    "Website URL": "https://modelence.com/"
+  },
+  {
+    "YC link": "https://www.ycombinator.com/companies/okibi",
+    "Name": "Okibi",
+    "Location": "SF",
+    "Discription": "Build AI coworkers using natural language, it's Lovable for agents",
+    "Batch": "Summer 2025",
+    "Type": "B2B",
+    "Industry": "",
+    "Website URL": "https://okibi.ai/"
+  },
+  {
+    "YC link": "https://www.ycombinator.com/companies/sigmanticai",
+    "Name": "SigmanticAI",
+    "Location": "Dublin, CA, USA",
+    "Discription": "The Cursor for Chip Design - Delivering Silicon-Ready Chip Designs�",
+    "Batch": "Summer 2025",
+    "Type": "B2B",
+    "Industry": "Engineering, Product and Design",
+    "Website URL": "https://www.sigmanticai.com/"
+  },
+  {
+    "YC link": "https://www.ycombinator.com/companies/f4",
+    "Name": "F4",
+    "Location": "SF",
+    "Discription": "Automating compliance checks for engineering drawings",
+    "Batch": "Summer 2025",
+    "Type": "Industrials",
+    "Industry": "",
+    "Website URL": "https://f4.dev/"
+  },
+  {
+    "YC link": "https://www.ycombinator.com/companies/synthetic-society",
+    "Name": "Synthetic Society",
+    "Location": "SF",
+    "Discription": "Synthetic Users to Simulate Real Users",
+    "Batch": "Summer 2025",
+    "Type": "B2B",
+    "Industry": "Engineering, Product and Design",
+    "Website URL": "https://syntheticsociety.ai/"
+  },
+  {
+    "YC link": "https://www.ycombinator.com/companies/gitdot",
+    "Name": "gitdot",
+    "Location": "",
+    "Discription": "A better GItHub",
+    "Batch": "Summer 2025",
+    "Type": "B2B",
+    "Industry": "Productivity",
+    "Website URL": "https://www.gitdot.io/"
+  },
+  {
+    "YC link": "https://www.ycombinator.com/companies/tidy",
+    "Name": "Tidy",
+    "Location": "SF",
+    "Discription": "Does anything you can imagine with a text",
+    "Batch": "Summer 2025",
+    "Type": "Consumer",
+    "Industry": "",
+    "Website URL": "https://withtidy.com/"
+  },
+  {
+    "YC link": "https://www.ycombinator.com/companies/parachute",
+    "Name": "Parachute",
+    "Location": "",
+    "Discription": "Infrastructure for hospitals to monitor and deploy clinical AI",
+    "Batch": "Summer 2025",
+    "Type": "Healthcare",
+    "Industry": "Healthcare IT",
+    "Website URL": "https://parachute-ai.com/"
+  },
+  {
+    "YC link": "https://www.ycombinator.com/companies/notte",
+    "Name": "Notte",
+    "Location": "SF",
+    "Discription": "Reliable Web Agents for Enterprise",
+    "Batch": "Summer 2025",
+    "Type": "B2B",
+    "Industry": "",
+    "Website URL": "https://www.notte.cc/"
+  },
+  {
+    "YC link": "https://www.ycombinator.com/companies/acrely",
+    "Name": "Acrely",
+    "Location": "",
+    "Discription": "Enterprise Voice Agents",
+    "Batch": "Summer 2025",
+    "Type": "B2B",
+    "Industry": "",
+    "Website URL": "https://www.acrely.ai/"
+  },
+  {
+    "YC link": "https://www.ycombinator.com/companies/alter",
+    "Name": "Alter",
+    "Location": "NYC",
+    "Discription": "Secure access control and authorization platform for agent workflows",
+    "Batch": "Summer 2025",
+    "Type": "B2B",
+    "Industry": "Security",
+    "Website URL": "https://alterai.dev/"
+  },
+  {
+    "YC link": "https://www.ycombinator.com/companies/tectoai",
+    "Name": "TectoAI",
+    "Location": "SF",
+    "Discription": "A Platform for AI Governance",
+    "Batch": "Summer 2025",
+    "Type": "B2B",
+    "Industry": "",
+    "Website URL": "https://www.tecto.ai/"
+  },
+  {
+    "YC link": "https://www.ycombinator.com/companies/convexia",
+    "Name": "Convexia",
+    "Location": "",
+    "Discription": "The world's first AI-maximalist pharma company",
+    "Batch": "Summer 2025",
+    "Type": "Healthcare",
+    "Industry": "Drug Discovery and Delivery",
+    "Website URL": "https://convexia.bio/"
+  },
+  {
+    "YC link": "https://www.ycombinator.com/companies/luminal",
+    "Name": "Luminal",
+    "Location": "",
+    "Discription": "Making AI run fast on any hardware.",
+    "Batch": "Summer 2025",
+    "Type": "B2B",
+    "Industry": "Infrastructure",
+    "Website URL": "https://luminal.com/"
+  },
+  {
+    "YC link": "https://www.ycombinator.com/companies/goriff",
+    "Name": "GoRiff",
+    "Location": "SF",
+    "Discription": "Cursor for music production",
+    "Batch": "Summer 2025",
+    "Type": "Consumer",
+    "Industry": "",
+    "Website URL": "https://goriff.com/"
+  },
+  {
+    "YC link": "https://www.ycombinator.com/companies/sira",
+    "Name": "Sira",
+    "Location": "",
+    "Discription": "AI Native Rippling for Deskless Workers",
+    "Batch": "Summer 2025",
+    "Type": "B2B",
+    "Industry": "Human Resources",
+    "Website URL": "https://sira.team/"
+  },
+  {
+    "YC link": "https://www.ycombinator.com/companies/embedder",
+    "Name": "Embedder",
+    "Location": "SF",
+    "Discription": "Cursor for Firmware",
+    "Batch": "Summer 2025",
+    "Type": "B2B",
+    "Industry": "Engineering, Product and Design",
+    "Website URL": "https://www.embedder.com/"
+  },
+  {
+    "YC link": "https://www.ycombinator.com/companies/nixo",
+    "Name": "Nixo",
+    "Location": "",
+    "Discription": "The first ops platform for forward deployed engineers",
+    "Batch": "Summer 2025",
+    "Type": "B2B",
+    "Industry": "",
+    "Website URL": "https://withnixo.com/"
+  },
+  {
+    "YC link": "https://www.ycombinator.com/companies/cactus",
+    "Name": "Cactus",
+    "Location": "SF",
+    "Discription": "Low-latency AI engine for mobile devices & wearables",
+    "Batch": "Summer 2025",
+    "Type": "B2B",
+    "Industry": "Engineering, Product and Design",
+    "Website URL": "https://www.cactuscompute.com/"
+  },
+  {
+    "YC link": "https://www.ycombinator.com/companies/bootloop",
+    "Name": "BootLoop",
+    "Location": "SF",
+    "Discription": "Firmware in minutes, not months - rigorously tested on real hardware",
+    "Batch": "Summer 2025",
+    "Type": "B2B",
+    "Industry": "Engineering, Product and Design",
+    "Website URL": "https://bootloop.ai/"
+  },
+  {
+    "YC link": "https://www.ycombinator.com/companies/channel3",
+    "Name": "Channel3",
+    "Location": "NYC",
+    "Discription": "Database of every product on the internet",
+    "Batch": "Summer 2025",
+    "Type": "B2B",
+    "Industry": "Retail",
+    "Website URL": "https://trychannel3.com/"
+  },
+  {
+    "YC link": "https://www.ycombinator.com/companies/interfere",
+    "Name": "Interfere",
+    "Location": "NYC",
+    "Discription": "Build software that never breaks",
+    "Batch": "Summer 2025",
+    "Type": "B2B",
+    "Industry": "Engineering, Product and Design",
+    "Website URL": "https://interfere.com/"
+  },
+  {
+    "YC link": "https://www.ycombinator.com/companies/pares-ai",
+    "Name": "PARES AI",
+    "Location": "SF",
+    "Discription": "Helping commercial real estate brokers find and close more deals.",
+    "Batch": "Summer 2025",
+    "Type": "Real Estate and Construction",
+    "Industry": "",
+    "Website URL": "https://www.pares.ai/"
+  },
+  {
+    "YC link": "https://www.ycombinator.com/companies/opennote",
+    "Name": "Opennote",
+    "Location": "SF",
+    "Discription": "The notebook that thinks with you.",
+    "Batch": "Summer 2025",
+    "Type": "Consumer",
+    "Industry": "",
+    "Website URL": "https://opennote.com/"
+  },
+  {
+    "YC link": "https://www.ycombinator.com/companies/dscribe-ai",
+    "Name": "dScribe AI",
+    "Location": "Olathe, KS, USA",
+    "Discription": "Computer vision for bulk inventory tracking",
+    "Batch": "Summer 2025",
+    "Type": "B2B",
+    "Industry": "Supply Chain and Logistics",
+    "Website URL": "https://dscribeai.com/"
+  },
+  {
+    "YC link": "https://www.ycombinator.com/companies/phases",
+    "Name": "Phases",
+    "Location": "SF",
+    "Discription": "Automating clinical trials, starting with patient recruitment.",
+    "Batch": "Summer 2025",
+    "Type": "Healthcare",
+    "Industry": "Healthcare IT",
+    "Website URL": "https://phases.ai/"
+  },
+  {
+    "YC link": "https://www.ycombinator.com/companies/stagewise",
+    "Name": "stagewise",
+    "Location": "",
+    "Discription": "The frontend coding agent for real codebases.",
+    "Batch": "Summer 2025",
+    "Type": "B2B",
+    "Industry": "Engineering, Product and Design",
+    "Website URL": "https://stagewise.io/"
+  },
+  {
+    "YC link": "https://www.ycombinator.com/companies/sagekit",
+    "Name": "Sagekit",
+    "Location": "SF",
+    "Discription": "AI workspace for research and writing",
+    "Batch": "Summer 2025",
+    "Type": "B2B",
+    "Industry": "Productivity",
+    "Website URL": "https://sagekit.com/"
+  },
+  {
+    "YC link": "https://www.ycombinator.com/companies/closera",
+    "Name": "Closera",
+    "Location": "SF",
+    "Discription": "AI employees for commercial real estate",
+    "Batch": "Summer 2025",
+    "Type": "B2B",
+    "Industry": "",
+    "Website URL": "https://closera.com/"
+  },
+  {
+    "YC link": "https://www.ycombinator.com/companies/kestroll",
+    "Name": "Kestroll",
+    "Location": "SF",
+    "Discription": "",
+    "Batch": "Summer 2025",
+    "Type": "B2B",
+    "Industry": "Operations",
+    "Website URL": "https://"
+  },
+  {
+    "YC link": "https://www.ycombinator.com/companies/humoniq",
+    "Name": "Humoniq",
+    "Location": "SF",
+    "Discription": "AI-Native BPO for travel & transport",
+    "Batch": "Summer 2025",
+    "Type": "B2B",
+    "Industry": "",
+    "Website URL": "https://humoniq.ai/"
+  },
+  {
+    "YC link": "https://www.ycombinator.com/companies/nox-metals",
+    "Name": "Nox Metals",
+    "Location": "Detroit, MI, USA",
+    "Discription": "Supplying America's Industrial Base",
+    "Batch": "Summer 2025",
+    "Type": "Industrials",
+    "Industry": "Manufacturing and Robotics",
+    "Website URL": "https://noxmetals.co/"
+  },
+  {
+    "YC link": "https://www.ycombinator.com/companies/orange-slice",
+    "Name": "Orange Slice",
+    "Location": "",
+    "Discription": "Agentic sales enrichment spreadsheet",
+    "Batch": "Summer 2025",
+    "Type": "B2B",
+    "Industry": "Sales",
+    "Website URL": "https://orangeslice.ai/"
+  },
+  {
+    "YC link": "https://www.ycombinator.com/companies/hera-video",
+    "Name": "Hera",
+    "Location": "",
+    "Discription": "AI Motion Designer",
+    "Batch": "Summer 2025",
+    "Type": "B2B",
+    "Industry": "Engineering, Product and Design",
+    "Website URL": "https://hera.video/"
+  },
+  {
+    "YC link": "https://www.ycombinator.com/companies/flai",
+    "Name": "Flai",
+    "Location": "",
+    "Discription": "We Bring Customers to Your Dealership",
+    "Batch": "Summer 2025",
+    "Type": "Industrials",
+    "Industry": "Automotive",
+    "Website URL": "https://www.useflai.com/"
+  },
+  {
+    "YC link": "https://www.ycombinator.com/companies/wafer",
+    "Name": "Wafer",
+    "Location": "SF",
+    "Discription": "AI that makes AI fast",
+    "Batch": "Summer 2025",
+    "Type": "B2B",
+    "Industry": "Engineering, Product and Design",
+    "Website URL": "https://www.wafer.ai/"
+  },
+  {
+    "YC link": "https://www.ycombinator.com/companies/cifrato",
+    "Name": "Cifrato",
+    "Location": "Bogot�, Bogota, Colombia",
+    "Discription": "AI Accountant for Accounting Firms",
+    "Batch": "Winter 2025",
+    "Type": "B2B",
+    "Industry": "Operations",
+    "Website URL": "https://cifrato.ai/"
+  },
+  {
+    "YC link": "https://www.ycombinator.com/companies/perspectives-health",
+    "Name": "Perspectives Health",
+    "Location": "Chicago, IL, USA",
+    "Discription": "Automating away admin for behavioral health clinics",
+    "Batch": "Summer 2025",
+    "Type": "Healthcare",
+    "Industry": "Healthcare IT",
+    "Website URL": "https://perspectiveshealth.ai/"
+  },
+  {
+    "YC link": "https://www.ycombinator.com/companies/autosana",
+    "Name": "Autosana",
+    "Location": "",
+    "Discription": "AI Agents for Mobile & Web QA",
+    "Batch": "Summer 2025",
+    "Type": "B2B",
+    "Industry": "Engineering, Product and Design",
+    "Website URL": "https://autosana.ai/"
+  },
+  {
+    "YC link": "https://www.ycombinator.com/companies/nozomio",
+    "Name": "Nozomio",
+    "Location": "",
+    "Discription": "Context augmentation for agents",
+    "Batch": "Summer 2025",
+    "Type": "B2B",
+    "Industry": "Engineering, Product and Design",
+    "Website URL": "https://www.nozomio.com/"
+  },
+  {
+    "YC link": "https://www.ycombinator.com/companies/costream",
+    "Name": "Costream",
+    "Location": "SF",
+    "Discription": "Indexing human dialogue through digital products",
+    "Batch": "Summer 2025",
+    "Type": "Consumer",
+    "Industry": "",
+    "Website URL": "https://www.costream.ai/"
+  },
+  {
+    "YC link": "https://www.ycombinator.com/companies/finto-de",
+    "Name": "Finto",
+    "Location": "Munich, BY, Germany",
+    "Discription": "AI accounting for enterprise finance teams",
+    "Batch": "Summer 2025",
+    "Type": "B2B",
+    "Industry": "Finance and Accounting",
+    "Website URL": "https://www.gofinto.com/"
+  },
+  {
+    "YC link": "https://www.ycombinator.com/companies/careswift",
+    "Name": "CareSwift",
+    "Location": "NYC",
+    "Discription": "AI scribe for Ambulance Reports",
+    "Batch": "Summer 2025",
+    "Type": "Healthcare",
+    "Industry": "",
+    "Website URL": "https://www.careswift.com/"
+  },
+  {
+    "YC link": "https://www.ycombinator.com/companies/agentmail",
+    "Name": "AgentMail",
+    "Location": "SF",
+    "Discription": "Email Inboxes for AI Agents",
+    "Batch": "Summer 2025",
+    "Type": "B2B",
+    "Industry": "Infrastructure",
+    "Website URL": "https://agentmail.to/"
+  },
+  {
+    "YC link": "https://www.ycombinator.com/companies/skope",
+    "Name": "Skope",
+    "Location": "SF",
+    "Discription": "AI Agents for SMB Law Firms.",
+    "Batch": "Summer 2025",
+    "Type": "B2B",
+    "Industry": "",
+    "Website URL": "https://useskope.com/"
+  },
+  {
+    "YC link": "https://www.ycombinator.com/companies/slashy",
+    "Name": "Slashy",
+    "Location": "SF",
+    "Discription": "Cursor for Email",
+    "Batch": "Summer 2025",
+    "Type": "B2B",
+    "Industry": "Productivity",
+    "Website URL": "https://www.slashy.com/"
+  },
+  {
+    "YC link": "https://www.ycombinator.com/companies/realroots",
+    "Name": "RealRoots",
+    "Location": "SF",
+    "Discription": "AI social app for women",
+    "Batch": "Summer 2025",
+    "Type": "Consumer",
+    "Industry": "Social",
+    "Website URL": "http://www.therealroots.com/"
+  },
+  {
+    "YC link": "https://www.ycombinator.com/companies/altur",
+    "Name": "Altur",
+    "Location": "Mexico City, CDMX, Mexico",
+    "Discription": "Voice AI Agents for Debt Collection",
+    "Batch": "Summer 2025",
+    "Type": "B2B",
+    "Industry": "",
+    "Website URL": "https://altur.io/"
+  },
+  {
+    "YC link": "https://www.ycombinator.com/companies/uplift-ai",
+    "Name": "Uplift AI",
+    "Location": "",
+    "Discription": "Foundational Voice Models for regional languages",
+    "Batch": "Summer 2025",
+    "Type": "B2B",
+    "Industry": "",
+    "Website URL": "https://upliftai.org/"
+  },
+  {
+    "YC link": "https://www.ycombinator.com/companies/magnetic",
+    "Name": "Magnetic",
+    "Location": "",
+    "Discription": "AI Tax Preparer for CPA firms",
+    "Batch": "Summer 2025",
+    "Type": "B2B",
+    "Industry": "Productivity",
+    "Website URL": "https://youtu.be/5--kYPgPLEM"
+  },
+  {
+    "YC link": "https://www.ycombinator.com/companies/pally",
+    "Name": "Pally",
+    "Location": "SF",
+    "Discription": "Intelligent Unified Inbox + Personal CRM",
+    "Batch": "Summer 2025",
+    "Type": "B2B",
+    "Industry": "Productivity",
+    "Website URL": "https://pally.com/"
+  },
+  {
+    "YC link": "https://www.ycombinator.com/companies/playably",
+    "Name": "PlayAbly",
+    "Location": "Remote",
+    "Discription": "We build games to help brands engage, convert, and retain customers",
+    "Batch": "Summer 2019",
+    "Type": "B2B",
+    "Industry": "",
+    "Website URL": "https://www.playably.ai/"
+  },
+  {
+    "YC link": "https://www.ycombinator.com/companies/vulcan-technologies",
+    "Name": "Vulcan Technologies",
+    "Location": "Austin, TX, USA",
+    "Discription": "AI regulatory drafting and compliance",
+    "Batch": "Summer 2025",
+    "Type": "B2B",
+    "Industry": "Legal",
+    "Website URL": "https://www.vulcan-tech.com/"
+  },
+  {
+    "YC link": "https://www.ycombinator.com/companies/halluminate",
+    "Name": "Halluminate",
+    "Location": "SF",
+    "Discription": "Data and RL environments to automate knowledge work",
+    "Batch": "Summer 2025",
+    "Type": "B2B",
+    "Industry": "",
+    "Website URL": "https://halluminate.ai/"
+  },
+  {
+    "YC link": "https://www.ycombinator.com/companies/reacher",
+    "Name": "Reacher",
+    "Location": "SF",
+    "Discription": "We automate creator marketing for the world's largest brands",
+    "Batch": "Summer 2025",
+    "Type": "B2B",
+    "Industry": "",
+    "Website URL": "https://reacherapp.com/"
+  },
+  {
+    "YC link": "https://www.ycombinator.com/companies/flywheel-ai",
+    "Name": "Flywheel AI",
+    "Location": "SF",
+    "Discription": "Waymo for excavators",
+    "Batch": "Summer 2025",
+    "Type": "Industrials",
+    "Industry": "Manufacturing and Robotics",
+    "Website URL": "https://useflywheel.ai/"
+  },
+  {
+    "YC link": "https://www.ycombinator.com/companies/perseus-defense",
+    "Name": "Perseus Defense",
+    "Location": "",
+    "Discription": "America's Golden Dome for Drones",
+    "Batch": "Summer 2025",
+    "Type": "Industrials",
+    "Industry": "Defense",
+    "Website URL": "https://perseusdefense.com/"
+  },
+  {
+    "YC link": "https://www.ycombinator.com/companies/idler",
+    "Name": "Idler",
+    "Location": "SF",
+    "Discription": "Reinforcement learning environments.",
+    "Batch": "Summer 2025",
+    "Type": "B2B",
+    "Industry": "Engineering, Product and Design",
+    "Website URL": "https://idler.ai/"
+  },
+  {
+    "YC link": "https://www.ycombinator.com/companies/proliferate",
+    "Name": "Proliferate",
+    "Location": "SF",
+    "Discription": "The autonomous engineering organization",
+    "Batch": "Summer 2025",
+    "Type": "B2B",
+    "Industry": "Engineering, Product and Design",
+    "Website URL": "https://proliferate.com/?utm_source=yc&utm_medium=referral&utm_campaign=profile"
+  },
+  {
+    "YC link": "https://www.ycombinator.com/companies/cyberdesk",
+    "Name": "Cyberdesk",
+    "Location": "SF",
+    "Discription": "Self learning computer use agent for developers",
+    "Batch": "Summer 2025",
+    "Type": "B2B",
+    "Industry": "Engineering, Product and Design",
+    "Website URL": "https://www.cyberdesk.io/"
+  },
+  {
+    "YC link": "https://www.ycombinator.com/companies/boost-robotics",
+    "Name": "Boost Robotics",
+    "Location": "Boston, MA, USA",
+    "Discription": "Robots for the inspection and maintenance of data centers",
+    "Batch": "Spring 2025",
+    "Type": "Industrials",
+    "Industry": "Manufacturing and Robotics",
+    "Website URL": "https://www.boostrobotics.ai/"
+  },
+  {
+    "YC link": "https://www.ycombinator.com/companies/powermatrix",
+    "Name": "PowerMatrix",
+    "Location": "Cambridge, England, United Kingdom",
+    "Discription": "Efficient and compact power supply for AI hardware",
+    "Batch": "Spring 2025",
+    "Type": "Industrials",
+    "Industry": "Energy",
+    "Website URL": "Not found"
+  },
+  {
+    "YC link": "https://www.ycombinator.com/companies/cleon",
+    "Name": "Cleon",
+    "Location": "NYC",
+    "Discription": "AI agents for hotels & resorts",
+    "Batch": "Spring 2025",
+    "Type": "B2B",
+    "Industry": "",
+    "Website URL": "https://getcleon.ai/"
+  },
+  {
+    "YC link": "https://www.ycombinator.com/companies/third-chair",
+    "Name": "Third Chair",
+    "Location": "SF",
+    "Discription": "Automating complex legal workflows with human lawyers in the loop.",
+    "Batch": "Spring 2025",
+    "Type": "B2B",
+    "Industry": "Legal",
+    "Website URL": "https://usethirdchair.com/"
+  },
+  {
+    "YC link": "https://www.ycombinator.com/companies/janus",
+    "Name": "Janus",
+    "Location": "SF",
+    "Discription": "Evaluate AI Agents with Simulation Environments",
+    "Batch": "Spring 2025",
+    "Type": "B2B",
+    "Industry": "Infrastructure",
+    "Website URL": "https://www.withjanus.com/"
+  },
+  {
+    "YC link": "https://www.ycombinator.com/companies/trapeze",
+    "Name": "Trapeze",
+    "Location": "",
+    "Discription": "AI-native Zocdoc",
+    "Batch": "Spring 2025",
+    "Type": "Healthcare",
+    "Industry": "Healthcare IT",
+    "Website URL": "https://www.trapezehealth.com/"
+  },
+  {
+    "YC link": "https://www.ycombinator.com/companies/kashikoi",
+    "Name": "Kashikoi",
+    "Location": "SF",
+    "Discription": "Simulation Engine for Benchmarking AI Products",
+    "Batch": "Spring 2025",
+    "Type": "B2B",
+    "Industry": "",
+    "Website URL": "https://www.getkashikoi.com/"
+  },
+  {
+    "YC link": "https://www.ycombinator.com/companies/nimbic-ai",
+    "Name": "Nimbic AI",
+    "Location": "",
+    "Discription": "Automatically write and update internal docs with every code commit.",
+    "Batch": "Spring 2025",
+    "Type": "B2B",
+    "Industry": "Engineering, Product and Design",
+    "Website URL": "https://nimbic-ai.com/"
+  },
+  {
+    "YC link": "https://www.ycombinator.com/companies/photonium",
+    "Name": "Photonium",
+    "Location": "",
+    "Discription": "AI-Powered Optical Consulting & Software",
+    "Batch": "Spring 2025",
+    "Type": "B2B",
+    "Industry": "Engineering, Product and Design",
+    "Website URL": "https://www.photoniumoptics.com/"
+  },
+  {
+    "YC link": "https://www.ycombinator.com/companies/neoncoral",
+    "Name": "neoncoral",
+    "Location": "",
+    "Discription": "?? AI consumer social",
+    "Batch": "Spring 2025",
+    "Type": "Consumer",
+    "Industry": "",
+    "Website URL": "http://neoncoral.inc/"
+  },
+  {
+    "YC link": "https://www.ycombinator.com/companies/voiceos",
+    "Name": "VoiceOS",
+    "Location": "SF",
+    "Discription": "The Siri for Productivity",
+    "Batch": "Spring 2025",
+    "Type": "Consumer",
+    "Industry": "",
+    "Website URL": "https://voiceos.com/"
+  },
+  {
+    "YC link": "https://www.ycombinator.com/companies/bloom-4",
+    "Name": "Bloom",
+    "Location": "",
+    "Discription": "Build and share mobile apps in seconds",
+    "Batch": "Spring 2025",
+    "Type": "B2B",
+    "Industry": "Engineering, Product and Design",
+    "Website URL": "https://bloom.diy/"
+  },
+  {
+    "YC link": "https://www.ycombinator.com/companies/bond",
+    "Name": "Bond",
+    "Location": "SF",
+    "Discription": "Your AI Chief of Staff",
+    "Batch": "Spring 2025",
+    "Type": "B2B",
+    "Industry": "Productivity",
+    "Website URL": "https://www.bondapp.io/"
+  },
+  {
+    "YC link": "https://www.ycombinator.com/companies/atlog",
+    "Name": "Atlog",
+    "Location": "NYC",
+    "Discription": "Voice AI That Won't Get You Sued",
+    "Batch": "Spring 2025",
+    "Type": "B2B",
+    "Industry": "Operations",
+    "Website URL": "https://atlog.ai/"
+  },
+  {
+    "YC link": "https://www.ycombinator.com/companies/beluga",
+    "Name": "Beluga",
+    "Location": "SF",
+    "Discription": "Influencer marketing that converts",
+    "Batch": "Spring 2025",
+    "Type": "B2B",
+    "Industry": "Marketing",
+    "Website URL": "https://www.trybeluga.ai/"
+  },
+  {
+    "YC link": "https://www.ycombinator.com/companies/chiron",
+    "Name": "Chiron",
+    "Location": "SF",
+    "Discription": "Grammarly for Math ??",
+    "Batch": "Spring 2025",
+    "Type": "Education",
+    "Industry": "",
+    "Website URL": "https://projectchiron.org/"
+  },
+  {
+    "YC link": "https://www.ycombinator.com/companies/helixdb",
+    "Name": "HelixDB",
+    "Location": "London, England, United Kingdom",
+    "Discription": "The fastest & most scalable graph-vector database on the market",
+    "Batch": "Spring 2025",
+    "Type": "B2B",
+    "Industry": "Engineering, Product and Design",
+    "Website URL": "https://helix-db.com/"
+  },
+  {
+    "YC link": "https://www.ycombinator.com/companies/probo",
+    "Name": "Probo",
+    "Location": "SF",
+    "Discription": "We help you get compliant while you focus on your business.",
+    "Batch": "Spring 2025",
+    "Type": "B2B",
+    "Industry": "Security",
+    "Website URL": "https://www.getprobo.com/"
+  },
+  {
+    "YC link": "https://www.ycombinator.com/companies/clarm",
+    "Name": "Clarm",
+    "Location": "SF",
+    "Discription": "Capture inbound revenue whilst you build",
+    "Batch": "Spring 2025",
+    "Type": "B2B",
+    "Industry": "Productivity",
+    "Website URL": "https://www.clarm.com/"
+  },
+  {
+    "YC link": "https://www.ycombinator.com/companies/stratify",
+    "Name": "stratify",
+    "Location": "SF",
+    "Discription": "AI agents that help you understand your customers' needs",
+    "Batch": "Spring 2025",
+    "Type": "B2B",
+    "Industry": "",
+    "Website URL": "https://www.trystratify.com/"
+  },
+  {
+    "YC link": "https://www.ycombinator.com/companies/besimple-ai",
+    "Name": "Besimple AI",
+    "Location": "Redwood City, CA, USA",
+    "Discription": "Voice data for AI",
+    "Batch": "Spring 2025",
+    "Type": "B2B",
+    "Industry": "",
+    "Website URL": "https://besimple.ai/"
+  },
+  {
+    "YC link": "https://www.ycombinator.com/companies/bramante-biologics",
+    "Name": "Bramante Biologics",
+    "Location": "Cambridge, MA, USA",
+    "Discription": "American drug manufacturing",
+    "Batch": "Spring 2025",
+    "Type": "Healthcare",
+    "Industry": "",
+    "Website URL": "https://www.bramantebio.com/"
+  },
+  {
+    "YC link": "https://www.ycombinator.com/companies/nomi",
+    "Name": "Nomi",
+    "Location": "SF",
+    "Discription": "Realtime Sales Copilot",
+    "Batch": "Spring 2025",
+    "Type": "B2B",
+    "Industry": "Sales",
+    "Website URL": "https://www.nomi.so/"
+  },
+  {
+    "YC link": "https://www.ycombinator.com/companies/clidey",
+    "Name": "Clidey",
+    "Location": "SF",
+    "Discription": "Model your organization. Run it in real time.",
+    "Batch": "Spring 2025",
+    "Type": "B2B",
+    "Industry": "",
+    "Website URL": "https://clidey.com/"
+  },
+  {
+    "YC link": "https://www.ycombinator.com/companies/ticket-wallet",
+    "Name": "Ticket Wallet",
+    "Location": "",
+    "Discription": "AI-optimized ticket resale",
+    "Batch": "Spring 2025",
+    "Type": "B2B",
+    "Industry": "",
+    "Website URL": "https://www.ticketwallet.com/"
+  },
+  {
+    "YC link": "https://www.ycombinator.com/companies/the-llm-data-company",
+    "Name": "The LLM Data Company",
+    "Location": "SF",
+    "Discription": "Frontier models for critical domains",
+    "Batch": "Spring 2025",
+    "Type": "B2B",
+    "Industry": "",
+    "Website URL": "https://www.llmdata.com/"
+  },
+  {
+    "YC link": "https://www.ycombinator.com/companies/tegore",
+    "Name": "Tegore",
+    "Location": "SF",
+    "Discription": "Your new AI-powered math tutor.",
+    "Batch": "Spring 2025",
+    "Type": "Education",
+    "Industry": "",
+    "Website URL": "https://tegore.ai/"
+  },
+  {
+    "YC link": "https://www.ycombinator.com/companies/lapel",
+    "Name": "Lapel",
+    "Location": "",
+    "Discription": "Scale personalized service to every customer.",
+    "Batch": "Spring 2025",
+    "Type": "B2B",
+    "Industry": "",
+    "Website URL": "https://lapel.com/"
+  },
+  {
+    "YC link": "https://www.ycombinator.com/companies/chestnut",
+    "Name": "Chestnut",
+    "Location": "SF",
+    "Discription": "The first AI mortgage lender",
+    "Batch": "Spring 2025",
+    "Type": "Fintech",
+    "Industry": "Credit and Lending",
+    "Website URL": "https://chestnutmortgage.com/"
+  },
+  {
+    "YC link": "https://www.ycombinator.com/companies/kanava-ai",
+    "Name": "Kanava AI",
+    "Location": "SF",
+    "Discription": "Your First AI Sales Hire for Wholesale Distributors",
+    "Batch": "Spring 2025",
+    "Type": "B2B",
+    "Industry": "Supply Chain and Logistics",
+    "Website URL": "https://kanava.ai/"
+  },
+  {
+    "YC link": "https://www.ycombinator.com/companies/casco",
+    "Name": "Casco",
+    "Location": "",
+    "Discription": "Autonomous security testing for web apps, APIs, cloud, and AI systems",
+    "Batch": "Spring 2025",
+    "Type": "B2B",
+    "Industry": "Security",
+    "Website URL": "https://casco.com/"
+  },
+  {
+    "YC link": "https://www.ycombinator.com/companies/theorem-2",
+    "Name": "Theorem",
+    "Location": "SF",
+    "Discription": "Program verification so even your systems engineers can vibecode",
+    "Batch": "Spring 2025",
+    "Type": "B2B",
+    "Industry": "Security",
+    "Website URL": "https://theorem.dev/"
+  },
+  {
+    "YC link": "https://www.ycombinator.com/companies/mbodi-ai",
+    "Name": "Mbodi AI",
+    "Location": "NYC",
+    "Discription": "Industrial Robots that Act Like Humans",
+    "Batch": "Spring 2025",
+    "Type": "Industrials",
+    "Industry": "Manufacturing and Robotics",
+    "Website URL": "https://www.mbodi.ai/"
+  },
+  {
+    "YC link": "https://www.ycombinator.com/companies/kaizen",
+    "Name": "Kaizen",
+    "Location": "",
+    "Discription": "Automate anything on the web.",
+    "Batch": "Spring 2025",
+    "Type": "B2B",
+    "Industry": "",
+    "Website URL": "https://kaizenautomation.com/"
+  },
+  {
+    "YC link": "https://www.ycombinator.com/companies/sieveai",
+    "Name": "sieve",
+    "Location": "NYC",
+    "Discription": "AI + human review to solve data cleaning - accessible via API or Excel",
+    "Batch": "Spring 2025",
+    "Type": "B2B",
+    "Industry": "Finance and Accounting",
+    "Website URL": "https://usesieve.com/"
+  },
+  {
+    "YC link": "https://www.ycombinator.com/companies/dolphin",
+    "Name": "Dolphin",
+    "Location": "NYC",
+    "Discription": "Dolphin is a startup in a box.",
+    "Batch": "Spring 2025",
+    "Type": "B2B",
+    "Industry": "Engineering, Product and Design",
+    "Website URL": "https://dolphinmade.com/"
+  },
+  {
+    "YC link": "https://www.ycombinator.com/companies/the-robot-learning-company",
+    "Name": "The Robot Learning Company",
+    "Location": "SF",
+    "Discription": "The infrastructure that robot intelligence is built and deployed on.",
+    "Batch": "Spring 2025",
+    "Type": "Industrials",
+    "Industry": "Manufacturing and Robotics",
+    "Website URL": "https://www.robot-learning.co/"
+  },
+  {
+    "YC link": "https://www.ycombinator.com/companies/sixtyfour",
+    "Name": "Sixtyfour",
+    "Location": "SF",
+    "Discription": "People Intelligence at Scale",
+    "Batch": "Spring 2025",
+    "Type": "B2B",
+    "Industry": "Operations",
+    "Website URL": "https://www.sixtyfour.ai/"
+  },
+  {
+    "YC link": "https://www.ycombinator.com/companies/relixir",
+    "Name": "Relixir",
+    "Location": "SF",
+    "Discription": "GEO-Native CMS",
+    "Batch": "Spring 2025",
+    "Type": "B2B",
+    "Industry": "",
+    "Website URL": "https://relixir.ai/"
+  },
+  {
+    "YC link": "https://www.ycombinator.com/companies/bitpatrol",
+    "Name": "BitPatrol",
+    "Location": "NYC",
+    "Discription": "AI-powered code security",
+    "Batch": "Spring 2025",
+    "Type": "B2B",
+    "Industry": "Security",
+    "Website URL": "https://www.bitpatrol.io/"
+  },
+  {
+    "YC link": "https://www.ycombinator.com/companies/godela",
+    "Name": "Godela",
+    "Location": "SF",
+    "Discription": "AI Physics Engine to replace simulations and prototypes",
+    "Batch": "Spring 2025",
+    "Type": "B2B",
+    "Industry": "Engineering, Product and Design",
+    "Website URL": "http://godela.ai/"
+  },
+  {
+    "YC link": "https://www.ycombinator.com/companies/starsling",
+    "Name": "StarSling",
+    "Location": "SF",
+    "Discription": "Cursor for DevOps",
+    "Batch": "Spring 2025",
+    "Type": "B2B",
+    "Industry": "Engineering, Product and Design",
+    "Website URL": "https://www.starsling.dev/"
+  },
+  {
+    "YC link": "https://www.ycombinator.com/companies/kirana-ai",
+    "Name": "Kirana AI",
+    "Location": "NYC",
+    "Discription": "AI manager for physical stores",
+    "Batch": "Spring 2025",
+    "Type": "B2B",
+    "Industry": "Retail",
+    "Website URL": "https://www.kirana-ai.com/"
+  },
+  {
+    "YC link": "https://www.ycombinator.com/companies/hemut",
+    "Name": "Hemut",
+    "Location": "SF",
+    "Discription": "AI-powered operating system for trucking companies.",
+    "Batch": "Spring 2025",
+    "Type": "B2B",
+    "Industry": "Supply Chain and Logistics",
+    "Website URL": "https://www.hemut.com/"
+  },
+  {
+    "YC link": "https://www.ycombinator.com/companies/qualgent",
+    "Name": "QualGent",
+    "Location": "SF",
+    "Discription": "AI Mobile App Quality Assurance Tester",
+    "Batch": "Spring 2025",
+    "Type": "B2B",
+    "Industry": "",
+    "Website URL": "https://qualgent.link/qualgent"
+  },
+  {
+    "YC link": "https://www.ycombinator.com/companies/propolis",
+    "Name": "Propolis",
+    "Location": "",
+    "Discription": "Hands off QA via intelligent browser agents.",
+    "Batch": "Spring 2025",
+    "Type": "B2B",
+    "Industry": "",
+    "Website URL": "https://propolis.tech/"
+  },
+  {
+    "YC link": "https://www.ycombinator.com/companies/valuemate",
+    "Name": "ValueMate",
+    "Location": "",
+    "Discription": "Valuemate automates real estate appraisals with AI",
+    "Batch": "Spring 2025",
+    "Type": "B2B",
+    "Industry": "",
+    "Website URL": "https://valuemate.ai/"
+  },
+  {
+    "YC link": "https://www.ycombinator.com/companies/mindfort",
+    "Name": "MindFort",
+    "Location": "",
+    "Discription": "Autonomous Security Agents",
+    "Batch": "Spring 2025",
+    "Type": "B2B",
+    "Industry": "Security",
+    "Website URL": "https://www.mindfort.ai/"
+  },
+  {
+    "YC link": "https://www.ycombinator.com/companies/kaelio",
+    "Name": "Kaelio",
+    "Location": "",
+    "Discription": "The intelligence layer for Customer Success",
+    "Batch": "Spring 2025",
+    "Type": "B2B",
+    "Industry": "",
+    "Website URL": "https://kaelio.com/"
+  },
+  {
+    "YC link": "https://www.ycombinator.com/companies/cohesive",
+    "Name": "Cohesive",
+    "Location": "NYC",
+    "Discription": "The agentic CRM for blue-collar services",
+    "Batch": "Spring 2025",
+    "Type": "B2B",
+    "Industry": "",
+    "Website URL": "https://getcohesiveai.com/"
+  },
+  {
+    "YC link": "https://www.ycombinator.com/companies/acolite",
+    "Name": "Acolite",
+    "Location": "NYC",
+    "Discription": "AI Teammates for Insurance Agencies",
+    "Batch": "Spring 2025",
+    "Type": "Fintech",
+    "Industry": "Insurance",
+    "Website URL": "https://acolite.ai/"
+  },
+  {
+    "YC link": "https://www.ycombinator.com/companies/moby-analytics",
+    "Name": "Moby Analytics",
+    "Location": "Paris, �le-de-France, France",
+    "Discription": "AI financial auditors",
+    "Batch": "Spring 2025",
+    "Type": "B2B",
+    "Industry": "Finance and Accounting",
+    "Website URL": "https://www.mobyanalytics.com/"
+  },
+  {
+    "YC link": "https://www.ycombinator.com/companies/chrt",
+    "Name": "chrt",
+    "Location": "",
+    "Discription": "chrt is a logistics platform for time-critical shipping",
+    "Batch": "Spring 2025",
+    "Type": "B2B",
+    "Industry": "Supply Chain and Logistics",
+    "Website URL": "https://chrt.com/"
+  },
+  {
+    "YC link": "https://www.ycombinator.com/companies/mesmer",
+    "Name": "Mesmer",
+    "Location": "SF",
+    "Discription": "Cursor for CTOs",
+    "Batch": "Spring 2025",
+    "Type": "B2B",
+    "Industry": "Engineering, Product and Design",
+    "Website URL": "https://mesmer.co/"
+  },
+  {
+    "YC link": "https://www.ycombinator.com/companies/vesence",
+    "Name": "Vesence",
+    "Location": "",
+    "Discription": "Cursor for Lawyers. Agentic AI in MS Office.",
+    "Batch": "Spring 2025",
+    "Type": "B2B",
+    "Industry": "Legal",
+    "Website URL": "https://vesence.com/"
+  }
+]
